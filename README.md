@@ -1,8 +1,8 @@
 # KGT Hallucination Evaluation
 
 Code, questions, gold-answer snapshots, raw model responses and scoring results for the study
-**"Effects of a Public-Data Verification Tool on the Hallucination of Local Large Language Models for Korea-Specific Factual Questions"**
-(한국 고유 사실 질의에서 공공데이터 검증 도구가 로컬 대규모 언어모델의 환각에 미치는 효과).
+**"Selective Abstention of Local Large Language Models and the Effect of a Public-Data Verification Tool on Korea-Specific Factual Questions"**
+(한국 고유 사실 질의에서 로컬 대규모 언어모델의 선택적 기권과 공공데이터 검증 도구의 효과).
 
 The study compares three locally run open-weight models with and without the
 Korea Ground-Truth (KGT) verification tools on 200 Korea-specific factual questions
@@ -21,7 +21,7 @@ Korea Ground-Truth (KGT) verification tools on 200 Korea-specific factual questi
 | `PREREG.md` | 사전 등록 문서와 수정 기록(실험 전·중·후 변경 사항 전부) |
 | `PREREG.sha256`, `PREREG_v1_20261014_1131.sha256` | 고정 시점의 파일 해시(수정 후 / 수정 전) |
 | `RUN.md` | 실행 순서 |
-| `code/` | 문항 생성(`build_items.py`), 실행(`run_experiment.py`), 채점(`score.py`), 분석(`analyze.py`), 사후·민감도 분석(`analyze_extra.py`) |
+| `code/` | 문항 생성(`build_items.py`), 실행(`run_experiment.py`), 채점(`score.py`), 분석(`analyze.py`), 사후·민감도 분석(`analyze_extra.py`), 기권 분석(`analyze_abstention.py`) |
 | `seeds/` | 영역별 시드 목록 |
 | `data/items.jsonl` | 200문항과 정답 |
 | `data/snapshots/` | 정답을 만들 때 받은 공식 API 원본 응답 |
@@ -39,7 +39,7 @@ Korea Ground-Truth (KGT) verification tools on 200 Korea-specific factual questi
 채점과 분석은 이 저장소의 파일만으로 다시 할 수 있다.
 
 ```bash
-python3 code/score.py && python3 code/analyze.py && python3 code/analyze_extra.py
+python3 code/score.py && python3 code/analyze.py && python3 code/analyze_extra.py && python3 code/analyze_abstention.py
 ```
 
 ## 비공개 처리
