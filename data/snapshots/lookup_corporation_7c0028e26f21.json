@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00443232"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00443232",
+      "corp_name": "주식회사다움종합건설",
+      "corp_name_en": null,
+      "stock_name": "다움종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "서길현",
+      "corporate_registration_number": "1101111950876",
+      "business_registration_number": "1148198194",
+      "address": "서울특별시 서초구 방배동 811-11",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-599-0907",
+      "fax": "02-599-0830",
+      "industry_code": "4111",
+      "established_date": "20000428",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7183,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:28.560Z",
+      "usage_event_id": "bdc2c0df-fe11-433a-9578-7359ef0588a4"
+    }
+  }
+}

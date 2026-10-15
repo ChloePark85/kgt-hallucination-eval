@@ -1,0 +1,126 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "형법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 7,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+          "law_id": "000912",
+          "law_type": "법률",
+          "ministry": "국방부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=213837&type=HTML&mobileYn=&efYd=20200204",
+          "is_current": true,
+          "short_name": "군형집행법",
+          "law_serial_no": "213837",
+          "revision_type": "일부개정",
+          "promulgation_no": "16927",
+          "enforcement_date": "20200204",
+          "promulgation_date": "20200204"
+        },
+        {
+          "name": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행령",
+          "law_id": "003047",
+          "law_type": "대통령령",
+          "ministry": "국방부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=243615&type=HTML&mobileYn=&efYd=20220701",
+          "is_current": true,
+          "short_name": "군형집행법 시행령",
+          "law_serial_no": "243615",
+          "revision_type": "타법개정",
+          "promulgation_no": "32737",
+          "enforcement_date": "20220701",
+          "promulgation_date": "20220630"
+        },
+        {
+          "name": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙",
+          "law_id": "006845",
+          "law_type": "국방부령",
+          "ministry": "국방부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=214087&type=HTML&mobileYn=&efYd=20200203",
+          "is_current": true,
+          "short_name": "군형집행법 시행규칙",
+          "law_serial_no": "214087",
+          "revision_type": "타법개정",
+          "promulgation_no": "01010",
+          "enforcement_date": "20200203",
+          "promulgation_date": "20200203"
+        },
+        {
+          "name": "군형법",
+          "law_id": "001624",
+          "law_type": "법률",
+          "ministry": "국방부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=235555&type=HTML&mobileYn=&efYd=20220701",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "235555",
+          "revision_type": "타법개정",
+          "promulgation_no": "18465",
+          "enforcement_date": "20220701",
+          "promulgation_date": "20210924"
+        },
+        {
+          "name": "형법",
+          "law_id": "001692",
+          "law_type": "법률",
+          "ministry": "법무부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290185&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290185",
+          "revision_type": "일부개정",
+          "promulgation_no": "22007",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "형의 집행 및 수용자의 처우에 관한 법률",
+          "law_id": "001668",
+          "law_type": "법률",
+          "ministry": "법무부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290191&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": "형집행법",
+          "law_serial_no": "290191",
+          "revision_type": "일부개정",
+          "promulgation_no": "22010",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
+          "law_id": "005630",
+          "law_type": "대통령령",
+          "ministry": "법무부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290535&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": "형집행법 시행령",
+          "law_serial_no": "290535",
+          "revision_type": "타법개정",
+          "promulgation_no": "36728",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2477,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:57.257Z",
+      "usage_event_id": "2dfc1a6e-f91d-4d8d-bf6f-4ab23bbbb5dc"
+    }
+  }
+}

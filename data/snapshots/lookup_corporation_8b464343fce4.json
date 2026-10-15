@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00387264"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00387264",
+      "corp_name": "엘지화학제일차유동화전문유한회사",
+      "corp_name_en": "LG Chem,Ltd.First Asset Securitization Specialty Co.",
+      "stock_name": "엘지화학제일차유동화전문유한회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김윤미",
+      "corporate_registration_number": "1101140035780",
+      "business_registration_number": "1078607986",
+      "address": "서울특별시 영등포구 여의도동 36-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-768-7458",
+      "fax": null,
+      "industry_code": "64999",
+      "established_date": "20011106",
+      "fiscal_year_end_month": "09"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7291,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:10.044Z",
+      "usage_event_id": "69fc9f8f-0974-44eb-a543-2d532139a887"
+    }
+  }
+}

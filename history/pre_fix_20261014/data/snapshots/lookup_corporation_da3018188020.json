@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00221791"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00221791",
+      "corp_name": "대동물산 주식회사",
+      "corp_name_en": null,
+      "stock_name": "대동물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "안태환",
+      "corporate_registration_number": "1345110010344",
+      "business_registration_number": "1358108535",
+      "address": "경기도 용인시 이동면 화산리 635-1",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "0335-321-6500",
+      "fax": "0335-336-8137",
+      "industry_code": "52102",
+      "established_date": "19920501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7555,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:02.271Z",
+      "usage_event_id": "05b28f95-7c0a-4db0-a19a-c703e7ad8bdf"
+    }
+  }
+}

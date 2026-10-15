@@ -1,0 +1,54 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "한화오션",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00111704",
+          "corp_name": "한화오션",
+          "stock_code": "042660",
+          "listed": true,
+          "modified_date": "20260306"
+        },
+        {
+          "corp_code": "00674832",
+          "corp_name": "한화오션에코텍",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20230613"
+        },
+        {
+          "corp_code": "01205259",
+          "corp_name": "한화오션디지털",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20230607"
+        },
+        {
+          "corp_code": "01622599",
+          "corp_name": "한화오션엔지니어링",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20250122"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7972,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:07:00.447Z",
+      "usage_event_id": "8b2e16cd-6a77-4785-922f-32cde0ddacb2"
+    }
+  }
+}

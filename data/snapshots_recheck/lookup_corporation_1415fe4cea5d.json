@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00635134"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-726-8112",
+      "phone": "726-8114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 중구  동호로 330",
+      "ceo_name": "손경식,윤석환(각자 대표이사)",
+      "homepage": "www.cj.co.kr",
+      "corp_code": "00635134",
+      "corp_name": "CJ제일제당(주)",
+      "market_raw": "Y",
+      "stock_code": "097950",
+      "stock_name": "CJ제일제당",
+      "corp_name_en": "CJ CHEILJEDANG CORP.",
+      "industry_code": "108",
+      "established_date": "20070904",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1048609535",
+      "corporate_registration_number": "1101113748253"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2666,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:39.599Z",
+      "usage_event_id": "a00c1c56-877c-46f9-9062-bc5f7a487e5c"
+    }
+  }
+}

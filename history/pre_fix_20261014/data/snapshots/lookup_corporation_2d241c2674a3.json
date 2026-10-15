@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00448839"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00448839",
+      "corp_name": "(주)택산개발",
+      "corp_name_en": "TAEK SAN DEVELOPMENT CO.LTD.",
+      "stock_name": "택산개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "백  봉",
+      "corporate_registration_number": "1201110140525",
+      "business_registration_number": "1378133480",
+      "address": "인천광역시 남동구 구월1동 1135번지 남문빌딩 2동 3층 3호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-431-5961-2",
+      "fax": "032-431-5963",
+      "industry_code": "41112",
+      "established_date": "20021226",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7157,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:48.728Z",
+      "usage_event_id": "20152d28-1120-4a56-bb76-902fc7149a28"
+    }
+  }
+}

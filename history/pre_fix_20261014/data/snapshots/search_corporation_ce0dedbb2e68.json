@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "섬유",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00135999",
+          "corp_name": "신라섬유",
+          "stock_code": "001000",
+          "listed": true,
+          "modified_date": "20240502"
+        },
+        {
+          "corp_code": "00442206",
+          "corp_name": "덕성섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00450250",
+          "corp_name": "한경섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00174022",
+          "corp_name": "유창섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00209230",
+          "corp_name": "영도섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00112518",
+          "corp_name": "대준섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00184515",
+          "corp_name": "유림섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00134820",
+          "corp_name": "세화섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00202307",
+          "corp_name": "유신섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00202325",
+          "corp_name": "성창섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00138109",
+          "corp_name": "쌍마섬유공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00222930",
+          "corp_name": "동선섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00304377",
+          "corp_name": "평화섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00191904",
+          "corp_name": "고려섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00216319",
+          "corp_name": "우일섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00221180",
+          "corp_name": "삼양섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00227528",
+          "corp_name": "극동섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00191320",
+          "corp_name": "동우섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00232098",
+          "corp_name": "제일섬유공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00363972",
+          "corp_name": "덕영섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00201511",
+          "corp_name": "태광섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00188919",
+          "corp_name": "화성섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00208532",
+          "corp_name": "청화섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00209708",
+          "corp_name": "남계섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00234087",
+          "corp_name": "남광섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00178453",
+          "corp_name": "동도섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00208648",
+          "corp_name": "선일섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00547006",
+          "corp_name": "협성섬유",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00580171",
+          "corp_name": "오성섬유공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00101318",
+          "corp_name": "경남섬유공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7871,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:13.840Z",
+      "usage_event_id": "47b01292-a012-4e28-b2bb-9c4c363008bb"
+    }
+  }
+}

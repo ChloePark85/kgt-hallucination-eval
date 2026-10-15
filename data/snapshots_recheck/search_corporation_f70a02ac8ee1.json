@@ -1,0 +1,47 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "대한항공",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00113526",
+          "corp_name": "대한항공",
+          "stock_code": "003490",
+          "modified_date": "20260316"
+        },
+        {
+          "listed": false,
+          "corp_code": "01438219",
+          "corp_name": "대한항공노동조합",
+          "stock_code": null,
+          "modified_date": "20200305"
+        },
+        {
+          "listed": false,
+          "corp_code": "01552810",
+          "corp_name": "대한항공씨앤디서비스",
+          "stock_code": null,
+          "modified_date": "20240628"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2669,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:30:34.398Z",
+      "usage_event_id": "10204d73-47e8-481a-a7eb-19a5b12587ae"
+    }
+  }
+}

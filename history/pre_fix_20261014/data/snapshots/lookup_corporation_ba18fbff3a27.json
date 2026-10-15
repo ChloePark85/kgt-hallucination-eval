@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01922091"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01922091",
+      "corp_name": "(주)에이치엘비",
+      "corp_name_en": "Hue Leisure & Business",
+      "stock_name": "에이치엘비",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정한식",
+      "corporate_registration_number": "2341110145437",
+      "business_registration_number": "4628803222",
+      "address": "부산광역시 금정구 개좌로 270 (회동동, 첨단산단우성스마트시티) 303호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-621-9763",
+      "fax": null,
+      "industry_code": "55101",
+      "established_date": "20240909",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7931,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:53.395Z",
+      "usage_event_id": "08067a05-90ea-419c-8a3d-4139f9011780"
+    }
+  }
+}

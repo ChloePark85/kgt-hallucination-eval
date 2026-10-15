@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00822864"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:12+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00822864",
+      "corp_name": "우진포장해운주식회사",
+      "corp_name_en": "WOOJIN PACKING FREIGHT CO.LTD.",
+      "stock_name": "우진포장해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "전인기",
+      "corporate_registration_number": "1101110896477",
+      "business_registration_number": "1048122381",
+      "address": "서울특별시 금천구 가산동 우림라이언스2차305호",
+      "homepage": "woojin@woojin24.com",
+      "ir_url": null,
+      "phone": "023336100",
+      "fax": "023363700",
+      "industry_code": "16232",
+      "established_date": "19921019",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7044,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:12.100Z",
+      "usage_event_id": "5891f37a-f6d9-43b4-b3b8-0eae1722f420"
+    }
+  }
+}

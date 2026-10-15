@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "이오테크닉스",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00246417",
+          "corp_name": "이오테크닉스",
+          "stock_code": "039030",
+          "listed": true,
+          "modified_date": "20230220"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7905,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:08:30.700Z",
+      "usage_event_id": "8f2977fa-0eb7-45fe-b857-d237f16820f6"
+    }
+  }
+}

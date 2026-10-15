@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00328058"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00328058",
+      "corp_name": "주식회사한새전자기기",
+      "corp_name_en": "HANSAE MECHATRONICS.CO.,LTD",
+      "stock_name": "한새전자기기",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김규환",
+      "corporate_registration_number": "1201110105660",
+      "business_registration_number": "1398105369",
+      "address": "인천광역시 남동 고잔 707 남동공단136B-1L",
+      "homepage": "www.hansaemech.com",
+      "ir_url": null,
+      "phone": "032-813-6011",
+      "fax": "032-812-2079",
+      "industry_code": "2224",
+      "established_date": "19941001",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7381,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:04.719Z",
+      "usage_event_id": "93922e1a-0799-4b48-bbf3-4cfa3f6eb532"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00138109"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00138109",
+      "corp_name": "쌍마섬유공업 주식회사",
+      "corp_name_en": "SSANGNATEXTILES.CO.,LTD.",
+      "stock_name": "쌍마섬유공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김동원",
+      "corporate_registration_number": "1101110068357",
+      "business_registration_number": "2018135038",
+      "address": "서울특별시 중구 충무로 2가 13-2",
+      "homepage": "해당사항없음",
+      "ir_url": null,
+      "phone": "776-8396",
+      "fax": "755-8398",
+      "industry_code": "13211",
+      "established_date": "19660701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7725,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:03.687Z",
+      "usage_event_id": "3a01cc57-aa1d-4e89-b200-f121ad7af63f"
+    }
+  }
+}

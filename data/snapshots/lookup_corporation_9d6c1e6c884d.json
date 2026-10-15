@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00172088"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00172088",
+      "corp_name": "(주)전주상호저축은행",
+      "corp_name_en": "KORYO MUTUAL SAVINGS BANK",
+      "stock_name": "전주상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조희국",
+      "corporate_registration_number": "2101110000499",
+      "business_registration_number": "4188104977",
+      "address": "전라북도 전주시 덕진구 서노송동 685-44",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "063-283-1231",
+      "fax": null,
+      "industry_code": "64999",
+      "established_date": "19710524",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7653,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:53.931Z",
+      "usage_event_id": "ef925092-7422-4b79-9189-dd8e77391c67"
+    }
+  }
+}

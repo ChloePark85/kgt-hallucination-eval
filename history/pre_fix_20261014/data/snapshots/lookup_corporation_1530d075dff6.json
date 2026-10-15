@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00810285"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00810285",
+      "corp_name": "여수해양조선주식회사",
+      "corp_name_en": "YEOSU DEVELOPMENT CO., ltd.",
+      "stock_name": "여수해양조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "안경훈",
+      "corporate_registration_number": "1101113469346",
+      "business_registration_number": "1208702225",
+      "address": "서울특별시 서초구 서초동 1592-8 명우빌딩 903호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3474-0072",
+      "fax": "02-3474-0073",
+      "industry_code": "68122",
+      "established_date": "20060602",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7052,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:06.373Z",
+      "usage_event_id": "0b251299-7c50-45af-aece-393adba0b188"
+    }
+  }
+}

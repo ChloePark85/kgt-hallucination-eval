@@ -1,0 +1,182 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "주택법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:29:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 11,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "000243",
+          "law_serial_no": "276995",
+          "name": "민간임대주택에 관한 특별법",
+          "short_name": "민간임대주택법",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20251001",
+          "promulgation_no": "21065",
+          "enforcement_date": "20260102",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=276995&type=HTML&mobileYn=&efYd=20260102"
+        },
+        {
+          "law_id": "004552",
+          "law_serial_no": "269343",
+          "name": "민간임대주택에 관한 특별법 시행령",
+          "short_name": "민간임대주택법 시행령",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20250225",
+          "promulgation_no": "35340",
+          "enforcement_date": "20260226",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=269343&type=HTML&mobileYn=&efYd=20260226"
+        },
+        {
+          "law_id": "007899",
+          "law_serial_no": "280639",
+          "name": "민간임대주택에 관한 특별법 시행규칙",
+          "short_name": "민간임대주택법 시행규칙",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20251219",
+          "promulgation_no": "01544",
+          "enforcement_date": "20251219",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280639&type=HTML&mobileYn=&efYd=20251219"
+        },
+        {
+          "law_id": "010378",
+          "law_serial_no": "174491",
+          "name": "부도공공건설임대주택 임차인 보호를 위한 특별법",
+          "short_name": "부도임대주택법",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20150828",
+          "promulgation_no": "13499",
+          "enforcement_date": "20151229",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=174491&type=HTML&mobileYn=&efYd=20151229"
+        },
+        {
+          "law_id": "010426",
+          "law_serial_no": "185425",
+          "name": "부도공공건설임대주택 임차인 보호를 위한 특별법 시행령",
+          "short_name": "부도임대주택법 시행령",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20160811",
+          "promulgation_no": "27444",
+          "enforcement_date": "20160812",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=185425&type=HTML&mobileYn=&efYd=20160812"
+        },
+        {
+          "law_id": "010945",
+          "law_serial_no": "273421",
+          "name": "장기공공임대주택 입주자 삶의 질 향상 지원법",
+          "short_name": "장기임대주택법",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20250826",
+          "promulgation_no": "21041",
+          "enforcement_date": "20260227",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=273421&type=HTML&mobileYn=&efYd=20260227"
+        },
+        {
+          "law_id": "011125",
+          "law_serial_no": "287411",
+          "name": "장기공공임대주택 입주자 삶의 질 향상 지원법 시행령",
+          "short_name": "장기임대주택법 시행령",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260630",
+          "promulgation_no": "36475",
+          "enforcement_date": "20260630",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=287411&type=HTML&mobileYn=&efYd=20260630"
+        },
+        {
+          "law_id": "011130",
+          "law_serial_no": "185553",
+          "name": "장기공공임대주택 입주자 삶의 질 향상 지원법 시행규칙",
+          "short_name": "장기임대주택법 시행규칙",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20160812",
+          "promulgation_no": "00353",
+          "enforcement_date": "20160812",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=185553&type=HTML&mobileYn=&efYd=20160812"
+        },
+        {
+          "law_id": "001809",
+          "law_serial_no": "289171",
+          "name": "주택법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260908",
+          "promulgation_no": "21902",
+          "enforcement_date": "20260908",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289171&type=HTML&mobileYn=&efYd=20260908"
+        },
+        {
+          "law_id": "004949",
+          "law_serial_no": "289499",
+          "name": "주택법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260908",
+          "promulgation_no": "36657",
+          "enforcement_date": "20260908",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289499&type=HTML&mobileYn=&efYd=20260908"
+        },
+        {
+          "law_id": "008242",
+          "law_serial_no": "288575",
+          "name": "주택법 시행규칙",
+          "short_name": null,
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260804",
+          "promulgation_no": "01610",
+          "enforcement_date": "20260804",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288575&type=HTML&mobileYn=&efYd=20260804"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6351,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-14T02:29:56.999Z",
+      "usage_event_id": "ad9ffcca-faaf-41bd-b138-6ff7a784a212"
+    }
+  }
+}

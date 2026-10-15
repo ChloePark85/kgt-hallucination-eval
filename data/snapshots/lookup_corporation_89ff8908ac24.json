@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00344843"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00344843",
+      "corp_name": "기보캐피탈제일차유동화전문유한회사",
+      "corp_name_en": "K-TAC 1st Asset Securitization Specialty Co.",
+      "stock_name": "기보캐피탈제일차유동화전문유한회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "원성일",
+      "corporate_registration_number": "1101140033007",
+      "business_registration_number": "1208615645",
+      "address": "서울특별시 강남구 대치동 889-11",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3451-9266(임창섭)",
+      "fax": "3452-9805",
+      "industry_code": "64999",
+      "established_date": "20001229",
+      "fiscal_year_end_month": "11"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7369,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:13.480Z",
+      "usage_event_id": "975284f4-2f24-4fbd-85cf-bcb925522674"
+    }
+  }
+}

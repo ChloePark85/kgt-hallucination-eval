@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00503552"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00503552",
+      "corp_name": "(주)에스비아이3저축은행",
+      "corp_name_en": "HYUNDAI SWISS 3 SAVINGS BANK",
+      "stock_name": "에스비아이3저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "고기연",
+      "corporate_registration_number": "1543110015849",
+      "business_registration_number": "3018175077",
+      "address": "충청북도 진천군 진천읍 상산로 89 (읍내리, SBI3저축은행)",
+      "homepage": "www.hsb.co.kr",
+      "ir_url": null,
+      "phone": "1566-2230",
+      "fax": null,
+      "industry_code": "64132",
+      "established_date": "20040331",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7127,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:11.890Z",
+      "usage_event_id": "d16bd5b1-151b-41d2-8a95-d83f432cce37"
+    }
+  }
+}

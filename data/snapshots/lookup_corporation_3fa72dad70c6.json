@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00254993"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00254993",
+      "corp_name": "명지캐피탈 주식회사",
+      "corp_name_en": "MYONGJI CAPIAL CO.,LTD",
+      "stock_name": "명지캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박 종 국",
+      "corporate_registration_number": "1101111477862",
+      "business_registration_number": "2118625570",
+      "address": "서울특별시 강남구 논현동 218-16",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-517-0110",
+      "fax": "02-518-6495",
+      "industry_code": "64999",
+      "established_date": "19971027",
+      "fiscal_year_end_month": "09"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7467,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:04.642Z",
+      "usage_event_id": "98952139-819d-4ffe-babb-9980f4b8cba2"
+    }
+  }
+}

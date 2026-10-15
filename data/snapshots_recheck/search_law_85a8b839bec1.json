@@ -1,0 +1,56 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "개인정보 보호법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "개인정보 보호법",
+          "law_id": "011357",
+          "law_type": "법률",
+          "ministry": "개인정보보호위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283839&type=HTML&mobileYn=&efYd=20260911",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "283839",
+          "revision_type": "일부개정",
+          "promulgation_no": "21445",
+          "enforcement_date": "20260911",
+          "promulgation_date": "20260310"
+        },
+        {
+          "name": "개인정보 보호법 시행령",
+          "law_id": "011468",
+          "law_type": "대통령령",
+          "ministry": "개인정보보호위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289537&type=HTML&mobileYn=&efYd=20260911",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "289537",
+          "revision_type": "일부개정",
+          "promulgation_no": "36671",
+          "enforcement_date": "20260911",
+          "promulgation_date": "20260910"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2511,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:09.504Z",
+      "usage_event_id": "267011b7-6e8c-4bd2-933e-6bdf6e42bb87"
+    }
+  }
+}

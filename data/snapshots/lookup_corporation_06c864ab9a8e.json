@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00113359"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00113359",
+      "corp_name": "교보증권(주)",
+      "corp_name_en": "KYOBO SECURITIES CO.,LTD.",
+      "stock_name": "교보증권",
+      "stock_code": "030610",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "박봉권, 이석기 (각자대표)",
+      "corporate_registration_number": "1101110018089",
+      "business_registration_number": "1168104407",
+      "address": "서울특별시 영등포구 의사당대로 97 교보증권빌딩",
+      "homepage": "www.iprovest.com",
+      "ir_url": null,
+      "phone": "02-3771-9000",
+      "fax": "02-3771-9135",
+      "industry_code": "66121",
+      "established_date": "19491122",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7809,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:02.418Z",
+      "usage_event_id": "2c1c8759-f095-4235-a065-15d4d22c8139"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00150147"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00150147",
+      "corp_name": "지산개발(주)",
+      "corp_name_en": "JISAN DEVELOPMENT CO.",
+      "stock_name": "지산개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "홍 호 정",
+      "corporate_registration_number": "1344110002235",
+      "business_registration_number": "1268106659",
+      "address": "경기도 용인군 원삼면 맹리 산28-7 지산컨트리클럽",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-330-1524",
+      "fax": "031-334-3945",
+      "industry_code": "91121",
+      "established_date": "19880803",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7701,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:20.590Z",
+      "usage_event_id": "e1afcd82-3c7b-48f7-a39b-deb755dea013"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "신한지주",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00382199",
+          "corp_name": "신한지주",
+          "stock_code": "055550",
+          "modified_date": "20250908"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6633,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:25:41.519Z",
+      "usage_event_id": "5381d2f4-db54-42d4-8d32-e05e2babe330"
+    }
+  }
+}

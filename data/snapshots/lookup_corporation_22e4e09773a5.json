@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00547006"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00547006",
+      "corp_name": "주식회사 협성섬유",
+      "corp_name_en": "HYUPSUNG TEXTILE CO.LTD",
+      "stock_name": "협성섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "황규익",
+      "corporate_registration_number": "1154110021776",
+      "business_registration_number": "1278136398",
+      "address": "경기도 포천시 가산면 정교리 555-2",
+      "homepage": "www.hyupsung-t.com",
+      "ir_url": null,
+      "phone": "031-543-0035",
+      "fax": "031-543-0037",
+      "industry_code": "13992",
+      "established_date": "19991229",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7112,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:22.959Z",
+      "usage_event_id": "87a06473-cf35-4671-b625-2032bbfce1ec"
+    }
+  }
+}

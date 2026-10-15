@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00163178"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:37+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00163178",
+      "corp_name": "우리증권(주)",
+      "corp_name_en": "WOORI SECURITIES CO.,LTD",
+      "stock_name": "우리증권",
+      "stock_code": "001280",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종욱",
+      "corporate_registration_number": "1101110031544",
+      "business_registration_number": "1168130088",
+      "address": "서울특별시 영등포구 여의도동 34-12 ",
+      "homepage": "http://www.woorisec.co.kr",
+      "ir_url": null,
+      "phone": "02-768-8000",
+      "fax": "768-8059",
+      "industry_code": "66121",
+      "established_date": "19540826",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7677,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:37.346Z",
+      "usage_event_id": "ff9fcbd6-cfd4-4039-91c8-c13e847728e6"
+    }
+  }
+}

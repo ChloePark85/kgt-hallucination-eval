@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00279965"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00279965",
+      "corp_name": "삼릉상사(주)",
+      "corp_name_en": "MITSUBISHI CORPORATION",
+      "stock_name": "삼릉상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "sasaki Mikio",
+      "corporate_registration_number": "",
+      "business_registration_number": "37300",
+      "address": "동경도 천대전구 환내 3~6-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3282-1474",
+      "fax": "02-3282-1486",
+      "industry_code": "",
+      "established_date": "19500401",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7425,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:34.131Z",
+      "usage_event_id": "2b0f4371-bc7e-46a5-a1e6-9161cb43524d"
+    }
+  }
+}

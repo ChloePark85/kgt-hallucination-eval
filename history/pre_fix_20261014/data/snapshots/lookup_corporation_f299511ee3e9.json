@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00248017"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00248017",
+      "corp_name": "주식회사 삼양전자",
+      "corp_name_en": "SAMYANG ELECTRONICS CO.LTD.",
+      "stock_name": "삼양전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "송양형",
+      "corporate_registration_number": "1347110003262",
+      "business_registration_number": "1258105244",
+      "address": "경기도 평택시 모곡동 437-9",
+      "homepage": "WWW.SAM-YANG.CO.KR",
+      "ir_url": null,
+      "phone": "031-665-4141",
+      "fax": "031-665-0262",
+      "industry_code": "26",
+      "established_date": "19880602",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7485,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:51.951Z",
+      "usage_event_id": "efc397b4-3577-4ed4-af23-d410db7df5fe"
+    }
+  }
+}

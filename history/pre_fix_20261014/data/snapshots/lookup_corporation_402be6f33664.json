@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00171414"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00171414",
+      "corp_name": "파산자한국산업증권주식회사",
+      "corp_name_en": "KDBS",
+      "stock_name": "파산자한국산업증권",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박근우",
+      "corporate_registration_number": "1101111772263",
+      "business_registration_number": "1168140169",
+      "address": "서울특별시 영등포구 양평동1가 190",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "2636-3248",
+      "fax": "786-2964",
+      "industry_code": "64999",
+      "established_date": "19910425",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7655,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:52.553Z",
+      "usage_event_id": "8e2affc4-3161-4ad2-b958-2ba245f42e6e"
+    }
+  }
+}

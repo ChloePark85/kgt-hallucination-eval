@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00111999"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00111999",
+      "corp_name": "대원제약(주)",
+      "corp_name_en": "DAEWON PHARMACEUTICAL CO.,LTD",
+      "stock_name": "대원제약",
+      "stock_code": "003220",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "백승열, BAEK JONATHAN IN",
+      "corporate_registration_number": "1101110103955",
+      "business_registration_number": "2078136336",
+      "address": "서울특별시 성동구 천호대로 386 대원제약",
+      "homepage": "www.daewonpharm.com",
+      "ir_url": null,
+      "phone": "02-2204-7000",
+      "fax": "02-498-9108",
+      "industry_code": "212",
+      "established_date": "19610809",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7813,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:59.580Z",
+      "usage_event_id": "3c3f69b0-5f7c-4d9e-b911-9b7eaecf414a"
+    }
+  }
+}

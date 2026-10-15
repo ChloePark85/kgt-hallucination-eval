@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00103981"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00103981",
+      "corp_name": "주식회사 광전자INT",
+      "corp_name_en": "Information Network Technology. Corp.",
+      "stock_name": "광전자INT",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "채길순",
+      "corporate_registration_number": "2149110004657",
+      "business_registration_number": "4038105294",
+      "address": "전라북도 익산시 팔봉동 832",
+      "homepage": "www.kint.co.kr",
+      "ir_url": null,
+      "phone": "063-830-1307",
+      "fax": "063-835-5429",
+      "industry_code": "26",
+      "established_date": "19900212",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7839,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:40.730Z",
+      "usage_event_id": "81055b24-fe67-4ccd-88e0-87126c49da26"
+    }
+  }
+}

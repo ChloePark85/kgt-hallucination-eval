@@ -1,0 +1,345 @@
+{
+ "strict": {
+  "gemma4:12b|C0": {
+   "n": 600,
+   "correct": 8.2,
+   "incorrect": 51.0,
+   "abstain": 40.5,
+   "unparsed": 0.3,
+   "error": 0.0
+  },
+  "gemma4:12b|C2": {
+   "n": 600,
+   "correct": 92.0,
+   "incorrect": 3.5,
+   "abstain": 3.3,
+   "unparsed": 0.8,
+   "error": 0.3
+  },
+  "gemma4:26b|C0": {
+   "n": 600,
+   "correct": 11.7,
+   "incorrect": 47.7,
+   "abstain": 40.7,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "gemma4:26b|C2": {
+   "n": 600,
+   "correct": 95.7,
+   "incorrect": 2.7,
+   "abstain": 0.8,
+   "unparsed": 0.8,
+   "error": 0.0
+  },
+  "qwen3.8:27b|C0": {
+   "n": 600,
+   "correct": 7.2,
+   "incorrect": 47.7,
+   "abstain": 45.0,
+   "unparsed": 0.2,
+   "error": 0.0
+  },
+  "qwen3.8:27b|C2": {
+   "n": 600,
+   "correct": 95.7,
+   "incorrect": 1.8,
+   "abstain": 0.3,
+   "unparsed": 2.2,
+   "error": 0.0
+  }
+ },
+ "excluded_items": [
+  "corp-28",
+  "juso-08",
+  "juso-09",
+  "juso-13",
+  "juso-15",
+  "juso-25",
+  "juso-28",
+  "juso-30",
+  "juso-31",
+  "juso-32",
+  "juso-33",
+  "juso-34"
+ ],
+ "excl": {
+  "gemma4:12b|C0": {
+   "n": 564,
+   "correct": 8.7,
+   "incorrect": 48.0,
+   "abstain": 43.1,
+   "unparsed": 0.2,
+   "error": 0.0
+  },
+  "gemma4:12b|C2": {
+   "n": 564,
+   "correct": 94.1,
+   "incorrect": 1.1,
+   "abstain": 3.5,
+   "unparsed": 0.9,
+   "error": 0.4
+  },
+  "gemma4:26b|C0": {
+   "n": 564,
+   "correct": 11.2,
+   "incorrect": 45.6,
+   "abstain": 43.3,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "gemma4:26b|C2": {
+   "n": 564,
+   "correct": 98.2,
+   "incorrect": 0.4,
+   "abstain": 0.9,
+   "unparsed": 0.5,
+   "error": 0.0
+  },
+  "qwen3.8:27b|C0": {
+   "n": 564,
+   "correct": 9.0,
+   "incorrect": 43.6,
+   "abstain": 47.2,
+   "unparsed": 0.2,
+   "error": 0.0
+  },
+  "qwen3.8:27b|C2": {
+   "n": 564,
+   "correct": 98.4,
+   "incorrect": 0.7,
+   "abstain": 0.0,
+   "unparsed": 0.9,
+   "error": 0.0
+  }
+ },
+ "boot": {
+  "gemma4:12b": {
+   "diff_pp": 83.3,
+   "ci95": [
+    78.5,
+    87.7
+   ]
+  },
+  "gemma4:26b": {
+   "diff_pp": 84.0,
+   "ci95": [
+    78.5,
+    88.8
+   ]
+  },
+  "qwen3.8:27b": {
+   "diff_pp": 87.0,
+   "ci95": [
+    82.7,
+    91.3
+   ]
+  }
+ },
+ "attempted": {
+  "gemma4:12b|C0": {
+   "attempted": 355,
+   "incorrect_among_attempted_pct": 85.4
+  },
+  "gemma4:12b|C2": {
+   "attempted": 573,
+   "incorrect_among_attempted_pct": 3.7
+  },
+  "gemma4:26b|C0": {
+   "attempted": 356,
+   "incorrect_among_attempted_pct": 80.3
+  },
+  "gemma4:26b|C2": {
+   "attempted": 590,
+   "incorrect_among_attempted_pct": 2.7
+  },
+  "qwen3.8:27b|C0": {
+   "attempted": 329,
+   "incorrect_among_attempted_pct": 84.2
+  },
+  "qwen3.8:27b|C2": {
+   "attempted": 585,
+   "incorrect_among_attempted_pct": 1.9
+  }
+ },
+ "changed_by_strict": {
+  "gemma4:12b|C0": 3,
+  "gemma4:12b|C2": 0,
+  "gemma4:26b|C0": 0,
+  "gemma4:26b|C2": 0,
+  "qwen3.8:27b|C0": 9,
+  "qwen3.8:27b|C2": 0
+ },
+ "changed_examples": [
+  [
+   "gemma4:12b",
+   "C0",
+   "juso-09",
+   "강원특별자치도 춘천시 중앙로 110"
+  ],
+  [
+   "gemma4:12b",
+   "C0",
+   "juso-09",
+   "강원특별자치도 춘천시 중앙로 100"
+  ],
+  [
+   "gemma4:12b",
+   "C0",
+   "juso-09",
+   "강원특별자치도 춘천시 중앙로 110"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-33",
+   "교육부, 행정안전부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-05",
+   "경찰청, 행정안전부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-15",
+   "공정거래위원회, 금융위원회, 방송통신위원회, 식품의약품안전처, 보건복지부, 중소벤처기업부, 문화체육관광부, 관세청, 국세청, 교육부, 농림축산식품부, 산업통상자원부, 과학기술정보통신부, 국토교통부, 해양수산부, 환경부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-17",
+   "문화체육관광부, 과학기술정보통신부, 법무부, 행정안전부, 방송통신위원회, 금융위원회, 금융감독원, 조달청, 특허청, 한국저작권위원회"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-35",
+   "법무부, 행정안전부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-37",
+   "법무부, 기획재정부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-17",
+   "문화체육관광부, 과학기술정보통신부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-23",
+   "행정안전부, 국토교통부"
+  ],
+  [
+   "qwen3.8:27b",
+   "C0",
+   "law-37",
+   "법무부, 금융위원회, 중소벤처기업부, 공정거래위원회"
+  ]
+ ],
+ "tool_error_outcomes": {
+  "abstain": 14
+ },
+ "round_limit": {
+  "gemma4:12b": 5,
+  "gemma4:26b": 3,
+  "qwen3.8:27b": 13
+ },
+ "c0_attempt_by_qtype": {
+  "ceo": {
+   "n": 180,
+   "correct": 6.7,
+   "incorrect": 77.8,
+   "abstain": 15.6,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "enforcement_date": {
+   "n": 180,
+   "correct": 3.3,
+   "incorrect": 95.6,
+   "abstain": 1.1,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "established": {
+   "n": 180,
+   "correct": 0.0,
+   "incorrect": 98.9,
+   "abstain": 1.1,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "ministry": {
+   "n": 180,
+   "correct": 63.3,
+   "incorrect": 36.1,
+   "abstain": 0.0,
+   "unparsed": 0.6,
+   "error": 0.0
+  },
+  "postal_code": {
+   "n": 180,
+   "correct": 14.4,
+   "incorrect": 83.9,
+   "abstain": 1.7,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "road_address": {
+   "n": 180,
+   "correct": 8.9,
+   "incorrect": 88.9,
+   "abstain": 1.1,
+   "unparsed": 1.1,
+   "error": 0.0
+  },
+  "status": {
+   "n": 360,
+   "correct": 0.0,
+   "incorrect": 0.0,
+   "abstain": 100.0,
+   "unparsed": 0.0,
+   "error": 0.0
+  },
+  "trade_count": {
+   "n": 360,
+   "correct": 0.0,
+   "incorrect": 0.0,
+   "abstain": 100.0,
+   "unparsed": 0.0,
+   "error": 0.0
+  }
+ },
+ "c2_calls": {
+  "gemma4:12b": {
+   "3": 113,
+   "2": 110,
+   "4": 4,
+   "1": 360,
+   "5": 11,
+   "0": 2
+  },
+  "gemma4:26b": {
+   "2": 160,
+   "4": 14,
+   "1": 348,
+   "3": 70,
+   "5": 8
+  },
+  "qwen3.8:27b": {
+   "2": 176,
+   "4": 18,
+   "3": 36,
+   "5": 27,
+   "1": 343
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01801822"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01801822",
+      "corp_name": "에스케이증권제13호기업인수목적 주식회사",
+      "corp_name_en": "SK Securities No.13 Special Purpose Acquisition Company",
+      "stock_name": "SK증권제13호스팩",
+      "stock_code": "473950",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "임율표",
+      "corporate_registration_number": "1101118805545",
+      "business_registration_number": "3838602907",
+      "address": "서울특별시 영등포구 국제금융로8길 31",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3773-8591",
+      "fax": null,
+      "industry_code": "66199",
+      "established_date": "20231130",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6988,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:51.560Z",
+      "usage_event_id": "a8cb84a5-8f8e-45a6-86e2-51a5922e3c58"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00111704"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00111704",
+      "corp_name": "한화오션(주)",
+      "corp_name_en": "Hanwha Ocean Co., Ltd.",
+      "stock_name": "한화오션",
+      "stock_code": "042660",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "김희철",
+      "corporate_registration_number": "1101112095837",
+      "business_registration_number": "1048157667",
+      "address": "경상남도 거제시 거제대로 3370 (아주동)",
+      "homepage": "www.hanwhaocean.com/pub/main/index.do",
+      "ir_url": "https://www.hanwhaocean.com/",
+      "phone": "055-735-2114",
+      "fax": "02-2129-0084",
+      "industry_code": "3111",
+      "established_date": "20001023",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7970,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:02.480Z",
+      "usage_event_id": "b1a084b8-6bee-4009-8480-db9dccab00ad"
+    }
+  }
+}

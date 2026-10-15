@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00363796"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00363796",
+      "corp_name": "남양산업(주)",
+      "corp_name_en": "nam yang ind. co., ltd",
+      "stock_name": "남양산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김진석",
+      "corporate_registration_number": "1748110008907",
+      "business_registration_number": "5158106387",
+      "address": "경상북도 경산시 진량읍 신상리 1192-5",
+      "homepage": "www.namyangsteel.co.kr",
+      "ir_url": null,
+      "phone": "053-856-5544",
+      "fax": "053-856-5548",
+      "industry_code": "2413",
+      "established_date": "19950501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7351,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:28.110Z",
+      "usage_event_id": "e42facc6-b4b7-47c6-97ec-18ad3f383ca4"
+    }
+  }
+}

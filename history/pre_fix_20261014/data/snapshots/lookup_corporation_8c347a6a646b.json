@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00161268"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00161268",
+      "corp_name": "한륙전자주식회사",
+      "corp_name_en": "HAN RYUK ELECTRONIC.CO.LTD",
+      "stock_name": "한륙전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정세능",
+      "corporate_registration_number": "1101110022197",
+      "business_registration_number": "1198102602",
+      "address": "서울특별시 금천구 가산동 459-14",
+      "homepage": "http://www.Hanryuk.co.kr",
+      "ir_url": null,
+      "phone": "02)856-1041",
+      "fax": "02)856-1615",
+      "industry_code": "26292",
+      "established_date": "19700413",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7683,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:33.210Z",
+      "usage_event_id": "87be2443-8301-43ba-9833-0c0238c7df4d"
+    }
+  }
+}

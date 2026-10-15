@@ -1,0 +1,61 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "삼성전자",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00126380",
+          "corp_name": "삼성전자",
+          "stock_code": "005930",
+          "listed": true,
+          "modified_date": "20251201"
+        },
+        {
+          "corp_code": "01345812",
+          "corp_name": "삼성전자서비스씨에스",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20230125"
+        },
+        {
+          "corp_code": "00252074",
+          "corp_name": "삼성전자판매",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20240124"
+        },
+        {
+          "corp_code": "00366997",
+          "corp_name": "삼성전자로지텍",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20250827"
+        },
+        {
+          "corp_code": "00258999",
+          "corp_name": "삼성전자서비스",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20260303"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7999,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:06:10.646Z",
+      "usage_event_id": "55fcd231-648a-461b-ac18-3ab902a22d36"
+    }
+  }
+}

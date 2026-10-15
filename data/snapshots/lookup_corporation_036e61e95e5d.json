@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00126788"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00126788",
+      "corp_name": "삼아제약(주)",
+      "corp_name_en": "Sam-A Pharm. Co. Ltd",
+      "stock_name": "삼아제약",
+      "stock_code": "009300",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "허 준",
+      "corporate_registration_number": "1341110000765",
+      "business_registration_number": "1388105823",
+      "address": "강원도 원주시 문막읍 동화공단로 49",
+      "homepage": "www.samapharm.co.kr",
+      "ir_url": null,
+      "phone": "02-2056-7200",
+      "fax": "02-2056-7388",
+      "industry_code": "212",
+      "established_date": "19731004",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7759,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:39.301Z",
+      "usage_event_id": "fe6eb1e3-103b-4941-9cad-b753002b546c"
+    }
+  }
+}

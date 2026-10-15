@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00145190"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00145190",
+      "corp_name": "유화증권(주)",
+      "corp_name_en": "YUHWA SECURITIES CO.,LTD",
+      "stock_name": "유화증권",
+      "stock_code": "003460",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "서태영",
+      "corporate_registration_number": "1101110042484",
+      "business_registration_number": "1168100100",
+      "address": "서울특별시 영등포구  국제금융로2길 36 유화증권빌딩",
+      "homepage": "www.yhs.co.kr",
+      "ir_url": null,
+      "phone": "02-3770-0100",
+      "fax": "02)3770-0236",
+      "industry_code": "66121",
+      "established_date": "19620602",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7715,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:10.511Z",
+      "usage_event_id": "bf766316-75de-433e-aea9-7a62e08833dd"
+    }
+  }
+}

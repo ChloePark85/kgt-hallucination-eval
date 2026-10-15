@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00296290"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00296290",
+      "corp_name": "키움증권(주)",
+      "corp_name_en": "KIWOOM Securities Co.,Ltd.",
+      "stock_name": "키움증권",
+      "stock_code": "039490",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "엄주성",
+      "corporate_registration_number": "1101111867948",
+      "business_registration_number": "1078176756",
+      "address": "서울특별시 영등포구 의사당대로 96 TP타워(사학연금 서울회관)",
+      "homepage": "www.kiwoom.com",
+      "ir_url": "https://www.kiwoom.com/h/ir/",
+      "phone": "02-3787-5000",
+      "fax": "02-3787-4900",
+      "industry_code": "66121",
+      "established_date": "20000401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7421,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:36.863Z",
+      "usage_event_id": "e28c5f2a-460c-4d4d-919f-45a1bcf8403d"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164201"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164201",
+      "corp_name": "해운대개발",
+      "corp_name_en": "Haeundae Development Co.,Ltd",
+      "stock_name": "해운대개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장경작",
+      "corporate_registration_number": "1801110032209",
+      "business_registration_number": "6188100737",
+      "address": "부산광역시 해운대구 우 1동 737번지",
+      "homepage": "www.chosunveach.co.kr",
+      "ir_url": null,
+      "phone": "051)742-7411",
+      "fax": "051)742-1313",
+      "industry_code": "55101",
+      "established_date": "19780603",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7671,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:41.455Z",
+      "usage_event_id": "fcccbaef-1fc9-441e-a782-1ad8b0485cab"
+    }
+  }
+}

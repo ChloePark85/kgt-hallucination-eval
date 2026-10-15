@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "전자",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00265078",
+          "corp_name": "유니텍전자",
+          "stock_code": "039040",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00303837",
+          "corp_name": "이레전자산업",
+          "stock_code": "045310",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00101637",
+          "corp_name": "그로웰전자",
+          "stock_code": "009220",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00426208",
+          "corp_name": "한국전자화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00248017",
+          "corp_name": "삼양전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00370167",
+          "corp_name": "일진전자통신",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00103981",
+          "corp_name": "광전자INT",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00369301",
+          "corp_name": "근영전자통신",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00233112",
+          "corp_name": "성우전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00449625",
+          "corp_name": "신성전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00415600",
+          "corp_name": "대륭전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00369897",
+          "corp_name": "기바전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00415123",
+          "corp_name": "크로스전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00161268",
+          "corp_name": "한륙전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00237491",
+          "corp_name": "서한전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00367987",
+          "corp_name": "시봉전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00437383",
+          "corp_name": "국제전자정밀",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00430441",
+          "corp_name": "대명전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00208356",
+          "corp_name": "동호전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00263876",
+          "corp_name": "대붕전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00226556",
+          "corp_name": "우진전자통신",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00236225",
+          "corp_name": "유아전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00318246",
+          "corp_name": "동현전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00192310",
+          "corp_name": "대영전자통신",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00312792",
+          "corp_name": "우일전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00328058",
+          "corp_name": "한새전자기기",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00324894",
+          "corp_name": "반도전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00309901",
+          "corp_name": "보만전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00114446",
+          "corp_name": "신호전자통신",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00333342",
+          "corp_name": "대경전자",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7877,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:03.744Z",
+      "usage_event_id": "367c283f-99ef-413d-ae28-f130eff29b97"
+    }
+  }
+}

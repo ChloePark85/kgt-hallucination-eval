@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00371494"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00371494",
+      "corp_name": "다인개발(주)",
+      "corp_name_en": "dain development co.,ltd",
+      "stock_name": "다인개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "문창구",
+      "corporate_registration_number": "1101110521032",
+      "business_registration_number": "2028140252",
+      "address": "서울특별시 서초구 서초동1426-5",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3471-0038",
+      "fax": "02-3473-3656",
+      "industry_code": "68112",
+      "established_date": "19870301",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7317,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:51.949Z",
+      "usage_event_id": "8a3ea1d2-fe1f-4e2c-9f32-9b40379a2972"
+    }
+  }
+}

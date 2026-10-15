@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00443375"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00443375",
+      "corp_name": "진도개발주식회사",
+      "corp_name_en": "JIN DO",
+      "stock_name": "진도개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "고은우",
+      "corporate_registration_number": "1154110022435",
+      "business_registration_number": "1278137835",
+      "address": "서울특별시 강동구 길동 82번지 14호 2층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-475-1059",
+      "fax": "02-475-1061",
+      "industry_code": "41112",
+      "established_date": "20000316",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7181,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:30.369Z",
+      "usage_event_id": "892da5f0-f43c-4c69-b21c-d979e66b3da1"
+    }
+  }
+}

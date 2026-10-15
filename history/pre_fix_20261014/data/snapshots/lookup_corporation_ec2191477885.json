@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00364324"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00364324",
+      "corp_name": "청빛산업개발(주)",
+      "corp_name_en": "CHONG BIT Industry Construction",
+      "stock_name": "청빛산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이영조",
+      "corporate_registration_number": "1101111690274",
+      "business_registration_number": "2298137956",
+      "address": "서울특별시 서초구 서초동 1358-9",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "3486-7800",
+      "fax": "3486-7454",
+      "industry_code": "41112",
+      "established_date": "19990501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7345,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:32.322Z",
+      "usage_event_id": "7da69d45-b99d-450c-8358-1a4f4fc348fa"
+    }
+  }
+}

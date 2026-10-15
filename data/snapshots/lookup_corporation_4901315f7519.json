@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00226200"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00226200",
+      "corp_name": "에스씨상사주식회사",
+      "corp_name_en": "SC SANG SA",
+      "stock_name": "에스씨상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 나 영",
+      "corporate_registration_number": "1101110182537",
+      "business_registration_number": "1018121888",
+      "address": "서울특별시 종로구 제동 84-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-762-6681",
+      "fax": "02-362-3042",
+      "industry_code": "68112",
+      "established_date": "19750701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7545,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:09.043Z",
+      "usage_event_id": "894fb9da-c8a5-4613-a530-cec37a611fbf"
+    }
+  }
+}

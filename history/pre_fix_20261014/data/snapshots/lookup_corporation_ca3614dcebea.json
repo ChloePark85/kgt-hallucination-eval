@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00435349"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00435349",
+      "corp_name": "주식회사 지영상사",
+      "corp_name_en": "JI YOUNG TRADING.CO.LTD",
+      "stock_name": "지영상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이헤경",
+      "corporate_registration_number": "1101111632317",
+      "business_registration_number": "2068114299",
+      "address": "서울특별시 성동구 성수2가3동 284 63 지영프라자 801호",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "02-467-3241",
+      "fax": "02-463-1516",
+      "industry_code": "13213",
+      "established_date": "19990112",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7201,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:12.944Z",
+      "usage_event_id": "1a883c2a-6b22-44aa-9902-bfad7af2f3ef"
+    }
+  }
+}

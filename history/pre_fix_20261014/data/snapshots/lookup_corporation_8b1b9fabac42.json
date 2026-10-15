@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00121039"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00121039",
+      "corp_name": "명문제약(주)",
+      "corp_name_en": "MYUNGMOON PHARM CO.,LTD",
+      "stock_name": "명문제약",
+      "stock_code": "017180",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "배철한",
+      "corporate_registration_number": "1341110013180",
+      "business_registration_number": "1248135615",
+      "address": "경기도 화성시  향남읍 제약공단2길 26",
+      "homepage": "www.mmpharm.co.kr",
+      "ir_url": null,
+      "phone": "031-350-4000",
+      "fax": "02-572-5193",
+      "industry_code": "212",
+      "established_date": "19830901",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7779,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:24.094Z",
+      "usage_event_id": "6f9c576c-2539-425c-951d-46ce4e24cec6"
+    }
+  }
+}

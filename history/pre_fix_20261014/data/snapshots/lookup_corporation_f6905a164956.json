@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00104290"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00104290",
+      "corp_name": "구성물산주식회사",
+      "corp_name_en": "Ku Sung Mull San",
+      "stock_name": "구성물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "황정규",
+      "corporate_registration_number": "1101110141319",
+      "business_registration_number": "1048132424",
+      "address": "서울특별시 중구 남창동 52-1",
+      "homepage": "해당사항없음",
+      "ir_url": null,
+      "phone": "02-756-1311",
+      "fax": "02-756-1312",
+      "industry_code": "68112",
+      "established_date": "19730224",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7837,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:42.448Z",
+      "usage_event_id": "ea436666-736d-45fc-9c83-0d3bcd8685f1"
+    }
+  }
+}

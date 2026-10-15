@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00447007"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00447007",
+      "corp_name": "알리코제약(주)",
+      "corp_name_en": "KOREA ARLICO PHARM CO.,LTD.",
+      "stock_name": "알리코제약",
+      "stock_code": "260660",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이항구 김대훈 (각자 대표이사)",
+      "corporate_registration_number": "1350110038048",
+      "business_registration_number": "1348115033",
+      "address": "서울특별시 서초구 바우뫼로27길 7-21 (양재동)",
+      "homepage": "www.arlico.co.kr",
+      "ir_url": "www.arlico.co.kr",
+      "phone": "02-585-0004",
+      "fax": "02-587-5199",
+      "industry_code": "213",
+      "established_date": "19921228",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7171,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:38.118Z",
+      "usage_event_id": "4c253365-84f2-472f-aef3-5314351b802c"
+    }
+  }
+}

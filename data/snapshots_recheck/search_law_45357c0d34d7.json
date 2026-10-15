@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "국민연금법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "국민연금법",
+          "law_id": "001781",
+          "law_type": "법률",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280269&type=HTML&mobileYn=&efYd=20260617",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "280269",
+          "revision_type": "일부개정",
+          "promulgation_no": "21203",
+          "enforcement_date": "20260617",
+          "promulgation_date": "20251216"
+        },
+        {
+          "name": "국민연금법 시행령",
+          "law_id": "002833",
+          "law_type": "대통령령",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=272577&type=HTML&mobileYn=&efYd=20260101",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "272577",
+          "revision_type": "일부개정",
+          "promulgation_no": "35602",
+          "enforcement_date": "20260101",
+          "promulgation_date": "20250625"
+        },
+        {
+          "name": "국민연금법 시행규칙",
+          "law_id": "006709",
+          "law_type": "보건복지부령",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283561&type=HTML&mobileYn=&efYd=20260213",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "283561",
+          "revision_type": "일부개정",
+          "promulgation_no": "01157",
+          "enforcement_date": "20260213",
+          "promulgation_date": "20260213"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2502,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:23.763Z",
+      "usage_event_id": "dc1c9900-5f34-4f90-b346-fcf7fece7187"
+    }
+  }
+}

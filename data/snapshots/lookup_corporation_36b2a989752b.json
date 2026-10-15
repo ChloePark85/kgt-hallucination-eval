@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00416937"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00416937",
+      "corp_name": "주식회사 지구환경산업",
+      "corp_name_en": null,
+      "stock_name": "지구환경산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "구 본 근",
+      "corporate_registration_number": "1101110743030",
+      "business_registration_number": "1068128417",
+      "address": "서울특별시 서초구 서초동 1588-7 석탑오피스텔 602호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3473-5891",
+      "fax": null,
+      "industry_code": "4111",
+      "established_date": "19910115",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7237,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:47.771Z",
+      "usage_event_id": "58788979-e778-43b3-8b0e-e72a7e17e0d0"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00191320"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00191320",
+      "corp_name": "동우섬유 주식회사",
+      "corp_name_en": "DONGWOO TEXTILT CO.,LTD.",
+      "stock_name": "동우섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정기철",
+      "corporate_registration_number": "1201110004060",
+      "business_registration_number": "1338122846",
+      "address": "경기도 시흥시 정왕동 1699-3 시화공단 1바304호",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "(031)499-3800",
+      "fax": "(031)498-8109",
+      "industry_code": "13403",
+      "established_date": "19760625",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7617,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:19.429Z",
+      "usage_event_id": "b3700926-935d-41c4-ab93-fdf5e783ed9e"
+    }
+  }
+}

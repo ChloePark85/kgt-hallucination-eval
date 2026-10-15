@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00119016"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00119016",
+      "corp_name": "동해화학주식회사",
+      "corp_name_en": "Dong Hae Chevnical Corp",
+      "stock_name": "동해화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종규",
+      "corporate_registration_number": "1101110203648",
+      "business_registration_number": "1358105431",
+      "address": "서울특별시 영등포구 양평동4가 207번지 2층",
+      "homepage": "www.donghaec.com",
+      "ir_url": null,
+      "phone": "02) 2634-3612",
+      "fax": "02) 679-3977",
+      "industry_code": "20119",
+      "established_date": "19761014",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7785,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:19.905Z",
+      "usage_event_id": "2358bcaa-1bcb-4d08-960c-c532531897a0"
+    }
+  }
+}

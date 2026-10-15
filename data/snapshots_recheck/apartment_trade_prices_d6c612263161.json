@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41465",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 860,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "상현동",
+          "floor": 2,
+          "jibun": "843",
+          "canceled": false,
+          "deal_date": "2025-03-11",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2003,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "41465",
+          "canceled_date": null,
+          "apartment_name": "상현현대성우5차",
+          "deal_amount_krw": 773000000,
+          "deal_amount_raw": "77,300",
+          "exclusive_area_m2": 138.8476
+        }
+      ],
+      "lawd_code": "41465",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2568,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:41.374Z",
+      "usage_event_id": "55c8a1fe-8160-4de3-a12e-2ab3f9056950"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "펄어비스",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "01152470",
+          "corp_name": "펄어비스",
+          "stock_code": "263750",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "01380204",
+          "corp_name": "펄어비스캐피탈",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20220509"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7930,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:07:55.455Z",
+      "usage_event_id": "c89901f6-8a18-47b2-a1e5-8fa90c778191"
+    }
+  }
+}

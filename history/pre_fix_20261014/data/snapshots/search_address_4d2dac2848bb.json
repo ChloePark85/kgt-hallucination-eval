@@ -1,0 +1,100 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "수성구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:20:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "대구광역시 수성구 달구벌대로 2450 (범어동)",
+          "road_address_main": "대구광역시 수성구 달구벌대로 2450",
+          "road_address_detail": " (범어동)",
+          "jibun_address": "대구광역시 수성구 범어동 238-3 수성구청",
+          "english_address": "2450 Dalgubeol-daero, Suseong-gu, Daegu",
+          "postal_code": "42086",
+          "adm_code": "2726010100",
+          "lawd_code": "27260",
+          "building_name": "수성구청",
+          "sido": "대구광역시",
+          "sigungu": "수성구",
+          "eupmyeondong": "범어동",
+          "ri": null,
+          "road_name": "달구벌대로",
+          "building_main_no": "2450",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "238",
+          "lot_sub_no": "3",
+          "road_mgmt_no": "272602007002",
+          "building_mgmt_no": "2726010100102380003021093"
+        },
+        {
+          "road_address": "대구광역시 수성구 달구벌대로 지하2500 (범어동)",
+          "road_address_main": "대구광역시 수성구 달구벌대로 지하2500",
+          "road_address_detail": " (범어동)",
+          "jibun_address": "대구광역시 수성구 범어동 835 수성구청역",
+          "english_address": "B2500 Dalgubeol-daero, Suseong-gu, Daegu",
+          "postal_code": "42088",
+          "adm_code": "2726010100",
+          "lawd_code": "27260",
+          "building_name": "수성구청역",
+          "sido": "대구광역시",
+          "sigungu": "수성구",
+          "eupmyeondong": "범어동",
+          "ri": null,
+          "road_name": "달구벌대로",
+          "building_main_no": "2500",
+          "building_sub_no": "0",
+          "is_underground": true,
+          "is_mountain_lot": false,
+          "lot_main_no": "835",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "272602007002",
+          "building_mgmt_no": "2726010100108350000000003"
+        },
+        {
+          "road_address": "대구광역시 수성구 진밭길 409 (범물동)",
+          "road_address_main": "대구광역시 수성구 진밭길 409",
+          "road_address_detail": " (범물동)",
+          "jibun_address": "대구광역시 수성구 범물동 1118-1 수성구청소년수련원",
+          "english_address": "409 Jinbat-gil, Suseong-gu, Daegu",
+          "postal_code": "42240",
+          "adm_code": "2726011300",
+          "lawd_code": "27260",
+          "building_name": "수성구청소년수련원",
+          "sido": "대구광역시",
+          "sigungu": "수성구",
+          "eupmyeondong": "범물동",
+          "ri": null,
+          "road_name": "진밭길",
+          "building_main_no": "409",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "1118",
+          "lot_sub_no": "1",
+          "road_mgmt_no": "272604238384",
+          "building_mgmt_no": "2726011300111180001000002"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6914,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:20:45.153Z",
+      "usage_event_id": "ed6f31ca-5245-474c-b7d6-300fb0c9eca4"
+    }
+  }
+}

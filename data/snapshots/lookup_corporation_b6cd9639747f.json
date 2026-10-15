@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00116356"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00116356",
+      "corp_name": "(주)동성화학",
+      "corp_name_en": "DONGSUNG CHEMICAL CO.,LTD",
+      "stock_name": "동성화학",
+      "stock_code": "005190",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이경석",
+      "corporate_registration_number": "1801110007690",
+      "business_registration_number": "6038107586",
+      "address": "부산광역시 사하구  신산로 99",
+      "homepage": "www.dschem.co.kr",
+      "ir_url": null,
+      "phone": "051-200-4500",
+      "fax": "051-202-9515",
+      "industry_code": "201",
+      "established_date": "19670916",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7797,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:11.164Z",
+      "usage_event_id": "cd096086-0310-499e-97a0-e6ae83077850"
+    }
+  }
+}

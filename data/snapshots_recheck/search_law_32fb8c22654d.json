@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "도로교통법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "도로교통법",
+          "law_id": "001638",
+          "law_type": "법률",
+          "ministry": "경찰청",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=291133&type=HTML&mobileYn=&efYd=20261013",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "291133",
+          "revision_type": "일부개정",
+          "promulgation_no": "22067",
+          "enforcement_date": "20261013",
+          "promulgation_date": "20261013"
+        },
+        {
+          "name": "도로교통법 시행령",
+          "law_id": "003395",
+          "law_type": "대통령령",
+          "ministry": "경찰청",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290387&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290387",
+          "revision_type": "타법개정",
+          "promulgation_no": "36728",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "도로교통법 시행규칙",
+          "law_id": "007079",
+          "law_type": "행정안전부령",
+          "ministry": "경찰청",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289009&type=HTML&mobileYn=&efYd=20260824",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "289009",
+          "revision_type": "일부개정",
+          "promulgation_no": "00636",
+          "enforcement_date": "20260824",
+          "promulgation_date": "20260824"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2508,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:14.569Z",
+      "usage_event_id": "31002013-098c-42b4-bb2e-4934a7525b07"
+    }
+  }
+}

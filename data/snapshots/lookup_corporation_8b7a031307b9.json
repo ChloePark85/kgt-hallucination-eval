@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01152470"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-476-8584",
+      "phone": "02-476-8583",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 과천시 과천대로2길 48 (갈현동, 펄어비스 홈 원)",
+      "ceo_name": "허진영",
+      "homepage": "www.pearlabyss.com",
+      "corp_code": "01152470",
+      "corp_name": "주식회사 펄어비스",
+      "market_raw": "K",
+      "stock_code": "263750",
+      "stock_name": "펄어비스",
+      "corp_name_en": "PearlAbyss Corp.",
+      "industry_code": "58211",
+      "established_date": "20100910",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1388162479",
+      "corporate_registration_number": "1341110195582"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6614,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:26:08.239Z",
+      "usage_event_id": "6d4024e1-8fd0-49d7-b26d-75b3c7144114"
+    }
+  }
+}

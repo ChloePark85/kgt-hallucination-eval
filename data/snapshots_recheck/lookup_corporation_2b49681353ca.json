@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01489648"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-719-2851",
+      "phone": "031-719-0700",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 성남시 수정구 금토로 52 F동 (금토동, 솔브레인)",
+      "ceo_name": "박영수",
+      "homepage": "www.soulbrain.co.kr",
+      "corp_code": "01489648",
+      "corp_name": "솔브레인 주식회사",
+      "market_raw": "K",
+      "stock_code": "357780",
+      "stock_name": "솔브레인",
+      "corp_name_en": "Soulbrain Co., Ltd.",
+      "industry_code": "204",
+      "established_date": "20200701",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "5248601789",
+      "corporate_registration_number": "1311110597525"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2646,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:31:06.577Z",
+      "usage_event_id": "be371626-9c0c-4785-8165-0c168d9e3c87"
+    }
+  }
+}

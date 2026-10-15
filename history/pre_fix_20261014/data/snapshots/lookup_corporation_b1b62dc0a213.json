@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246046"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00246046",
+      "corp_name": "주식회사 씨앤해운",
+      "corp_name_en": "C&SHIPPING CO.,LTD.",
+      "stock_name": "씨앤해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임갑표",
+      "corporate_registration_number": "1101111179773",
+      "business_registration_number": "1028139756",
+      "address": "서울특별시 중구 장교동 1 장교빌딩 1601",
+      "homepage": "sevenmt.co.kr",
+      "ir_url": null,
+      "phone": "02-3709-6600",
+      "fax": "02-775-0420",
+      "industry_code": "50112",
+      "established_date": "19950721",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7497,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:43.565Z",
+      "usage_event_id": "496fba59-3c89-47cc-ba3d-dbef6be7fdd8"
+    }
+  }
+}

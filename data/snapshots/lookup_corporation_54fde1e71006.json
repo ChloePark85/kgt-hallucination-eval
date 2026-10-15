@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00127990"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00127990",
+      "corp_name": "(주)삼일상호저축은행",
+      "corp_name_en": null,
+      "stock_name": "삼일상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강귀희",
+      "corporate_registration_number": "2241110000203",
+      "business_registration_number": "6168100390",
+      "address": "제주특별자치도 서귀포시 서귀동 291-40",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "064 -32  -3131",
+      "fax": "064-733-3175",
+      "industry_code": "6413",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7755,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:42.105Z",
+      "usage_event_id": "7da6c4ed-ef2a-4d82-a873-114742d9aadd"
+    }
+  }
+}

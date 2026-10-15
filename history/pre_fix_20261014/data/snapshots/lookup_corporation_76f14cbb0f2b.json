@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00205164"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00205164",
+      "corp_name": "주식회사 유니온약품상사",
+      "corp_name_en": "Union Pharmacy Wholesale Co., Ltd.",
+      "stock_name": "유니온약품상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "안병광",
+      "corporate_registration_number": "1101111579486",
+      "business_registration_number": "1058195363",
+      "address": "서울특별시 동작구 대방동 353-9",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-824-4697",
+      "fax": "02-824-4145",
+      "industry_code": "46441",
+      "established_date": "19980825",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7593,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:35.823Z",
+      "usage_event_id": "1adb1c25-c4f7-4c1c-96c6-e10bb01a3722"
+    }
+  }
+}

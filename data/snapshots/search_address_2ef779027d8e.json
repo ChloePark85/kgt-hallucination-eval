@@ -1,0 +1,100 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "경상남도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:28:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "경상남도",
+          "sigungu": "진주시",
+          "adm_code": "4817012200",
+          "lawd_code": "48170",
+          "road_name": "월아산로",
+          "lot_sub_no": "2",
+          "lot_main_no": "348",
+          "postal_code": "52732",
+          "eupmyeondong": "초전동",
+          "road_address": "경상남도 진주시 월아산로 2026 (초전동)",
+          "road_mgmt_no": "481703332043",
+          "building_name": "경상남도청 서부청사",
+          "jibun_address": "경상남도 진주시 초전동 348-2 경상남도청 서부청사",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "2026 Worasan-ro, Jinju-si, Gyeongsangnam-do",
+          "is_mountain_lot": false,
+          "building_main_no": "2026",
+          "building_mgmt_no": "4817012200103480002000001",
+          "road_address_main": "경상남도 진주시 월아산로 2026",
+          "road_address_detail": " (초전동)"
+        },
+        {
+          "ri": null,
+          "sido": "경상남도",
+          "sigungu": "창원시 의창구",
+          "adm_code": "4812112500",
+          "lawd_code": "48121",
+          "road_name": "중앙대로",
+          "lot_sub_no": "0",
+          "lot_main_no": "1",
+          "postal_code": "51154",
+          "eupmyeondong": "사림동",
+          "road_address": "경상남도 창원시 의창구 중앙대로 300 (사림동)",
+          "road_mgmt_no": "481212327003",
+          "building_name": "경상남도청",
+          "jibun_address": "경상남도 창원시 의창구 사림동 1 경상남도청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "300 Jungang-daero, Uichang-gu, Changwon-si, Gyeongsangnam-do",
+          "is_mountain_lot": false,
+          "building_main_no": "300",
+          "building_mgmt_no": "4812112500100010000029218",
+          "road_address_main": "경상남도 창원시 의창구 중앙대로 300",
+          "road_address_detail": " (사림동)"
+        },
+        {
+          "ri": null,
+          "sido": "경상남도",
+          "sigungu": "창원시 의창구",
+          "adm_code": "4812112500",
+          "lawd_code": "48121",
+          "road_name": "상남로",
+          "lot_sub_no": "1",
+          "lot_main_no": "1",
+          "postal_code": "51139",
+          "eupmyeondong": "사림동",
+          "road_address": "경상남도 창원시 의창구 상남로 318 (사림동)",
+          "road_mgmt_no": "481213327026",
+          "building_name": "경상남도청어린이집",
+          "jibun_address": "경상남도 창원시 의창구 사림동 1-1 경상남도청어린이집",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "318 Sangnam-ro, Uichang-gu, Changwon-si, Gyeongsangnam-do",
+          "is_mountain_lot": false,
+          "building_main_no": "318",
+          "building_mgmt_no": "4812112500100010001033655",
+          "road_address_main": "경상남도 창원시 의창구 상남로 318",
+          "road_address_detail": " (사림동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6425,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-14T02:28:36.609Z",
+      "usage_event_id": "d64a9ab4-3857-4157-a6f0-5888cffd7a19"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "리노공업",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00369657",
+          "corp_name": "리노공업",
+          "stock_code": "058470",
+          "modified_date": "20230216"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6598,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:31.152Z",
+      "usage_event_id": "5b618f23-e810-41aa-8238-717e3480cead"
+    }
+  }
+}

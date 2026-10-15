@@ -1,0 +1,40 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "클래시스",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "01061327",
+          "corp_name": "클래시스",
+          "stock_code": "214150",
+          "listed": true,
+          "modified_date": "20260721"
+        },
+        {
+          "corp_code": "01185609",
+          "corp_name": "클래시스",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7926,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:08:04.384Z",
+      "usage_event_id": "46b93152-f4c5-4090-a738-a7477f83f65c"
+    }
+  }
+}

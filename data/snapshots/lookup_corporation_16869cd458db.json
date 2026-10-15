@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00361664"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00361664",
+      "corp_name": "기흥종합건설주식회사",
+      "corp_name_en": "Keeheung Construction Co, Ltd.",
+      "stock_name": "기흥종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김광호",
+      "corporate_registration_number": "1101110759310",
+      "business_registration_number": "1238141939",
+      "address": "경기도 광주시 오포읍 신현리 380",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-718-8670",
+      "fax": "031-718-7485",
+      "industry_code": "41112",
+      "established_date": "19910320",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7357,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:23.791Z",
+      "usage_event_id": "fbf7cdb9-bd6f-4719-a4df-15ae2d9fa789"
+    }
+  }
+}

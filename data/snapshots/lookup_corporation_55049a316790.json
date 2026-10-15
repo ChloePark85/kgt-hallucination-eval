@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00222930"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00222930",
+      "corp_name": "동선섬유주식회사",
+      "corp_name_en": "Dong Sun Textile Co., Ltd.",
+      "stock_name": "동선섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "손무일",
+      "corporate_registration_number": "1760110007408",
+      "business_registration_number": "5138106926",
+      "address": "경상북도 구미시 공단동 292-31",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "054.461.2270",
+      "fax": "054.462.6589",
+      "industry_code": "13213",
+      "established_date": "19930220",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7551,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:04.993Z",
+      "usage_event_id": "43b5564f-afaa-4a6b-b7f2-53200543a144"
+    }
+  }
+}

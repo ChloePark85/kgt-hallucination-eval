@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "SK하이닉스",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00164779",
+          "corp_name": "SK하이닉스",
+          "stock_code": "000660",
+          "listed": true,
+          "modified_date": "20240328"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7996,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:06:17.346Z",
+      "usage_event_id": "bd294026-14ae-42c1-a82b-60b5bbe7b5f5"
+    }
+  }
+}

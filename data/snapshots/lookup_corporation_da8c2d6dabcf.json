@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00208532"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00208532",
+      "corp_name": "주식회사 청화섬유",
+      "corp_name_en": "Chung-hwa textile. inc",
+      "stock_name": "청화섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권순철",
+      "corporate_registration_number": "1747110003157",
+      "business_registration_number": "5058121080",
+      "address": "경상북도 영천시 금호읍 신월리 220-2",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "054-331-8533",
+      "fax": "054-331-8537",
+      "industry_code": "13104",
+      "established_date": "19930501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7575,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:48.275Z",
+      "usage_event_id": "71ef0fb7-005b-485b-aa8e-9ee50d916721"
+    }
+  }
+}

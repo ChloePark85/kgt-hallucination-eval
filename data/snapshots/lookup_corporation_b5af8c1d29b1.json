@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00253170"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00253170",
+      "corp_name": "신영상사(주)",
+      "corp_name_en": "Shinyoung.CO.,LTd",
+      "stock_name": "신영상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이창훈",
+      "corporate_registration_number": "1412110000342",
+      "business_registration_number": "2218110180",
+      "address": "강원도 춘천시 사북면 신포리338",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-776-2254",
+      "fax": "02-771-2256",
+      "industry_code": "68112",
+      "established_date": "19960823",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7471,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:01.901Z",
+      "usage_event_id": "fb03bc03-f8ff-4da2-b8ec-c681b38eea07"
+    }
+  }
+}

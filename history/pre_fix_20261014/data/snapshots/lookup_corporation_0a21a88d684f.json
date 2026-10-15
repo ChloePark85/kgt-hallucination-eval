@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00454982"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00454982",
+      "corp_name": "주식회사 한국마이콤화학플랜트",
+      "corp_name_en": "-",
+      "stock_name": "한국마이콤화학플랜트",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "대 목 건 이",
+      "corporate_registration_number": "2001110098496",
+      "business_registration_number": "4098147536",
+      "address": "광주광역시 북구 풍향동 605-17",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "062-527-0851",
+      "fax": "-",
+      "industry_code": "29171",
+      "established_date": "19990601",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7139,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:02.933Z",
+      "usage_event_id": "d4ff4843-6010-4573-a9b7-32929ad457e6"
+    }
+  }
+}

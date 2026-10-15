@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00130815"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00130815",
+      "corp_name": "(주)서울상호저축은행",
+      "corp_name_en": "Seoul Mutual Savings Bank",
+      "stock_name": "서울상호저축은행",
+      "stock_code": "016560",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박영진",
+      "corporate_registration_number": "1101110339427",
+      "business_registration_number": "2118152510",
+      "address": "서울특별시 강남구 선릉로 646 (진흥저축은행 1층)",
+      "homepage": "www.seoulbanking.co.kr",
+      "ir_url": null,
+      "phone": "02-540-6688",
+      "fax": "02-511-8117",
+      "industry_code": "64131",
+      "established_date": "19821216",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7747,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:48.097Z",
+      "usage_event_id": "35320b5a-89fd-49f2-b92d-79079939e8e8"
+    }
+  }
+}

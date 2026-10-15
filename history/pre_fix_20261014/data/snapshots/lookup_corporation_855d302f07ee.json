@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00420824"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00420824",
+      "corp_name": "문화종합건설주식회사",
+      "corp_name_en": "MOONHWA CONSTRUCTION CO., LTD",
+      "stock_name": "문화종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "문 은 주",
+      "corporate_registration_number": "1246110238459",
+      "business_registration_number": "1228164297",
+      "address": "인천광역시 부평구 부평동 546-47 문 화빌딩",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-522-0333",
+      "fax": "032-513-0333",
+      "industry_code": "4112",
+      "established_date": "20001214",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7233,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:50.455Z",
+      "usage_event_id": "7dd4044b-b6d9-484f-bce9-db5c29ea2118"
+    }
+  }
+}

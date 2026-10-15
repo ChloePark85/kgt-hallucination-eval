@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00960641"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00960641",
+      "corp_name": "한국투자패러랠유전해외자원개발특별자산투자회사1호(지분증권)",
+      "corp_name_en": "KIM PARALLEL OILFIELD OVERSEAS RESOURCES DEVELOPMENT SPECIAL ASSET FUND [1](EQUI",
+      "stock_name": "한국투자패러랠유전해외자원개발특별자산투자회사1호(지분증권)",
+      "stock_code": "168490",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한국투자리얼에셋운용",
+      "corporate_registration_number": "1101114890334",
+      "business_registration_number": "1078776952",
+      "address": "서울특별시 영등포구 국제금융로2길 28 18층(여의도동)",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2180-0466",
+      "fax": "02-2180-0908",
+      "industry_code": "64209",
+      "established_date": "20120613",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7018,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:30.776Z",
+      "usage_event_id": "d0f71b0d-b3e9-445e-a8fe-1a2470bfb97f"
+    }
+  }
+}

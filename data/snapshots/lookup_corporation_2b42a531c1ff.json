@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00152154"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00152154",
+      "corp_name": "대전상호저축은행",
+      "corp_name_en": "DAEJEON MUTUAL SAVINGS BANK",
+      "stock_name": "대전상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "류제국",
+      "corporate_registration_number": "1601110002256",
+      "business_registration_number": "3058104031",
+      "address": "대전광역시 중구 선화동 12-3",
+      "homepage": "wwwdjbank.co.kr",
+      "ir_url": null,
+      "phone": "042-255-0900",
+      "fax": "042-253-0941",
+      "industry_code": "64132",
+      "established_date": "19741226",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7693,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:26.172Z",
+      "usage_event_id": "286d71f6-8c6e-4518-a1b2-2224d45ddb40"
+    }
+  }
+}

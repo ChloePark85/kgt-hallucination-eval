@@ -1,0 +1,40 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "알테오젠",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00989619",
+          "corp_name": "알테오젠",
+          "stock_code": "196170",
+          "modified_date": "20251229"
+        },
+        {
+          "listed": false,
+          "corp_code": "01645493",
+          "corp_name": "알테오젠바이오로직스",
+          "stock_code": null,
+          "modified_date": "20260320"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6619,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:01.986Z",
+      "usage_event_id": "a7d8bbd0-914f-4294-892b-e22119f16429"
+    }
+  }
+}

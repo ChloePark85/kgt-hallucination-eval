@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00256450"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00256450",
+      "corp_name": "동서산업건설주식회사(가칭)",
+      "corp_name_en": null,
+      "stock_name": "동서산업건설(가칭)",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김성욱",
+      "corporate_registration_number": "1111111111112",
+      "business_registration_number": "2028148593",
+      "address": "서울특별시 영등포구 신길1동",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)",
+      "fax": "02)",
+      "industry_code": "41112",
+      "established_date": "19990201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7461,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:08.920Z",
+      "usage_event_id": "e8071e0b-4602-42e0-8c01-c344c400f5aa"
+    }
+  }
+}

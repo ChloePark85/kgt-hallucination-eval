@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00101664"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00101664",
+      "corp_name": "(주)경보제약",
+      "corp_name_en": "KYONGBO PHARMACEUTICAL CO., LTD.",
+      "stock_name": "경보제약",
+      "stock_code": "214390",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "김태영",
+      "corporate_registration_number": "1648110001961",
+      "business_registration_number": "3128104567",
+      "address": "충청남도 아산시 실옥로 174",
+      "homepage": "www.kbpharma.co.kr",
+      "ir_url": null,
+      "phone": "02-2175-2315",
+      "fax": "041-546-8427",
+      "industry_code": "211",
+      "established_date": "19870331",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7855,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:28.868Z",
+      "usage_event_id": "0453a9e8-7b08-4c65-93b8-319b800cbcde"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "LG화학",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00356361",
+          "corp_name": "LG화학",
+          "stock_code": "051910",
+          "listed": true,
+          "modified_date": "20260401"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7966,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:07:09.072Z",
+      "usage_event_id": "b3634bf9-07dc-4559-bf22-b37ca59776d4"
+    }
+  }
+}

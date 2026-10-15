@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00117814"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00117814",
+      "corp_name": "동영식품공업주식회사",
+      "corp_name_en": "DONG YOUNG FOODS CO.,LTD",
+      "stock_name": "동영식품공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김일식",
+      "corporate_registration_number": "1101110537055",
+      "business_registration_number": "1298116632",
+      "address": "경기도 성남시 중원구 상대원동 5449-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-730-9015",
+      "fax": "031-746-1606",
+      "industry_code": "10219",
+      "established_date": "19870701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7787,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:18.518Z",
+      "usage_event_id": "d1eceb38-18ac-44bc-b37f-069b13a978eb"
+    }
+  }
+}

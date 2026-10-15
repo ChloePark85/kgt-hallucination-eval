@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00260693"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00260693",
+      "corp_name": "평안물산(주)",
+      "corp_name_en": "Pyeong Ahn Trading, Inc.",
+      "stock_name": "평안물산",
+      "stock_code": "037240",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "지정숙",
+      "corporate_registration_number": "1101111192626",
+      "business_registration_number": "1168137437",
+      "address": "충청북도 청원군 오창읍 각리 642-4 ",
+      "homepage": "nntech.co.kr",
+      "ir_url": null,
+      "phone": "043-240-4200",
+      "fax": "02-523-8277",
+      "industry_code": "261",
+      "established_date": "19950831",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7449,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:17.235Z",
+      "usage_event_id": "616ff206-21b6-4693-9d3c-3f4fba90436c"
+    }
+  }
+}

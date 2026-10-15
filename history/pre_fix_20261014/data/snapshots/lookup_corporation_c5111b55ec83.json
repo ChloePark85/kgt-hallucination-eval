@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00504409"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00504409",
+      "corp_name": "(주)씨제이헬로비전해운대기장방송",
+      "corp_name_en": "CJ HelloVision HaeundaeGijang Broadcasting Co., Ltd",
+      "stock_name": "씨제이헬로비전해운대기장방송",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이준영",
+      "corporate_registration_number": "1801110153576",
+      "business_registration_number": "6188117427",
+      "address": "부산광역시 해운대구 좌동 1479-1번지 웅신시네아트빌딩 5층",
+      "homepage": "www.hctv.co.kr",
+      "ir_url": null,
+      "phone": "051-749-3925",
+      "fax": "051-749-3900",
+      "industry_code": "60222",
+      "established_date": "19940309",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7125,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:13.236Z",
+      "usage_event_id": "3504b9ac-494f-44d5-90c8-d25d044474d9"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00796994"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00796994",
+      "corp_name": "조선선재(주)",
+      "corp_name_en": "CHOSUN WELDING POHANG Co., Ltd",
+      "stock_name": "조선선재",
+      "stock_code": "120030",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "장원영",
+      "corporate_registration_number": "1717110086312",
+      "business_registration_number": "5068170186",
+      "address": "경상북도 포항시 남구 괴동로 43 (장흥동)",
+      "homepage": "www.chosunwelding.com",
+      "ir_url": null,
+      "phone": "054-289-8200",
+      "fax": "02-553-6117",
+      "industry_code": "2599",
+      "established_date": "20100101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7058,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:01.885Z",
+      "usage_event_id": "970a1362-0561-4c28-992c-799f309c0418"
+    }
+  }
+}

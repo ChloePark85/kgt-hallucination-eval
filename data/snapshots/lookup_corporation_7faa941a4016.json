@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00828637"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00828637",
+      "corp_name": "해운대우동제일차 주식회사",
+      "corp_name_en": "Haeundaewoodong the 1st. Co., Ltd.",
+      "stock_name": "해운대우동제일차",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이동헌",
+      "corporate_registration_number": "1101114350669",
+      "business_registration_number": "1048628089",
+      "address": "서울특별시 중구 을지로2가 181",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-729-0425",
+      "fax": null,
+      "industry_code": "649",
+      "established_date": "20100514",
+      "fiscal_year_end_month": "05"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7042,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:13.484Z",
+      "usage_event_id": "f0a62118-9662-4f99-8222-3a2ae03808c6"
+    }
+  }
+}

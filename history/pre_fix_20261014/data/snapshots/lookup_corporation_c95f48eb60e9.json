@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00126265"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00126265",
+      "corp_name": "삼성석유화학(주)",
+      "corp_name_en": "Samsung Petrochemical Co., Ltd.",
+      "stock_name": "삼성석유화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정유성",
+      "corporate_registration_number": "1812110000435",
+      "business_registration_number": "6108102750",
+      "address": "울산광역시 남구 사평로 71 (부곡동, 삼성석유화학(주))",
+      "homepage": "www.myspc.com",
+      "ir_url": null,
+      "phone": "02-2255-0315",
+      "fax": "02-755-7564",
+      "industry_code": "20111",
+      "established_date": "19740711",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7763,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:36.102Z",
+      "usage_event_id": "627e7c94-4b2a-42e6-9eaa-81f7a5129f08"
+    }
+  }
+}

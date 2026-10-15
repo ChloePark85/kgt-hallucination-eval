@@ -1,0 +1,100 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "서초구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "서초구",
+          "adm_code": "1165010800",
+          "lawd_code": "11650",
+          "road_name": "남부순환로",
+          "lot_sub_no": "3",
+          "lot_main_no": "1376",
+          "postal_code": "06750",
+          "eupmyeondong": "서초동",
+          "road_address": "서울특별시 서초구 남부순환로 2584 (서초동)",
+          "road_mgmt_no": "116502000003",
+          "building_name": "서초구청, 서초구의회",
+          "jibun_address": "서울특별시 서초구 서초동 1376-3 서초구청, 서초구의회",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "2584 Nambusunhwan-ro, Seocho-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "2584",
+          "building_mgmt_no": "1165010800113760003000001",
+          "road_address_main": "서울특별시 서초구 남부순환로 2584",
+          "road_address_detail": " (서초동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "서초구",
+          "adm_code": "1165010800",
+          "lawd_code": "11650",
+          "road_name": "남부순환로347길",
+          "lot_sub_no": "26",
+          "lot_main_no": "1360",
+          "postal_code": "06730",
+          "eupmyeondong": "서초동",
+          "road_address": "서울특별시 서초구 남부순환로347길 46 (서초동)",
+          "road_mgmt_no": "116504163084",
+          "building_name": "서초구청 직장어린이집",
+          "jibun_address": "서울특별시 서초구 서초동 1360-26 서초구청 직장어린이집",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "46 Nambusunhwan-ro 347-gil, Seocho-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "46",
+          "building_mgmt_no": "1165010800113600026000001",
+          "road_address_main": "서울특별시 서초구 남부순환로347길 46",
+          "road_address_detail": " (서초동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "서초구",
+          "adm_code": "1165010400",
+          "lawd_code": "11650",
+          "road_name": "양재대로12길",
+          "lot_sub_no": "0",
+          "lot_main_no": "23",
+          "postal_code": "06803",
+          "eupmyeondong": "원지동",
+          "road_address": "서울특별시 서초구 양재대로12길 73-19 (원지동)",
+          "road_mgmt_no": "116504163470",
+          "building_name": "서초구청소종합시설",
+          "jibun_address": "서울특별시 서초구 원지동 23 서초구청소종합시설",
+          "is_underground": false,
+          "building_sub_no": "19",
+          "english_address": "73-19 Yangjae-daero 12-gil, Seocho-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "73",
+          "building_mgmt_no": "1165010400100230000004528",
+          "road_address_main": "서울특별시 서초구 양재대로12길 73-19",
+          "road_address_detail": " (원지동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2620,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:31:38.531Z",
+      "usage_event_id": "1cb65d61-4e0a-4d2a-9ba6-98fb6ef75805"
+    }
+  }
+}

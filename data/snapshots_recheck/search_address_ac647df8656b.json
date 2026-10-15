@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "분당구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 1,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "경기도",
+          "sigungu": "성남시 분당구",
+          "adm_code": "4113510200",
+          "lawd_code": "41135",
+          "road_name": "분당로",
+          "lot_sub_no": "0",
+          "lot_main_no": "1",
+          "postal_code": "13594",
+          "eupmyeondong": "수내동",
+          "road_address": "경기도 성남시 분당구 분당로 50 (수내동)",
+          "road_mgmt_no": "411353180026",
+          "building_name": "분당구청",
+          "jibun_address": "경기도 성남시 분당구 수내동 1 분당구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "50 Bundang-ro, Bundang-gu, Seongnam-si, Gyeonggi-do",
+          "is_mountain_lot": false,
+          "building_main_no": "50",
+          "building_mgmt_no": "4113510200100010000019855",
+          "road_address_main": "경기도 성남시 분당구 분당로 50",
+          "road_address_detail": " (수내동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2578,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:32:29.692Z",
+      "usage_event_id": "3c5f7dd7-8644-427e-8b4b-0b8a1c055428"
+    }
+  }
+}

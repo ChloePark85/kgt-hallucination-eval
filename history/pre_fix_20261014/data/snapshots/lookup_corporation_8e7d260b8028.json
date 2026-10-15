@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01547845"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01547845",
+      "corp_name": "주식회사 당근마켓",
+      "corp_name_en": "Danggeun Market Inc.",
+      "stock_name": "당근마켓",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김용현, 황도연",
+      "corporate_registration_number": "1101115782150",
+      "business_registration_number": "3758700088",
+      "address": "서울 서초구 강남대로 465 10, 11, 12층",
+      "homepage": "www.daangn.com",
+      "ir_url": "about.karrotmarket.com",
+      "phone": "1544-9796",
+      "fax": null,
+      "industry_code": "58222",
+      "established_date": "20150715",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7885,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:52.091Z",
+      "usage_event_id": "e4a71cfa-8c5d-4c87-8772-433dd5856204"
+    }
+  }
+}

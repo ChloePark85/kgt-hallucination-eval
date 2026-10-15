@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00389572"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00389572",
+      "corp_name": "(주)두성상사",
+      "corp_name_en": "DU-SUNG CO,LTD",
+      "stock_name": "두성상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종혁",
+      "corporate_registration_number": "1311110021227",
+      "business_registration_number": "1318139429",
+      "address": "인천광역시 남구 주안 1412",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(032) 862-0450",
+      "fax": "(032) 862-0567",
+      "industry_code": "68119",
+      "established_date": "19950930",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7285,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:14.923Z",
+      "usage_event_id": "38afd78a-3843-4d92-973b-61e9be646b4f"
+    }
+  }
+}

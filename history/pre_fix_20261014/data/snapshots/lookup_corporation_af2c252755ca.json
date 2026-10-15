@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00675150"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00675150",
+      "corp_name": "(주)태양식품",
+      "corp_name_en": "-",
+      "stock_name": "태양식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양한주",
+      "corporate_registration_number": "1501110036900",
+      "business_registration_number": "3018149813",
+      "address": "충청북도 청원군 현도면 선동리 91-1",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "043-269-0670",
+      "fax": "-",
+      "industry_code": "11209",
+      "established_date": "19990113",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7088,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:40.102Z",
+      "usage_event_id": "d89ba191-41ed-4bb8-9408-c406be5328e8"
+    }
+  }
+}

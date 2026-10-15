@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00258917"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00258917",
+      "corp_name": "(주)성진상사",
+      "corp_name_en": "Seong Jin corp.",
+      "stock_name": "성진상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양준영",
+      "corporate_registration_number": "1845110000618",
+      "business_registration_number": "6218103031",
+      "address": "경상남도 양산시 유산동 240-1",
+      "homepage": "해당사항 없슴",
+      "ir_url": null,
+      "phone": "(055)382-2591",
+      "fax": "(055)382-2592",
+      "industry_code": "68112",
+      "established_date": "19741224",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7451,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:15.862Z",
+      "usage_event_id": "d61feab1-fccc-4f4e-9071-1c9dbcfefd0b"
+    }
+  }
+}

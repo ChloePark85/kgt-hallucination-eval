@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00764320"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00764320",
+      "corp_name": "(주)지오고성조선",
+      "corp_name_en": "Marine Engineering & Shipbuilding co., ltd.",
+      "stock_name": "지오고성조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이봉중",
+      "corporate_registration_number": "1950110006902",
+      "business_registration_number": "6128125948",
+      "address": "경상남도 고성군 동해면 장좌리 77번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-329-7794",
+      "fax": "051-329-8797",
+      "industry_code": "3111",
+      "established_date": "20061208",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7072,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:51.891Z",
+      "usage_event_id": "8a765a16-39cc-42cb-873b-deca23877523"
+    }
+  }
+}

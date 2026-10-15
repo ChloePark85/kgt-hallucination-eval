@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "강원특별자치도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 2,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "강원특별자치도 춘천시 봉의산길 37 (봉의동)",
+          "road_address_main": "강원특별자치도 춘천시 봉의산길 37",
+          "road_address_detail": " (봉의동)",
+          "jibun_address": "강원특별자치도 춘천시 봉의동 4-9 강원특별자치도청 어린이집",
+          "english_address": "37 Bonguisan-gil, Chuncheon-si, Gangwon-do",
+          "postal_code": "24265",
+          "adm_code": "5111010100",
+          "lawd_code": "51110",
+          "building_name": "강원특별자치도청 어린이집",
+          "sido": "강원특별자치도",
+          "sigungu": "춘천시",
+          "eupmyeondong": "봉의동",
+          "ri": null,
+          "road_name": "봉의산길",
+          "building_main_no": "37",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "4",
+          "lot_sub_no": "9",
+          "road_mgmt_no": "511104454294",
+          "building_mgmt_no": "4211010100100040009000001"
+        },
+        {
+          "road_address": "강원특별자치도 춘천시 중앙로 1 (봉의동)",
+          "road_address_main": "강원특별자치도 춘천시 중앙로 1",
+          "road_address_detail": " (봉의동)",
+          "jibun_address": "강원특별자치도 춘천시 봉의동 15 강원특별자치도청",
+          "english_address": "1 Jungang-ro, Chuncheon-si, Gangwon-do",
+          "postal_code": "24266",
+          "adm_code": "5111010100",
+          "lawd_code": "51110",
+          "building_name": "강원특별자치도청",
+          "sido": "강원특별자치도",
+          "sigungu": "춘천시",
+          "eupmyeondong": "봉의동",
+          "ri": null,
+          "road_name": "중앙로",
+          "building_main_no": "1",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "15",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "511103218033",
+          "building_mgmt_no": "4211010100100150001011503"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6828,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:45.847Z",
+      "usage_event_id": "cb08b9f3-1977-4e9a-821a-368cbb6cb963"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00676256"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00676256",
+      "corp_name": "조성해운(주)",
+      "corp_name_en": "JOSUNG SHIPPING CO., LTD.",
+      "stock_name": "조성해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤승열",
+      "corporate_registration_number": "1101111119183",
+      "business_registration_number": "1028138155",
+      "address": "서울특별시 종로구 견지동 68번지 서흥빌딩6층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-734-6290",
+      "fax": "02-734-6291",
+      "industry_code": "50112",
+      "established_date": "19950113",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7086,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:41.468Z",
+      "usage_event_id": "f57c6352-6884-4143-b77b-8a189ed6d42d"
+    }
+  }
+}

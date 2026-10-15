@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41173",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 696,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "관양동",
+          "floor": 4,
+          "jibun": "1588",
+          "canceled": true,
+          "deal_date": "2025-09-06",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 1993,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "41173",
+          "canceled_date": "26.04.02",
+          "apartment_name": "공작아파트",
+          "deal_amount_krw": 510000000,
+          "deal_amount_raw": "51,000",
+          "exclusive_area_m2": 50
+        }
+      ],
+      "lawd_code": "41173",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2564,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:46.511Z",
+      "usage_event_id": "b360d7e6-63d6-4292-a48d-9dfd3328e183"
+    }
+  }
+}

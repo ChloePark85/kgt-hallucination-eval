@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00370167"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00370167",
+      "corp_name": "일진전자통신(주)",
+      "corp_name_en": "IL JIN Telecom Electronics Co., Ltd.",
+      "stock_name": "일진전자통신",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 정행",
+      "corporate_registration_number": "1543110003117",
+      "business_registration_number": "3018118867",
+      "address": "충청북도 진천 백곡 구수 산 26",
+      "homepage": "www.ijte.co.kr",
+      "ir_url": null,
+      "phone": "02-3472-0660",
+      "fax": "02-3472-2365",
+      "industry_code": "26410",
+      "established_date": "19921010",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7323,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:47.849Z",
+      "usage_event_id": "bc042f68-c2ee-4536-b48b-6a7a8dab56ba"
+    }
+  }
+}

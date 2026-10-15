@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00263876"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00263876",
+      "corp_name": "(주)대붕전자",
+      "corp_name_en": "DAEBUNG ELECTRONICS CO. LTD",
+      "stock_name": "대붕전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이  재  준",
+      "corporate_registration_number": "",
+      "business_registration_number": "4098122549",
+      "address": "전라남도 장성군 동화면 구림리 740",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "0685-393-3535",
+      "fax": "0685-393-6569",
+      "industry_code": "28301",
+      "established_date": "19830325",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7437,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:25.709Z",
+      "usage_event_id": "8ddeedb1-4ef0-4ca5-b005-7e448df6a335"
+    }
+  }
+}

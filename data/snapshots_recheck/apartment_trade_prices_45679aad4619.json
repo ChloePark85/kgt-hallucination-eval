@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "26500",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 167,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "남천동",
+          "floor": 10,
+          "jibun": "148-4",
+          "canceled": false,
+          "deal_date": "2025-03-20",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 1979,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "26500",
+          "canceled_date": null,
+          "apartment_name": "삼익비치",
+          "deal_amount_krw": 1385000000,
+          "deal_amount_raw": "138,500",
+          "exclusive_area_m2": 115.6
+        }
+      ],
+      "lawd_code": "26500",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2598,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:05.736Z",
+      "usage_event_id": "62c17822-a108-4e24-bdaa-4a24859b2d3f"
+    }
+  }
+}

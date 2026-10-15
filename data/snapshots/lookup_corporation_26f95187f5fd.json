@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00756127"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00756127",
+      "corp_name": "대우조선해양상조(주)",
+      "corp_name_en": "DSME MUTUAL AID.CO.LTD",
+      "stock_name": "대우조선해양상조",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이준호",
+      "corporate_registration_number": "1101114017087",
+      "business_registration_number": "2118821883",
+      "address": "서울특별시 강남구 논현동 221-17 8층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3444-1444",
+      "fax": "02-750-8100",
+      "industry_code": "96922",
+      "established_date": "20081222",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7076,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:48.918Z",
+      "usage_event_id": "ae36bf34-94ca-4b53-9614-fa9d3c6f398c"
+    }
+  }
+}

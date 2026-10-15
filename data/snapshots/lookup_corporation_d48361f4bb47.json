@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00690955"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00690955",
+      "corp_name": "한미냉동식품(주)",
+      "corp_name_en": "Han mi Frozen Co.",
+      "stock_name": "한미냉동식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤화실",
+      "corporate_registration_number": "1101111012379",
+      "business_registration_number": "2158138183",
+      "address": "서울특별시 송파구 문정동 99-12",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-430-0164",
+      "fax": null,
+      "industry_code": "46102",
+      "established_date": "19940301",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7080,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:46.096Z",
+      "usage_event_id": "285f2445-71bf-47eb-88d9-ca7a2665c119"
+    }
+  }
+}

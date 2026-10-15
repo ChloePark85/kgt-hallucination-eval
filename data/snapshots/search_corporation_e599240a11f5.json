@@ -1,0 +1,82 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "쿠팡",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01019166",
+          "corp_name": "쿠팡",
+          "stock_code": null,
+          "modified_date": "20260729"
+        },
+        {
+          "listed": false,
+          "corp_code": "01559293",
+          "corp_name": "쿠팡대구에프씨제일차",
+          "stock_code": null,
+          "modified_date": "20210503"
+        },
+        {
+          "listed": false,
+          "corp_code": "01571329",
+          "corp_name": "쿠팡이츠서비스",
+          "stock_code": null,
+          "modified_date": "20230221"
+        },
+        {
+          "listed": false,
+          "corp_code": "01558902",
+          "corp_name": "쿠팡로지스틱스서비스",
+          "stock_code": null,
+          "modified_date": "20230220"
+        },
+        {
+          "listed": false,
+          "corp_code": "01561252",
+          "corp_name": "쿠팡페이",
+          "stock_code": null,
+          "modified_date": "20260729"
+        },
+        {
+          "listed": false,
+          "corp_code": "01474789",
+          "corp_name": "쿠팡풀필먼트서비스",
+          "stock_code": null,
+          "modified_date": "20260317"
+        },
+        {
+          "listed": false,
+          "corp_code": "01547641",
+          "corp_name": "쿠팡프라퍼티",
+          "stock_code": null,
+          "modified_date": "20260729"
+        },
+        {
+          "listed": false,
+          "corp_code": "01623215",
+          "corp_name": "쿠팡파이낸셜",
+          "stock_code": null,
+          "modified_date": "20260729"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6590,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:41.785Z",
+      "usage_event_id": "6d552ebd-0f7e-4d65-b06a-83e1a17705ad"
+    }
+  }
+}

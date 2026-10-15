@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00144818"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00144818",
+      "corp_name": "(주)유유제약",
+      "corp_name_en": "Yuyu Pharma, Inc.",
+      "stock_name": "유유제약",
+      "stock_code": "000220",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "유원상, 박노용(각자대표)",
+      "corporate_registration_number": "1341110002307",
+      "business_registration_number": "1238101790",
+      "address": "충청북도 제천시  바이오밸리1로 94",
+      "homepage": "www.yuyu.co.kr",
+      "ir_url": null,
+      "phone": "043-652-7981",
+      "fax": "02-2253-6200",
+      "industry_code": "212",
+      "established_date": "19410228",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7717,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:09.167Z",
+      "usage_event_id": "e3e514b6-819a-40e2-a265-2054b55ec68b"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00487494"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00487494",
+      "corp_name": "용우상사 주식회사",
+      "corp_name_en": "YongWoo Co., Ltd.",
+      "stock_name": "용우상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "구용우",
+      "corporate_registration_number": "2058110002026",
+      "business_registration_number": "4108150797",
+      "address": "전라남도 영광군 법성면 진내리 495",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "061-356-2429",
+      "fax": "061-356-2876",
+      "industry_code": "46",
+      "established_date": "19990531",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7131,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:08.725Z",
+      "usage_event_id": "310058e2-80e4-457d-856c-88ea5dedd01a"
+    }
+  }
+}

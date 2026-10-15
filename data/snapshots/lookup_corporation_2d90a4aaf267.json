@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00427182"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00427182",
+      "corp_name": "얼라이언스캐피탈파트너즈(주)",
+      "corp_name_en": "Alliance Capital Partners Co., Ltd.",
+      "stock_name": "얼라이언스캐피탈파트너즈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이병훈, 이황상",
+      "corporate_registration_number": "1101111694739",
+      "business_registration_number": "1208189007",
+      "address": "서울특별시 서초구 서초동 1337-31 산학협동재단빌딩 10층",
+      "homepage": "www.acpc.co.kr",
+      "ir_url": null,
+      "phone": "02-3415-1108",
+      "fax": "02-3415-1109",
+      "industry_code": "71531",
+      "established_date": "19990510",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7221,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:58.860Z",
+      "usage_event_id": "2ce1deac-e2a3-4afb-bec8-f37b1aa5ddee"
+    }
+  }
+}

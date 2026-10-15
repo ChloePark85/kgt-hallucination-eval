@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "동대문구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:33:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "동대문구",
+          "adm_code": "1123010200",
+          "lawd_code": "11230",
+          "road_name": "천호대로",
+          "lot_sub_no": "9",
+          "lot_main_no": "39",
+          "postal_code": "02565",
+          "eupmyeondong": "용두동",
+          "road_address": "서울특별시 동대문구 천호대로 145 (용두동)",
+          "road_mgmt_no": "112302000008",
+          "building_name": "동대문구청",
+          "jibun_address": "서울특별시 동대문구 용두동 39-9 동대문구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "145 Cheonho-daero, Dongdaemun-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "145",
+          "building_mgmt_no": "1123010200100390009039004",
+          "road_address_main": "서울특별시 동대문구 천호대로 145",
+          "road_address_detail": " (용두동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "동대문구",
+          "adm_code": "1123010600",
+          "lawd_code": "11230",
+          "road_name": "장한로",
+          "lot_sub_no": "0",
+          "lot_main_no": "300",
+          "postal_code": "02526",
+          "eupmyeondong": "장안동",
+          "road_address": "서울특별시 동대문구 장한로 191 (장안동)",
+          "road_mgmt_no": "112303105012",
+          "building_name": "동대문구청소년독서실",
+          "jibun_address": "서울특별시 동대문구 장안동 300 동대문구청소년독서실",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "191 Janghan-ro, Dongdaemun-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "191",
+          "building_mgmt_no": "1123010600103000000014696",
+          "road_address_main": "서울특별시 동대문구 장한로 191",
+          "road_address_detail": " (장안동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2543,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:33:11.172Z",
+      "usage_event_id": "eb137fb8-279b-4a45-9985-a0d315992098"
+    }
+  }
+}

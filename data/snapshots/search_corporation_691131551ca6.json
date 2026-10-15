@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "상사",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00455662",
+          "corp_name": "고은상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00236243",
+          "corp_name": "나토상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00370334",
+          "corp_name": "이에이치상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00207384",
+          "corp_name": "동일상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00131443",
+          "corp_name": "서통상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00162319",
+          "corp_name": "한양상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00299871",
+          "corp_name": "연화상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00435349",
+          "corp_name": "지영상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00434067",
+          "corp_name": "렉스상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00179373",
+          "corp_name": "로케트상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00389572",
+          "corp_name": "두성상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00101646",
+          "corp_name": "경방상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00226200",
+          "corp_name": "에스씨상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00207366",
+          "corp_name": "피어리스상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00262831",
+          "corp_name": "광륜상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00190233",
+          "corp_name": "신호상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00279965",
+          "corp_name": "삼릉상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00263283",
+          "corp_name": "시앤드시상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00205164",
+          "corp_name": "유니온약품상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00469337",
+          "corp_name": "상지상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00381668",
+          "corp_name": "미쯔비시상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00526003",
+          "corp_name": "동현상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00258917",
+          "corp_name": "성진상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00257510",
+          "corp_name": "대웅상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00253170",
+          "corp_name": "신영상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00816094",
+          "corp_name": "오성상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00336862",
+          "corp_name": "미쓰비시상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00577557",
+          "corp_name": "협진상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00487494",
+          "corp_name": "용우상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00224381",
+          "corp_name": "두올상사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7875,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:06.871Z",
+      "usage_event_id": "49c6f6e9-eac7-415d-b62d-03bf1ac7e76d"
+    }
+  }
+}

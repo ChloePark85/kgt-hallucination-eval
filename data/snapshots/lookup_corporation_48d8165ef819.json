@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00336862"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00336862",
+      "corp_name": "미쓰비시상사(주)",
+      "corp_name_en": "Mitsubishi Corporation",
+      "stock_name": "미쓰비시상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "Yorihiko Kojima",
+      "corporate_registration_number": "",
+      "business_registration_number": "20002487",
+      "address": "6-3, Marunouchi 2-chome, Chiyoda-ku, Tokyo, Japan",
+      "homepage": "www.mitsubishicorp.com/jp/ja/",
+      "ir_url": "http://www.mitsubishicorp.com/jp/ja/ir/",
+      "phone": "02-787-9169",
+      "fax": "02-787-9189",
+      "industry_code": "46722",
+      "established_date": "19500401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7373,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:10.316Z",
+      "usage_event_id": "3060c007-2f10-474d-a89f-be3d00fbdb56"
+    }
+  }
+}

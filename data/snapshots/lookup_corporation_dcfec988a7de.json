@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00368612"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00368612",
+      "corp_name": "(주)와이비물산",
+      "corp_name_en": "Y.B CORPORATION",
+      "stock_name": "와이비물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김영배",
+      "corporate_registration_number": "1101110725121",
+      "business_registration_number": "2078146080",
+      "address": "서울특별시 중랑구 면목2동 193-38",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-444-5111",
+      "fax": "02-2208-2600",
+      "industry_code": "14193",
+      "established_date": "19901011",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7335,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:39.408Z",
+      "usage_event_id": "d5c88a4e-d569-4f2b-8c78-a060522b6b77"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00627463"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00627463",
+      "corp_name": "신우조선해양공업주식회사",
+      "corp_name_en": "SHINWOO SHIPBUILDING & OFFSHORE CO., LTD",
+      "stock_name": "신우조선해양공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임갑표",
+      "corporate_registration_number": "1949110015055",
+      "business_registration_number": "6128124293",
+      "address": "경상남도 거제시 사등면 성포리 1번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "055-639-5000",
+      "fax": "055-637-6703",
+      "industry_code": "3111",
+      "established_date": "20060313",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7098,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:32.442Z",
+      "usage_event_id": "13a66957-6624-4426-b655-6cb7335ce84a"
+    }
+  }
+}

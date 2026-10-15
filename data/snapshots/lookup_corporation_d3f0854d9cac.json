@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00368445"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00368445",
+      "corp_name": "세텔렘캐피탈주식회사",
+      "corp_name_en": "Cetelem Capital Co.,",
+      "stock_name": "세텔렘캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "크리스티앙 헨리 귀로",
+      "corporate_registration_number": "1101111600447",
+      "business_registration_number": "101-81-46104",
+      "address": "서울특별시 종로구 세종로 광화문빌딩 11층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2000-5354",
+      "fax": "02-2000-5337",
+      "industry_code": "64913",
+      "established_date": "19981028",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7337,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:38.083Z",
+      "usage_event_id": "20f80a86-235e-4372-be2d-685c5706954c"
+    }
+  }
+}

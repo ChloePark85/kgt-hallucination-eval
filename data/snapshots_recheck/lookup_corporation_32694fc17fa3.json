@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01019166"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-3441-7011",
+      "phone": "1577-7011",
+      "ir_url": null,
+      "market": "unlisted",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 광진구 아차산로 412 (자양동, 업무시설(A동)) 2층",
+      "ceo_name": "로저스 해롤드 린",
+      "homepage": "www.coupang.com",
+      "corp_code": "01019166",
+      "corp_name": "쿠팡 주식회사",
+      "market_raw": "E",
+      "stock_code": null,
+      "stock_name": "쿠팡",
+      "corp_name_en": "Coupang Corp.",
+      "industry_code": "4791",
+      "established_date": "20130215",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1208800767",
+      "corporate_registration_number": "1101115067718"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2634,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:31:21.486Z",
+      "usage_event_id": "6d13802f-b8d3-471f-80db-adbcd77ab623"
+    }
+  }
+}

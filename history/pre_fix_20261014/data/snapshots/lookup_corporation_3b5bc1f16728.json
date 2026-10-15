@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00114808"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00114808",
+      "corp_name": "동국제약(주)",
+      "corp_name_en": "DongKookPharmaceuticalCo.,Ltd.",
+      "stock_name": "동국제약",
+      "stock_code": "086450",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "송준호",
+      "corporate_registration_number": "1101110094477",
+      "business_registration_number": "1208122608",
+      "address": "서울특별시 강남구 영동대로 715 동국제약 청담빌딩",
+      "homepage": "www.dkpharm.co.kr",
+      "ir_url": null,
+      "phone": "02-2191-9800",
+      "fax": "02-566-8542",
+      "industry_code": "212",
+      "established_date": "19681015",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7803,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:06.575Z",
+      "usage_event_id": "b0e14244-ac5b-45bd-87a2-f0d8e4ab72c9"
+    }
+  }
+}

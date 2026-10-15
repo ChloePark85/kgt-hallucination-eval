@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "노원구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:27:12+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "노원구",
+          "adm_code": "1135010500",
+          "lawd_code": "11350",
+          "road_name": "노해로",
+          "lot_sub_no": "1",
+          "lot_main_no": "701",
+          "postal_code": "01689",
+          "eupmyeondong": "상계동",
+          "road_address": "서울특별시 노원구 노해로 437 (상계동)",
+          "road_mgmt_no": "113503005047",
+          "building_name": "노원구청",
+          "jibun_address": "서울특별시 노원구 상계동 701-1 노원구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "437 Nohae-ro, Nowon-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "437",
+          "building_mgmt_no": "1135010500107010001001043",
+          "road_address_main": "서울특별시 노원구 노해로 437",
+          "road_address_detail": " (상계동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "노원구",
+          "adm_code": "1135010500",
+          "lawd_code": "11350",
+          "road_name": "수락산로",
+          "lot_sub_no": "9",
+          "lot_main_no": "1035",
+          "postal_code": "01616",
+          "eupmyeondong": "상계동",
+          "road_address": "서울특별시 노원구 수락산로 212-19 (상계동)",
+          "road_mgmt_no": "113503110006",
+          "building_name": "노원구청소년상담복지센터",
+          "jibun_address": "서울특별시 노원구 상계동 1035-9 노원구청소년상담복지센터",
+          "is_underground": false,
+          "building_sub_no": "19",
+          "english_address": "212-19 Suraksan-ro, Nowon-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "212",
+          "building_mgmt_no": "1135010500110350009000001",
+          "road_address_main": "서울특별시 노원구 수락산로 212-19",
+          "road_address_detail": " (상계동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6552,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-14T02:27:11.980Z",
+      "usage_event_id": "a584b513-9a68-48f9-b8ab-15bccdcc8b8d"
+    }
+  }
+}

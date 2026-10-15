@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "12300",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:20:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "12300",
+      "deal_month": "202503",
+      "total": 523,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "벽산블루밍메가씨티2단지",
+          "deal_amount_krw": 543000000,
+          "deal_amount_raw": "54,300",
+          "deal_date": "2025-03-28",
+          "exclusive_area_m2": 129.386,
+          "floor": 5,
+          "build_year": 2008,
+          "dong": "운암동",
+          "jibun": "68",
+          "road_name": null,
+          "sigungu_code": "12300",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6897,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-12T17:20:55.345Z",
+      "usage_event_id": "c8589ea3-28e0-4152-9133-c8d79a9880a5"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00267067"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00267067",
+      "corp_name": "산은캐피탈제일호유동화전문유한회사",
+      "corp_name_en": "KDBC 1 Securitization Specialty Co., Ltd.",
+      "stock_name": "산은캐피탈제일호유동화전문유한회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이채형",
+      "corporate_registration_number": "1101140030235",
+      "business_registration_number": "1048149847",
+      "address": "서울특별시 중구 다동 140",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-316-0653",
+      "fax": "02-316-0775",
+      "industry_code": "64999",
+      "established_date": "20000121",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7433,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:28.490Z",
+      "usage_event_id": "0c38ab1a-907a-4579-a034-df8f3abc4329"
+    }
+  }
+}

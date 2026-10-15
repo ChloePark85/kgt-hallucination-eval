@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00449625"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00449625",
+      "corp_name": "주식회사 신성전자",
+      "corp_name_en": "Shin-Sung electronics Co., Ltd.",
+      "stock_name": "신성전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신호범",
+      "corporate_registration_number": "1753110001728",
+      "business_registration_number": "5138102482",
+      "address": "경상북도 구미시 황상동 502-3",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "054-472-7900",
+      "fax": "054-472-7902",
+      "industry_code": "2629",
+      "established_date": "19860816",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7155,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:50.227Z",
+      "usage_event_id": "13c1e739-4479-4ff7-afcc-93bd5f2d54ca"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00234935"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00234935",
+      "corp_name": "금강화학주식회사",
+      "corp_name_en": "Keumkang Chlorosilicone Co.Ltd.",
+      "stock_name": "금강화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정상영",
+      "corporate_registration_number": "1101111274276",
+      "business_registration_number": "2148605082",
+      "address": "서울특별시 서초구 서초동 1301-4",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3480-5000",
+      "fax": "3480-5418",
+      "industry_code": "20202",
+      "established_date": "19960522",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7513,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:32.427Z",
+      "usage_event_id": "c9fff702-b843-441a-a72e-8e9c18bb84df"
+    }
+  }
+}

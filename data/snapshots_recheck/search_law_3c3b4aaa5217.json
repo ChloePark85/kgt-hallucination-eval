@@ -1,0 +1,182 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "약사법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 11,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "동물 약국 및 동물용 의약품등의 제조업ㆍ수입자와 판매업의 시설 기준령",
+          "law_id": "003447",
+          "law_type": "대통령령",
+          "ministry": "농림축산식품부,해양수산부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=256347&type=HTML&mobileYn=&efYd=20231201",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "256347",
+          "revision_type": "일부개정",
+          "promulgation_no": "33890",
+          "enforcement_date": "20231201",
+          "promulgation_date": "20231128"
+        },
+        {
+          "name": "동물용 의약품등 취급규칙",
+          "law_id": "007119",
+          "law_type": "농림축산식품부령",
+          "ministry": "농림축산식품부,해양수산부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=279531&type=HTML&mobileYn=&efYd=20251031",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "279531",
+          "revision_type": "타법개정",
+          "promulgation_no": "00741",
+          "enforcement_date": "20251031",
+          "promulgation_date": "20251031"
+        },
+        {
+          "name": "생물학적 제제 등의 제조ㆍ판매관리 규칙",
+          "law_id": "007400",
+          "law_type": "총리령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=248175&type=HTML&mobileYn=&efYd=20230220",
+          "is_current": true,
+          "short_name": "생물학적제제규칙",
+          "law_serial_no": "248175",
+          "revision_type": "일부개정",
+          "promulgation_no": "01865",
+          "enforcement_date": "20230220",
+          "promulgation_date": "20230220"
+        },
+        {
+          "name": "약사법",
+          "law_id": "001783",
+          "law_type": "법률",
+          "ministry": "보건복지부,식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285341&type=HTML&mobileYn=&efYd=20261008",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "285341",
+          "revision_type": "타법개정",
+          "promulgation_no": "21525",
+          "enforcement_date": "20261008",
+          "promulgation_date": "20260407"
+        },
+        {
+          "name": "약사법 시행령",
+          "law_id": "004138",
+          "law_type": "대통령령",
+          "ministry": "보건복지부,식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286841&type=HTML&mobileYn=&efYd=20260621",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "286841",
+          "revision_type": "일부개정",
+          "promulgation_no": "36401",
+          "enforcement_date": "20260621",
+          "promulgation_date": "20260609"
+        },
+        {
+          "name": "약사법 시행규칙",
+          "law_id": "007669",
+          "law_type": "보건복지부령",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=287367&type=HTML&mobileYn=&efYd=20260621",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "287367",
+          "revision_type": "일부개정",
+          "promulgation_no": "01181",
+          "enforcement_date": "20260621",
+          "promulgation_date": "20260619"
+        },
+        {
+          "name": "의약품 등의 안전에 관한 규칙",
+          "law_id": "011794",
+          "law_type": "총리령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284019&type=HTML&mobileYn=&efYd=20260305",
+          "is_current": true,
+          "short_name": "의약품안전규칙",
+          "law_serial_no": "284019",
+          "revision_type": "일부개정",
+          "promulgation_no": "02100",
+          "enforcement_date": "20260305",
+          "promulgation_date": "20260305"
+        },
+        {
+          "name": "의약품 등의 제조업 및 수입자의 시설기준령",
+          "law_id": "004136",
+          "law_type": "대통령령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=236195&type=HTML&mobileYn=&efYd=20211019",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "236195",
+          "revision_type": "일부개정",
+          "promulgation_no": "32089",
+          "enforcement_date": "20211019",
+          "promulgation_date": "20211019"
+        },
+        {
+          "name": "의약품 등의 제조업 및 수입자의 시설기준령 시행규칙",
+          "law_id": "007668",
+          "law_type": "총리령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=257929&type=HTML&mobileYn=&efYd=20231229",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "257929",
+          "revision_type": "일부개정",
+          "promulgation_no": "01932",
+          "enforcement_date": "20231229",
+          "promulgation_date": "20231229"
+        },
+        {
+          "name": "의약품 부작용 피해구제에 관한 규정",
+          "law_id": "012189",
+          "law_type": "대통령령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280763&type=HTML&mobileYn=&efYd=20251230",
+          "is_current": true,
+          "short_name": "의약품피해구제규정",
+          "law_serial_no": "280763",
+          "revision_type": "타법개정",
+          "promulgation_no": "35943",
+          "enforcement_date": "20251230",
+          "promulgation_date": "20251230"
+        },
+        {
+          "name": "의약품 부작용 피해구제에 관한 규정 시행규칙",
+          "law_id": "012194",
+          "law_type": "총리령",
+          "ministry": "식품의약품안전처",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=282415&type=HTML&mobileYn=&efYd=20251231",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "282415",
+          "revision_type": "일부개정",
+          "promulgation_no": "02081",
+          "enforcement_date": "20251231",
+          "promulgation_date": "20251231"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2484,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:47.615Z",
+      "usage_event_id": "8a490c05-ade8-48ed-8b45-2d6261983129"
+    }
+  }
+}

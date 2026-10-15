@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00109453"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00109453",
+      "corp_name": "주식회사 케이조선",
+      "corp_name_en": "K Shipbuilding Co., Ltd.",
+      "stock_name": "케이조선",
+      "stock_code": "067250",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김찬",
+      "corporate_registration_number": "1801110002814",
+      "business_registration_number": "1208168604",
+      "address": "경상남도 창원시 진해구  명제로 60  주식회사 케이조선",
+      "homepage": "www.kshipbuilding.com",
+      "ir_url": null,
+      "phone": "055-548-1122",
+      "fax": "055-546-4322",
+      "industry_code": "3111",
+      "established_date": "19670410",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7825,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:50.923Z",
+      "usage_event_id": "d1cdeb7d-6ac9-444b-b40b-71d712884cf6"
+    }
+  }
+}

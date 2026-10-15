@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "제주특별자치도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:33:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "제주특별자치도",
+          "sigungu": "제주시",
+          "adm_code": "5011013700",
+          "lawd_code": "50110",
+          "road_name": "문연로",
+          "lot_sub_no": "1",
+          "lot_main_no": "312",
+          "postal_code": "63122",
+          "eupmyeondong": "연동",
+          "road_address": "제주특별자치도 제주시 문연로 6 (연동)",
+          "road_mgmt_no": "501103349069",
+          "building_name": "제주특별자치도청",
+          "jibun_address": "제주특별자치도 제주시 연동 312-1 제주특별자치도청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "6 Munyeon-ro, Jeju-si, Jeju-do",
+          "is_mountain_lot": false,
+          "building_main_no": "6",
+          "building_mgmt_no": "5011013700103120001006804",
+          "road_address_main": "제주특별자치도 제주시 문연로 6",
+          "road_address_detail": " (연동)"
+        },
+        {
+          "ri": null,
+          "sido": "제주특별자치도",
+          "sigungu": "제주시",
+          "adm_code": "5011013700",
+          "lawd_code": "50110",
+          "road_name": "문연로",
+          "lot_sub_no": "1",
+          "lot_main_no": "322",
+          "postal_code": "63121",
+          "eupmyeondong": "연동",
+          "road_address": "제주특별자치도 제주시 문연로 30 (연동)",
+          "road_mgmt_no": "501103349069",
+          "building_name": "제주특별자치도청",
+          "jibun_address": "제주특별자치도 제주시 연동 322-1 제주특별자치도청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "30 Munyeon-ro, Jeju-si, Jeju-do",
+          "is_mountain_lot": false,
+          "building_main_no": "30",
+          "building_mgmt_no": "5011013700103220001006789",
+          "road_address_main": "제주특별자치도 제주시 문연로 30",
+          "road_address_detail": " (연동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2547,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:33:06.467Z",
+      "usage_event_id": "2778f0d5-229f-46ec-b2fd-55c64bf6611e"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿model,condition,n,avg_seconds,avg_tokens_in,avg_tokens_out,avg_tool_calls
+gemma4:12b,C0,600,4.4,155.7,67.7,0.0
+gemma4:12b,C2,600,29.6,6381.4,95.0,1.7
+gemma4:26b,C0,600,3.8,155.7,72.8,0.0
+gemma4:26b,C2,600,14.8,6580.7,85.7,1.6
+qwen3.8:27b,C0,600,14.6,146.9,113.7,0.0
+qwen3.8:27b,C2,600,54.4,7195.4,173.6,1.9

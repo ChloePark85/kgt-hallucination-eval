@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "당근마켓",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01547845",
+          "corp_name": "당근마켓",
+          "stock_code": null,
+          "modified_date": "20230210"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2629,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:31:27.825Z",
+      "usage_event_id": "05ce5424-270f-4de6-b8df-ec898107db07"
+    }
+  }
+}

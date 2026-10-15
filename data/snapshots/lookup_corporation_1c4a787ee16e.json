@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00173254"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00173254",
+      "corp_name": "(주)한마음상호저축은행",
+      "corp_name_en": "HANMAUM MUTUAL SAVINGS BANK",
+      "stock_name": "한마음상호저축은행",
+      "stock_code": "025450",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이만식",
+      "corporate_registration_number": "1801110021434",
+      "business_registration_number": "6058107622",
+      "address": "부산광역시 중구 부평동 3가 40-5",
+      "homepage": "www.bankhan.co.kr",
+      "ir_url": null,
+      "phone": "051 -253-9950",
+      "fax": "051 -818 -1120",
+      "industry_code": "64131",
+      "established_date": "19741101",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7651,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:55.306Z",
+      "usage_event_id": "3bc1c5fd-3aba-4a26-90c8-e7855e2d64db"
+    }
+  }
+}

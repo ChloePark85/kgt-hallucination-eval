@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00165264"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00165264",
+      "corp_name": "(주)혜성건설",
+      "corp_name_en": "HYESUNG CONSTRUCTION.CO.,LTD",
+      "stock_name": "혜성건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양재달",
+      "corporate_registration_number": "1601110013229",
+      "business_registration_number": "6078134159",
+      "address": "부산광역시 동구 수정2동 229-39",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-442-3140",
+      "fax": "051-441-3722",
+      "industry_code": "41112",
+      "established_date": "19870205",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7665,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:45.709Z",
+      "usage_event_id": "f9b1a7f0-63ee-4b41-aaa1-1ca922d9e44f"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00257936"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00257936",
+      "corp_name": "근영식품 주식회사",
+      "corp_name_en": "Kunyeong Food Co., Ltd.",
+      "stock_name": "근영식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이인철",
+      "corporate_registration_number": "1101110972889",
+      "business_registration_number": "1098138710",
+      "address": "강원도 철원군 갈말읍 군탄리 505-6",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0353-452-4253",
+      "fax": "0353-452-4751",
+      "industry_code": "1012",
+      "established_date": "19930920",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7455,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:13.107Z",
+      "usage_event_id": "e7cf4b14-594a-4dfb-bb6e-695af8627b61"
+    }
+  }
+}

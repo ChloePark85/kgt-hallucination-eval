@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00117601"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00117601",
+      "corp_name": "유안타증권(주)",
+      "corp_name_en": "Yuanta Securities Korea Co., Ltd.",
+      "stock_name": "유안타증권",
+      "stock_code": "003470",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "뤄즈펑",
+      "corporate_registration_number": "1101110042492",
+      "business_registration_number": "1168134293",
+      "address": "서울특별시 영등포구 국제금융로 39 여의도동 앵커원",
+      "homepage": "www.yuantakorea.com",
+      "ir_url": null,
+      "phone": "02-3770-2000",
+      "fax": "02-3770-2411",
+      "industry_code": "66121",
+      "established_date": "19620604",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7791,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:15.689Z",
+      "usage_event_id": "fbd71c25-0bfc-469e-9dd4-9f02f469bddf"
+    }
+  }
+}

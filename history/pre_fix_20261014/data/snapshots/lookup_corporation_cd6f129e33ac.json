@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00413046"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00413046",
+      "corp_name": "(주)셀트리온",
+      "corp_name_en": "Celltrion, Inc.",
+      "stock_name": "셀트리온",
+      "stock_code": "068270",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "기우성, 서진석",
+      "corporate_registration_number": "1350110034038",
+      "business_registration_number": "1338123603",
+      "address": "인천광역시 연수구 아카데미로 23",
+      "homepage": "www.celltrion.com",
+      "ir_url": "https://www.celltrion.com/ko-kr/investment/ir/",
+      "phone": "032-850-5000",
+      "fax": "032-850-3486",
+      "industry_code": "21100",
+      "established_date": "19910227",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7979,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:48.973Z",
+      "usage_event_id": "0e71ef1a-090e-4a5b-8d16-d4133bfc37a3"
+    }
+  }
+}

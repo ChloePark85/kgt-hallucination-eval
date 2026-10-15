@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00448671"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00448671",
+      "corp_name": "주식회사라이프건설",
+      "corp_name_en": "life construction co.LTD.     ",
+      "stock_name": "라이프건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "민영성",
+      "corporate_registration_number": "1601110042393",
+      "business_registration_number": "3058121326",
+      "address": "대전광역시 중구 산성동 165-5",
+      "homepage": "WWW.LIFETOWN.INFO",
+      "ir_url": null,
+      "phone": "02-584-1424",
+      "fax": "02-595-9058",
+      "industry_code": "41210",
+      "established_date": "19940929",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7161,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:45.522Z",
+      "usage_event_id": "0bdef995-f803-4330-970e-caa3da8bb4fb"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00110671"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00110671",
+      "corp_name": "대성합성화학 주식회사",
+      "corp_name_en": "DAESUNG SYNTHETIC CHEMISTRY",
+      "stock_name": "대성합성화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이태준",
+      "corporate_registration_number": "1201110002618",
+      "business_registration_number": "1348105928",
+      "address": "경기도 안산시 성곡동 630-7",
+      "homepage": "www.daesungkr.com",
+      "ir_url": null,
+      "phone": "031-492-6465",
+      "fax": "031-491-4022",
+      "industry_code": "15110",
+      "established_date": "19730707",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7821,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:53.597Z",
+      "usage_event_id": "20a43949-f8a4-4d23-a7c2-bc6b727a9252"
+    }
+  }
+}

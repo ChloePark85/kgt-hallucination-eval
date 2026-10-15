@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00784209"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00784209",
+      "corp_name": "광양해운(주)",
+      "corp_name_en": "WIDE OCEAN SHIPPING CO., LTD.",
+      "stock_name": "광양해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김척수 ",
+      "corporate_registration_number": "1801110053528",
+      "business_registration_number": "6018113442",
+      "address": "부산광역시 중구 중앙동4가 해양빌딩 9층 ",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-463-2206",
+      "fax": "051-464-3507",
+      "industry_code": "501",
+      "established_date": "19840615",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7062,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:58.705Z",
+      "usage_event_id": "f78974cd-c28e-446d-8ba5-c12bb828e8c5"
+    }
+  }
+}

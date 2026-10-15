@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00992358"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00992358",
+      "corp_name": "주식회사 예성저축은행",
+      "corp_name_en": "yesung savings bank",
+      "stock_name": "예성저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이규식",
+      "corporate_registration_number": "1101115027655",
+      "business_registration_number": "2118887624",
+      "address": "서울특별시 강남구 학동로 233 (논현동, 예성저축은행)",
+      "homepage": "www.yesungbank.co.kr",
+      "ir_url": null,
+      "phone": "02-3015-6614",
+      "fax": "02-512-7336",
+      "industry_code": "64132",
+      "established_date": "20121221",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7006,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:38.914Z",
+      "usage_event_id": "5801fde0-7b25-4581-a012-feb1294309bf"
+    }
+  }
+}

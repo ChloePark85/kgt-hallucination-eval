@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00415123"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00415123",
+      "corp_name": "(주)크로스전자",
+      "corp_name_en": "CROSS ELECTRONICS.INC",
+      "stock_name": "크로스전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이득상",
+      "corporate_registration_number": "1211110060011",
+      "business_registration_number": "1308155241",
+      "address": "충청남도 아산시 인주면 관암리 25-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "041)533-6811",
+      "fax": "041)533-6816",
+      "industry_code": "26",
+      "established_date": "19980209",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7247,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:40.952Z",
+      "usage_event_id": "1fc5965e-2750-47d3-871d-bb94abdf2488"
+    }
+  }
+}

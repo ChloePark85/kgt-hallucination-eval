@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "제약",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "01090921",
+          "corp_name": "케이엠제약",
+          "stock_code": "237720",
+          "listed": true,
+          "modified_date": "20180928"
+        },
+        {
+          "corp_code": "00145598",
+          "corp_name": "이연제약",
+          "stock_code": "102460",
+          "listed": true,
+          "modified_date": "20230802"
+        },
+        {
+          "corp_code": "00533191",
+          "corp_name": "비보존 제약",
+          "stock_code": "082800",
+          "listed": true,
+          "modified_date": "20230703"
+        },
+        {
+          "corp_code": "00380429",
+          "corp_name": "CMG제약",
+          "stock_code": "058820",
+          "listed": true,
+          "modified_date": "20230717"
+        },
+        {
+          "corp_code": "00248974",
+          "corp_name": "하나제약",
+          "stock_code": "293480",
+          "listed": true,
+          "modified_date": "20230403"
+        },
+        {
+          "corp_code": "00116499",
+          "corp_name": "동신제약",
+          "stock_code": "006600",
+          "listed": true,
+          "modified_date": "20240628"
+        },
+        {
+          "corp_code": "00101664",
+          "corp_name": "경보제약",
+          "stock_code": "214390",
+          "listed": true,
+          "modified_date": "20250207"
+        },
+        {
+          "corp_code": "00128032",
+          "corp_name": "삼일제약",
+          "stock_code": "000520",
+          "listed": true,
+          "modified_date": "20241002"
+        },
+        {
+          "corp_code": "00121039",
+          "corp_name": "명문제약",
+          "stock_code": "017180",
+          "listed": true,
+          "modified_date": "20240703"
+        },
+        {
+          "corp_code": "00111999",
+          "corp_name": "대원제약",
+          "stock_code": "003220",
+          "listed": true,
+          "modified_date": "20250102"
+        },
+        {
+          "corp_code": "00427483",
+          "corp_name": "대웅제약",
+          "stock_code": "069620",
+          "listed": true,
+          "modified_date": "20240329"
+        },
+        {
+          "corp_code": "00447007",
+          "corp_name": "알리코제약",
+          "stock_code": "260660",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00128412",
+          "corp_name": "삼진제약",
+          "stock_code": "005500",
+          "listed": true,
+          "modified_date": "20250324"
+        },
+        {
+          "corp_code": "00301015",
+          "corp_name": "한서제약",
+          "stock_code": "044070",
+          "listed": true,
+          "modified_date": "20240628"
+        },
+        {
+          "corp_code": "00101549",
+          "corp_name": "경동제약",
+          "stock_code": "011040",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00103015",
+          "corp_name": "고려제약",
+          "stock_code": "014570",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00114686",
+          "corp_name": "동구바이오제약",
+          "stock_code": "006620",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00114808",
+          "corp_name": "동국제약",
+          "stock_code": "086450",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00126414",
+          "corp_name": "삼성제약",
+          "stock_code": "001360",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00126788",
+          "corp_name": "삼아제약",
+          "stock_code": "009300",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00136448",
+          "corp_name": "신신제약",
+          "stock_code": "002800",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00137058",
+          "corp_name": "신일제약",
+          "stock_code": "012790",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00144818",
+          "corp_name": "유유제약",
+          "stock_code": "000220",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00166573",
+          "corp_name": "환인제약",
+          "stock_code": "016580",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00210740",
+          "corp_name": "대화제약",
+          "stock_code": "067080",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00231831",
+          "corp_name": "조아제약",
+          "stock_code": "034940",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00256043",
+          "corp_name": "비씨월드제약",
+          "stock_code": "200780",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00533809",
+          "corp_name": "바스칸바이오제약",
+          "stock_code": "354390",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00541349",
+          "corp_name": "셀트리온제약",
+          "stock_code": "068760",
+          "listed": true,
+          "modified_date": "20240701"
+        },
+        {
+          "corp_code": "00765851",
+          "corp_name": "위더스제약",
+          "stock_code": "330350",
+          "listed": true,
+          "modified_date": "20240701"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7878,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:01.467Z",
+      "usage_event_id": "584a9927-5c65-4c53-b422-2d4247f659d7"
+    }
+  }
+}

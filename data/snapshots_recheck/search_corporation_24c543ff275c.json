@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "원익IPS",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "01135941",
+          "corp_name": "원익IPS",
+          "stock_code": "240810",
+          "modified_date": "20240219"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2639,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:31:15.578Z",
+      "usage_event_id": "ff3d09d7-d865-4c88-86ba-99106eccbc61"
+    }
+  }
+}

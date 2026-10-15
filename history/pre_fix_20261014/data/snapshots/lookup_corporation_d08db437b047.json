@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00226574"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00226574",
+      "corp_name": "세모화학(주)",
+      "corp_name_en": "Semo chemical",
+      "stock_name": "세모화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김성호",
+      "corporate_registration_number": "1748110010308",
+      "business_registration_number": "5158107805",
+      "address": "경상북도 경산시 중산동 550",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "053-811-1351",
+      "fax": "053-815-7837",
+      "industry_code": "20411",
+      "established_date": "19901228",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7541,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:11.756Z",
+      "usage_event_id": "9f529fbf-1e02-40cd-a962-78d8a3df5f45"
+    }
+  }
+}

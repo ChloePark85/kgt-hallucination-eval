@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00186461"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00186461",
+      "corp_name": "주식회사 케이티",
+      "corp_name_en": "KT Cooatio",
+      "stock_name": "케이티",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이영순",
+      "corporate_registration_number": "",
+      "business_registration_number": "1348108997",
+      "address": "경기도 안산시 고잔동 541-3",
+      "homepage": "KTENG.o.k",
+      "ir_url": null,
+      "phone": "0345)401-0862",
+      "fax": "0345)486-3962",
+      "industry_code": "72129",
+      "established_date": "19890731",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7952,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:28.138Z",
+      "usage_event_id": "57661da2-d7b2-46c4-a65d-70a5ecf6d801"
+    }
+  }
+}

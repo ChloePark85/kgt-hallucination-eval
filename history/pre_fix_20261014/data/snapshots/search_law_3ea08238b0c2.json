@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "저작권법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:22:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "000798",
+          "law_serial_no": "283335",
+          "name": "저작권법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "문화체육관광부",
+          "promulgation_date": "20260210",
+          "promulgation_no": "21336",
+          "enforcement_date": "20260811",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283335&type=HTML&mobileYn=&efYd=20260811"
+        },
+        {
+          "law_id": "004680",
+          "law_serial_no": "288567",
+          "name": "저작권법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "문화체육관광부",
+          "promulgation_date": "20260811",
+          "promulgation_no": "36569",
+          "enforcement_date": "20260811",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288567&type=HTML&mobileYn=&efYd=20260811"
+        },
+        {
+          "law_id": "008026",
+          "law_serial_no": "285869",
+          "name": "저작권법 시행규칙",
+          "short_name": null,
+          "law_type": "문화체육관광부령",
+          "ministry": "문화체육관광부",
+          "promulgation_date": "20260507",
+          "promulgation_no": "00631",
+          "enforcement_date": "20260511",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285869&type=HTML&mobileYn=&efYd=20260511"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6762,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:22:57.099Z",
+      "usage_event_id": "2dc8bf1d-0284-4767-8558-de31bfc2b6e8"
+    }
+  }
+}

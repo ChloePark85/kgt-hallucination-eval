@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00117753"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00117753",
+      "corp_name": "동양화학공업(주)",
+      "corp_name_en": "Oriental Chemical Industries",
+      "stock_name": "동양화학공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이  복  영",
+      "corporate_registration_number": "1101110032188",
+      "business_registration_number": "1048124899",
+      "address": "서울특별시 중구 소공동 50",
+      "homepage": "www.oci.co.kr",
+      "ir_url": null,
+      "phone": "02)727-9500",
+      "fax": "02)756-9565",
+      "industry_code": "20131",
+      "established_date": "19590805",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7789,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:17.095Z",
+      "usage_event_id": "7482b4b4-758d-418f-8482-cce643cb660b"
+    }
+  }
+}

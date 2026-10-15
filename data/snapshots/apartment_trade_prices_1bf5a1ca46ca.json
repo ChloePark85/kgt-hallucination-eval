@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "36110",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:27:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "36110",
+      "deal_month": "202509",
+      "total": 377,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "한뜰마을6단지(중흥S클래스센텀뷰)",
+          "deal_amount_krw": 1625000000,
+          "deal_amount_raw": "162,500",
+          "deal_date": "2025-09-13",
+          "exclusive_area_m2": 140.3721,
+          "floor": 40,
+          "build_year": 2021,
+          "dong": "어진동",
+          "jibun": "673",
+          "road_name": null,
+          "sigungu_code": "36110",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6476,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-14T02:27:56.351Z",
+      "usage_event_id": "9a2604cd-20bc-448a-bfc4-98fdf9712cc1"
+    }
+  }
+}

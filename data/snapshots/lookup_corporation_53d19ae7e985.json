@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00103583"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00103583",
+      "corp_name": "광덕물산(주)",
+      "corp_name_en": "KWANGDUKMOOLSAN CO.,LTD",
+      "stock_name": "광덕물산",
+      "stock_code": "003590",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최기태",
+      "corporate_registration_number": "1101110044729",
+      "business_registration_number": "2028137757",
+      "address": "서울특별시 마포구 염리동 159-10 대흥빌딩 2층 ",
+      "homepage": "www.kdms.co.kr",
+      "ir_url": null,
+      "phone": "02-755-5191",
+      "fax": "02-713-4249",
+      "industry_code": "14111",
+      "established_date": "19621005",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7841,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:39.293Z",
+      "usage_event_id": "763ff218-6139-49b3-962f-22787ee963ce"
+    }
+  }
+}

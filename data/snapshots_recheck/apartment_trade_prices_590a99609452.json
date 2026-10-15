@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41173",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 595,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "평촌동",
+          "floor": 17,
+          "jibun": "314",
+          "canceled": false,
+          "deal_date": "2025-03-28",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2002,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "41173",
+          "canceled_date": null,
+          "apartment_name": "귀인마을현대홈타운",
+          "deal_amount_krw": 1115000000,
+          "deal_amount_raw": "111,500",
+          "exclusive_area_m2": 80.374
+        }
+      ],
+      "lawd_code": "41173",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2565,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:45.331Z",
+      "usage_event_id": "d11ac18f-c21b-4a57-98e3-0a5ee4bca023"
+    }
+  }
+}

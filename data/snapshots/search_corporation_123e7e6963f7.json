@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "저축은행",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00174129",
+          "corp_name": "제일저축은행",
+          "stock_code": "024100",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00189343",
+          "corp_name": "솔로몬저축은행",
+          "stock_code": "007800",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00148188",
+          "corp_name": "으뜸상호저축은행",
+          "stock_code": "032150",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00124054",
+          "corp_name": "부산저축은행",
+          "stock_code": "007830",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00150855",
+          "corp_name": "진흥저축은행",
+          "stock_code": "007200",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00104704",
+          "corp_name": "한국저축은행",
+          "stock_code": "025610",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00173254",
+          "corp_name": "한마음상호저축은행",
+          "stock_code": "025450",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00130815",
+          "corp_name": "서울상호저축은행",
+          "stock_code": "016560",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00111014",
+          "corp_name": "애큐온저축은행",
+          "stock_code": "007640",
+          "listed": true,
+          "modified_date": "20230927"
+        },
+        {
+          "corp_code": "00127990",
+          "corp_name": "삼일상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00106793",
+          "corp_name": "김천상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00163497",
+          "corp_name": "한중상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00109073",
+          "corp_name": "미래저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00151997",
+          "corp_name": "도민상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00174323",
+          "corp_name": "제일이상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00147383",
+          "corp_name": "전일상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00152154",
+          "corp_name": "대전상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00230957",
+          "corp_name": "한주상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00129183",
+          "corp_name": "삼화상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00102043",
+          "corp_name": "경은저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00244181",
+          "corp_name": "미래2저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00596862",
+          "corp_name": "파랑새상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00172088",
+          "corp_name": "전주상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00174138",
+          "corp_name": "에이스상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00263821",
+          "corp_name": "부산2저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00174439",
+          "corp_name": "보해상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00121987",
+          "corp_name": "프라임상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00174183",
+          "corp_name": "중앙부산상호저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00992358",
+          "corp_name": "예성저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00503552",
+          "corp_name": "에스비아이3저축은행",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7873,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:10.772Z",
+      "usage_event_id": "050eafb0-3a0e-48be-9ec3-b96203901e24"
+    }
+  }
+}

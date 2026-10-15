@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00262886"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00262886",
+      "corp_name": "건보식품",
+      "corp_name_en": null,
+      "stock_name": "건보식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이규환",
+      "corporate_registration_number": "2141110000239",
+      "business_registration_number": "4068100527",
+      "address": "전라북도 진안군 진안읍 연장리 1066",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0655-3487-3233",
+      "fax": null,
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7443,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:21.561Z",
+      "usage_event_id": "b2af8565-b9ba-4a1d-bf6f-25f4d4d58293"
+    }
+  }
+}

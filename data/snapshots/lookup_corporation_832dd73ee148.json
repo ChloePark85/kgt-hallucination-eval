@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00407337"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00407337",
+      "corp_name": "프라임플러스캐피탈(주)",
+      "corp_name_en": "Prime Plus Capital Co., Ltd.",
+      "stock_name": "프라임플러스캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "기위호",
+      "corporate_registration_number": "1101111478745",
+      "business_registration_number": "1028142834",
+      "address": "서울특별시 강남구 삼성1동 무역센타무역회관 1701-1호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-551-3710",
+      "fax": "02-551-3711",
+      "industry_code": "71531",
+      "established_date": "19971029",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7273,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:23.024Z",
+      "usage_event_id": "5c70d38d-7bae-4e0d-b3a6-1d55306564ec"
+    }
+  }
+}

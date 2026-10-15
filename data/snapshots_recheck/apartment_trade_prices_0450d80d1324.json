@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41285",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 227,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "식사동",
+          "floor": 28,
+          "jibun": "1498",
+          "canceled": false,
+          "deal_date": "2025-03-17",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2010,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "41285",
+          "canceled_date": null,
+          "apartment_name": "위시티일산자이2단지",
+          "deal_amount_krw": 1000000000,
+          "deal_amount_raw": "100,000",
+          "exclusive_area_m2": 209.4897
+        }
+      ],
+      "lawd_code": "41285",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2571,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:37.979Z",
+      "usage_event_id": "c1cc7e76-8e5c-46c0-98f9-a2c5e5a28951"
+    }
+  }
+}

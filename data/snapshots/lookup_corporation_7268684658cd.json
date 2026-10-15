@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00435914"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00435914",
+      "corp_name": "대양식품(주)",
+      "corp_name_en": "dae yang sik pum co.",
+      "stock_name": "대양식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박근실",
+      "corporate_registration_number": "1601110003741",
+      "business_registration_number": "3068106712",
+      "address": "대전광역시 대덕구 오정동 705-64",
+      "homepage": "----",
+      "ir_url": null,
+      "phone": "042-622-6883",
+      "fax": "042-622-6881",
+      "industry_code": "1011",
+      "established_date": "19800109",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7197,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:15.762Z",
+      "usage_event_id": "7db74334-3784-44d1-b271-adf6992e4066"
+    }
+  }
+}

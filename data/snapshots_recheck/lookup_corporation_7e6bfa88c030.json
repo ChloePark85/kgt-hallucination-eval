@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00541349"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "043-715-7095",
+      "phone": "02-2216-3611",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "충청북도 청주시 청원구 오창읍 2산단로 82셀트리온제약",
+      "ceo_name": "유영호",
+      "homepage": "www.celltrionph.com",
+      "corp_code": "00541349",
+      "corp_name": "(주)셀트리온제약",
+      "market_raw": "K",
+      "stock_code": "068760",
+      "stock_name": "셀트리온제약",
+      "corp_name_en": "Celltrion Pharm Inc.",
+      "industry_code": "212",
+      "established_date": "20001117",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "2148671641",
+      "corporate_registration_number": "1101112112764"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2636,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:31:19.164Z",
+      "usage_event_id": "e9db2115-91bb-4b05-8bb8-ebeca4e5caff"
+    }
+  }
+}

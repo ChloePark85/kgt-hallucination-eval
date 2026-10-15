@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00369897"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00369897",
+      "corp_name": "기바전자주식회사",
+      "corp_name_en": "KIBA ELECTRONICS CO., LTD",
+      "stock_name": "기바전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김진형",
+      "corporate_registration_number": "1211110070309",
+      "business_registration_number": "1308162645",
+      "address": "경기도 부천시 오정구 삼정동 364번지 부천테크노파크 102동 401~404호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032)327-2311",
+      "fax": "032)327-2275",
+      "industry_code": "26410",
+      "established_date": "19991009",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7329,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:43.632Z",
+      "usage_event_id": "c7150f59-cc8a-41fd-9974-2813f632c009"
+    }
+  }
+}

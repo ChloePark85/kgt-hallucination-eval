@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00369301"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00369301",
+      "corp_name": "(주)근영전자통신",
+      "corp_name_en": "Keun Young Electronics & Communication Co., Ltd.",
+      "stock_name": "근영전자통신",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강정모",
+      "corporate_registration_number": "1101110660781",
+      "business_registration_number": "1058139809",
+      "address": "서울특별시 마포구 대흥동 325-76",
+      "homepage": "www.ky.co.kr",
+      "ir_url": null,
+      "phone": "02-719-4078",
+      "fax": "02-703-9425",
+      "industry_code": "62022",
+      "established_date": "19891226",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7331,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:42.209Z",
+      "usage_event_id": "8408009c-838f-4e77-8ece-f36859b791ab"
+    }
+  }
+}

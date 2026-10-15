@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00126131"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00126131",
+      "corp_name": "삼선해운주식회사",
+      "corp_name_en": "Samsun Shipping Co., Ltd.",
+      "stock_name": "삼선해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "송충원",
+      "corporate_registration_number": "1101110628010",
+      "business_registration_number": "1028124777",
+      "address": "서울특별시 종로구 수송동 이마빌딩 5층",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "02-399-8500",
+      "fax": "02-399-8550",
+      "industry_code": "50112",
+      "established_date": "19701201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7767,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:33.311Z",
+      "usage_event_id": "1834b666-6324-4a51-a6a0-7fc9ffbf3c4f"
+    }
+  }
+}

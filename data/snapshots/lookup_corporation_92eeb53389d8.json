@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00394918"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00394918",
+      "corp_name": "아이비씨에스캐피탈(주)",
+      "corp_name_en": "IBCS Capital Co.,Ltd.",
+      "stock_name": "아이비씨에스캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김홍길",
+      "corporate_registration_number": "1101112086034",
+      "business_registration_number": "1148603445",
+      "address": "서울특별시 영등포구 여의도동 15-3 미주빌딩 4층",
+      "homepage": "http://www.ibcscapital.com",
+      "ir_url": null,
+      "phone": "02-3775-1320",
+      "fax": "02-786-1328",
+      "industry_code": "64209",
+      "established_date": "20001010",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7281,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:17.689Z",
+      "usage_event_id": "5d086b4c-eac4-4952-a8b8-4238f9613aa5"
+    }
+  }
+}

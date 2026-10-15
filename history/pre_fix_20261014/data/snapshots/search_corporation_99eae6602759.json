@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "물산",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00154189",
+          "corp_name": "케이비물산",
+          "stock_code": "008540",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00260693",
+          "corp_name": "평안물산",
+          "stock_code": "037240",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00103583",
+          "corp_name": "광덕물산",
+          "stock_code": "003590",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00125406",
+          "corp_name": "삼도물산",
+          "stock_code": "002930",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00126229",
+          "corp_name": "삼성물산",
+          "stock_code": "000830",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00252852",
+          "corp_name": "근도물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00416043",
+          "corp_name": "창영물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00368612",
+          "corp_name": "와이비물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00222453",
+          "corp_name": "두보물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00365891",
+          "corp_name": "우경물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00409919",
+          "corp_name": "에프앤디물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00221791",
+          "corp_name": "대동물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00253727",
+          "corp_name": "한조물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00104290",
+          "corp_name": "구성물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00143439",
+          "corp_name": "우학물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00165574",
+          "corp_name": "호원물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00373809",
+          "corp_name": "건오물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00202990",
+          "corp_name": "대도물산공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00103352",
+          "corp_name": "고합물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00119919",
+          "corp_name": "라성물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00206048",
+          "corp_name": "서양물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00246550",
+          "corp_name": "신대한물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00153968",
+          "corp_name": "태왕물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00235378",
+          "corp_name": "우암물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00367358",
+          "corp_name": "동원물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00330451",
+          "corp_name": "미쓰이물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00309497",
+          "corp_name": "경우물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00200521",
+          "corp_name": "경원물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00262381",
+          "corp_name": "기삼물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00355496",
+          "corp_name": "범해물산",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7869,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:16.817Z",
+      "usage_event_id": "48537f84-3ba2-4d33-819f-5ab9db45c279"
+    }
+  }
+}

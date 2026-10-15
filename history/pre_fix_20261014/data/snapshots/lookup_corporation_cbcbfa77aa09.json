@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00267979"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00267979",
+      "corp_name": "한일화학공업(주)",
+      "corp_name_en": "HANIL CHEMICAL IND. CO.,LTD",
+      "stock_name": "한일화학",
+      "stock_code": "007770",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "대표이사 사장 윤성진",
+      "corporate_registration_number": "1201110003111",
+      "business_registration_number": "1338126110",
+      "address": "충청남도 당진시 석문면 산단3로6길 47 -",
+      "homepage": "www.hanzinc.com",
+      "ir_url": null,
+      "phone": "02  -3448-4253",
+      "fax": "02  -3448-4268",
+      "industry_code": "201",
+      "established_date": "19720328",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7431,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:29.863Z",
+      "usage_event_id": "02f0dd31-3b92-4842-8f8a-7c3f63cebf62"
+    }
+  }
+}

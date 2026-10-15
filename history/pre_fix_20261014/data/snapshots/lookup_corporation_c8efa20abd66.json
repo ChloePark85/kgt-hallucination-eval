@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00184515"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:12+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00184515",
+      "corp_name": "(주)유림섬유",
+      "corp_name_en": "YURIM TEXTILE CO., LTD.",
+      "stock_name": "유림섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박창환",
+      "corporate_registration_number": "1101110321614",
+      "business_registration_number": "2018140002",
+      "address": "서울특별시 중구 명동1가 5-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)776-2975",
+      "fax": "02)755-9910",
+      "industry_code": "13211",
+      "established_date": "19820628",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7627,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:12.521Z",
+      "usage_event_id": "e66a0790-ed9e-434a-82b8-3e9c924868aa"
+    }
+  }
+}

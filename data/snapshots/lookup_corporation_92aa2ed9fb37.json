@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00147383"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00147383",
+      "corp_name": "주식회사 전일상호저축은행",
+      "corp_name_en": "JEONIL.MS.F.C",
+      "stock_name": "전일상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종문",
+      "corporate_registration_number": "2101110000895",
+      "business_registration_number": "4028100296",
+      "address": "전라북도 전주시 완산 태평 1 44-1",
+      "homepage": "www.jeonilbank.co.kr",
+      "ir_url": null,
+      "phone": "063-270-8400",
+      "fax": "063-274-8508",
+      "industry_code": "64999",
+      "established_date": "19741219",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7709,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:14.673Z",
+      "usage_event_id": "9b234bd3-6407-4786-a50c-8b7dc2129468"
+    }
+  }
+}

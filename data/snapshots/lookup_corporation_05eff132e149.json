@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00662110"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00662110",
+      "corp_name": "고려식품 주식회사",
+      "corp_name_en": "KORYO F&B CO., LTD.",
+      "stock_name": "고려식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김판영",
+      "corporate_registration_number": "2001110099783",
+      "business_registration_number": "4108150822",
+      "address": "광주광역시 광산구 안청동 733-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "062-953-5511",
+      "fax": "062-954-2442",
+      "industry_code": "11209",
+      "established_date": "19990601",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7096,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:33.812Z",
+      "usage_event_id": "e2283686-222f-4baf-b5ac-2d91b3b9dc82"
+    }
+  }
+}

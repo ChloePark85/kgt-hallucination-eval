@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00100920"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00100920",
+      "corp_name": "건설증권주식회사",
+      "corp_name_en": "keon sol securitiesco.,ltd.",
+      "stock_name": "건설증권",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박노훈",
+      "corporate_registration_number": "1101110029789",
+      "business_registration_number": "1168121783",
+      "address": "서울특별시 영등포구 여의도동 43",
+      "homepage": "www.ksec.co.kr",
+      "ir_url": null,
+      "phone": "783-8541",
+      "fax": "785-2339",
+      "industry_code": "66121",
+      "established_date": "19590324",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7865,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:21.636Z",
+      "usage_event_id": "b561a860-cd8c-4a8d-a1fd-b5dac1010394"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00103015"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00103015",
+      "corp_name": "고려제약(주)",
+      "corp_name_en": "KOREAN DRUG CO., LTD.",
+      "stock_name": "고려제약",
+      "stock_code": "014570",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "박해룡",
+      "corporate_registration_number": "1344110001840",
+      "business_registration_number": "1268104796",
+      "address": "경기도 이천시  신둔면 원적로 69-10",
+      "homepage": "www.nicepharma.com",
+      "ir_url": null,
+      "phone": "02-529-6100",
+      "fax": "02  -529 -6114",
+      "industry_code": "212",
+      "established_date": "19800110",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7847,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:35.219Z",
+      "usage_event_id": "58d4500c-9db1-44ec-a097-14c6b3e6871a"
+    }
+  }
+}

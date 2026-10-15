@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00110307"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00110307",
+      "corp_name": "대선조선(주)",
+      "corp_name_en": "DaesunSipbuilding&Engineering",
+      "stock_name": "대선조선",
+      "stock_code": "031990",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권민철",
+      "corporate_registration_number": "1801110001361",
+      "business_registration_number": "6018107936",
+      "address": "부산광역시 사하구 감천항로 454 (다대동)",
+      "homepage": "www.daesuns.co.kr",
+      "ir_url": null,
+      "phone": "0514195092",
+      "fax": "0514195892",
+      "industry_code": "3111",
+      "established_date": "19451225",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7823,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:52.270Z",
+      "usage_event_id": "12c0cda6-f487-4c5a-92ba-8ef83d057727"
+    }
+  }
+}

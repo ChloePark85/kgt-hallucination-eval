@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00970453"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-8039-1501",
+      "phone": "031-8039-1500",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "강원도 강릉시  과학단지로 77-19 &nbsp",
+      "ceo_name": "손지훈",
+      "homepage": "pharmaresearch.com/",
+      "corp_code": "00970453",
+      "corp_name": "(주)파마리서치",
+      "market_raw": "K",
+      "stock_code": "214450",
+      "stock_name": "파마리서치",
+      "corp_name_en": "PharmaResearch Co., Ltd.",
+      "industry_code": "213",
+      "established_date": "20010303",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "2208607450",
+      "corporate_registration_number": "1101112183749"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2652,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:58.696Z",
+      "usage_event_id": "9bcd1774-f971-44aa-9c3b-1880d447cb1c"
+    }
+  }
+}

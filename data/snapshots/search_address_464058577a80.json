@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "전라남도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:28:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "전남광주통합특별시",
+          "sigungu": "순천시",
+          "adm_code": "1215013300",
+          "lawd_code": "12150",
+          "road_name": "이수로",
+          "lot_sub_no": "0",
+          "lot_main_no": "1329",
+          "postal_code": "57966",
+          "eupmyeondong": "조례동",
+          "road_address": "전남광주통합특별시 순천시 이수로 242 (조례동)",
+          "road_mgmt_no": "121503283024",
+          "building_name": "전라남도청소년상담지원센터, 예인씽크가구",
+          "jibun_address": "전남광주통합특별시 순천시 조례동 1329 전라남도청소년상담지원센터, 예인씽크가구",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "242 Isu-ro, Suncheon-si, Jeonnam-Gwangju",
+          "is_mountain_lot": false,
+          "building_main_no": "242",
+          "building_mgmt_no": "4615013300113290000059254",
+          "road_address_main": "전남광주통합특별시 순천시 이수로 242",
+          "road_address_detail": " (조례동)"
+        },
+        {
+          "ri": "삼두리",
+          "sido": "전남광주통합특별시",
+          "sigungu": "완도군",
+          "adm_code": "1285031027",
+          "lawd_code": "12850",
+          "road_name": "삼두1길",
+          "lot_sub_no": "1",
+          "lot_main_no": "96",
+          "postal_code": "59106",
+          "eupmyeondong": "군외면",
+          "road_address": "전남광주통합특별시 완도군 군외면 삼두1길 215",
+          "road_mgmt_no": "128504854474",
+          "building_name": "전라남도청소년수련원",
+          "jibun_address": "전남광주통합특별시 완도군 군외면 삼두리 96-1 전라남도청소년수련원",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "215 Samdu 1-gil, Gunoe-myeon, Wando-gun, Jeonnam-Gwangju",
+          "is_mountain_lot": false,
+          "building_main_no": "215",
+          "building_mgmt_no": "4689031027100960001001678",
+          "road_address_main": "전남광주통합특별시 완도군 군외면 삼두1길 215",
+          "road_address_detail": null
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6427,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-14T02:28:34.264Z",
+      "usage_event_id": "a2c1af45-bd2b-4d8f-a95b-2b51cf033076"
+    }
+  }
+}

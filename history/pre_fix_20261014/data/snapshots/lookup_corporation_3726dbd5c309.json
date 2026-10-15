@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01212921"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01212921",
+      "corp_name": "(주)비바리퍼블리카",
+      "corp_name_en": "Viva Republica Inc.",
+      "stock_name": "비바리퍼블리카",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이승건",
+      "corporate_registration_number": "1101115119080",
+      "business_registration_number": "1208801280",
+      "address": "서울특별시 강남구 테헤란로 142 4층, 10층, 11층, 12층, 13층, 22층, 23층 (역삼동, 아크플레이스)",
+      "homepage": "https://toss.im/",
+      "ir_url": null,
+      "phone": "1599-4905",
+      "fax": "02-566-7017",
+      "industry_code": "63120",
+      "established_date": "20130423",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7891,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:45.252Z",
+      "usage_event_id": "6e67dcd5-b4b5-410d-9583-29ee03490fe9"
+    }
+  }
+}

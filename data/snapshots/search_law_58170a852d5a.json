@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "소득세법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:29:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001565",
+          "law_serial_no": "280405",
+          "name": "소득세법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "재정경제부",
+          "promulgation_date": "20251223",
+          "promulgation_no": "21221",
+          "enforcement_date": "20260701",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280405&type=HTML&mobileYn=&efYd=20260701"
+        },
+        {
+          "law_id": "003956",
+          "law_serial_no": "290841",
+          "name": "소득세법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "재정경제부",
+          "promulgation_date": "20260930",
+          "promulgation_no": "36737",
+          "enforcement_date": "20261001",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290841&type=HTML&mobileYn=&efYd=20261001"
+        },
+        {
+          "law_id": "007507",
+          "law_serial_no": "286379",
+          "name": "소득세법 시행규칙",
+          "short_name": null,
+          "law_type": "재정경제부령",
+          "ministry": "재정경제부",
+          "promulgation_date": "20260522",
+          "promulgation_no": "00033",
+          "enforcement_date": "20260701",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286379&type=HTML&mobileYn=&efYd=20260701"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6387,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-14T02:29:27.938Z",
+      "usage_event_id": "9c08d660-bc2e-49fa-bbec-6d5bd7e88aee"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00369028"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00369028",
+      "corp_name": "근하종합개발(주)호텔엑스포",
+      "corp_name_en": "HOTEL EXPO",
+      "stock_name": "근하종합개발호텔엑스포",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "유병봉",
+      "corporate_registration_number": "1601110084410",
+      "business_registration_number": "3148126892",
+      "address": "대전광역시 유성구 봉명동 544-1",
+      "homepage": "EXPOHOTEL.CO.KR",
+      "ir_url": null,
+      "phone": "042)824-0035",
+      "fax": "042)824-0023",
+      "industry_code": "47859",
+      "established_date": "19990715",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7333,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:40.783Z",
+      "usage_event_id": "42de31fb-1ed9-4d6d-8ad1-99e168720bd8"
+    }
+  }
+}

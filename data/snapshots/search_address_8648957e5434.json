@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "종로구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:28:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "종로구",
+          "adm_code": "1111012400",
+          "lawd_code": "11110",
+          "road_name": "종로1길",
+          "lot_sub_no": "12",
+          "lot_main_no": "146",
+          "postal_code": "03152",
+          "eupmyeondong": "수송동",
+          "road_address": "서울특별시 종로구 종로1길 36 (수송동)",
+          "road_mgmt_no": "111104100312",
+          "building_name": "종로구청",
+          "jibun_address": "서울특별시 종로구 수송동 146-12 종로구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "36 Jong-ro 1-gil, Jongno-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "36",
+          "building_mgmt_no": "1111012400101460012014430",
+          "road_address_main": "서울특별시 종로구 종로1길 36",
+          "road_address_detail": " (수송동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "종로구",
+          "adm_code": "1111017300",
+          "lawd_code": "11110",
+          "road_name": "명륜길",
+          "lot_sub_no": "1042",
+          "lot_main_no": "1",
+          "postal_code": "03065",
+          "eupmyeondong": "명륜3가",
+          "road_address": "서울특별시 종로구 명륜길 90 (명륜3가)",
+          "road_mgmt_no": "111104100089",
+          "building_name": "종로구청소년상담복지센터",
+          "jibun_address": "서울특별시 종로구 명륜3가 1-1042 종로구청소년상담복지센터",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "90 Myeongnyun-gil, Jongno-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "90",
+          "building_mgmt_no": "1111017300100011042007243",
+          "road_address_main": "서울특별시 종로구 명륜길 90",
+          "road_address_detail": " (명륜3가)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6423,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-14T02:28:39.377Z",
+      "usage_event_id": "e68500f2-7fd0-46da-820e-7a89c75bd7fa"
+    }
+  }
+}

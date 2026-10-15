@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "27260",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 377,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "범어동",
+          "floor": 37,
+          "jibun": "2291",
+          "canceled": false,
+          "deal_date": "2025-03-05",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2023,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "27260",
+          "canceled_date": null,
+          "apartment_name": "수성범어W",
+          "deal_amount_krw": 1285000000,
+          "deal_amount_raw": "128,500",
+          "exclusive_area_m2": 84.9911
+        }
+      ],
+      "lawd_code": "27260",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2595,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:09.418Z",
+      "usage_event_id": "fc96f940-298a-4f0d-8ac0-1f3cd4e36200"
+    }
+  }
+}

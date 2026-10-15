@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00427474"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00427474",
+      "corp_name": "덕화산업주식회사",
+      "corp_name_en": "DUCK HWA ",
+      "stock_name": "덕화산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "하준철",
+      "corporate_registration_number": "1101110520216",
+      "business_registration_number": "1058127093",
+      "address": "서울특별시 마포구 서교동 364-28 덕화빌딩 1층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-338-2411",
+      "fax": "02-333-6109",
+      "industry_code": "46464",
+      "established_date": "19870225",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7219,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:00.210Z",
+      "usage_event_id": "666c8e47-3356-4eff-8421-aeafca777982"
+    }
+  }
+}

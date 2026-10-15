@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00253727"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00253727",
+      "corp_name": "(주)한조물산",
+      "corp_name_en": "HANCHO ENTENPRISE CO., LTD",
+      "stock_name": "한조물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종인",
+      "corporate_registration_number": "1801110212752",
+      "business_registration_number": "6028111812",
+      "address": "부산광역시 중구 신창동 1가 1-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-256-1300",
+      "fax": "051-256-6556",
+      "industry_code": "4112",
+      "established_date": "19960827",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7469,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:03.246Z",
+      "usage_event_id": "f0dba24c-da1f-404e-bbfb-a3b26ee9334b"
+    }
+  }
+}

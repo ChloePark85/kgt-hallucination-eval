@@ -1,0 +1,56 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "고등교육법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:22+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 2,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "000899",
+          "law_serial_no": "283883",
+          "name": "고등교육법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "교육부",
+          "promulgation_date": "20260310",
+          "promulgation_no": "21423",
+          "enforcement_date": "20260911",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283883&type=HTML&mobileYn=&efYd=20260911"
+        },
+        {
+          "law_id": "002233",
+          "law_serial_no": "289437",
+          "name": "고등교육법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "교육부",
+          "promulgation_date": "20260908",
+          "promulgation_no": "36644",
+          "enforcement_date": "20260911",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289437&type=HTML&mobileYn=&efYd=20260911"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6730,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:22.714Z",
+      "usage_event_id": "2572f383-d29a-401d-bfda-4630b40d0239"
+    }
+  }
+}

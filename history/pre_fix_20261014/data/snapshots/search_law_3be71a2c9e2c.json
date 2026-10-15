@@ -1,0 +1,112 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "청소년 보호법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 6,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "002044",
+          "law_serial_no": "290215",
+          "name": "아동ㆍ청소년의 성보호에 관한 법률",
+          "short_name": "청소년성보호법",
+          "law_type": "법률",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20260929",
+          "promulgation_no": "22027",
+          "enforcement_date": "20261002",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290215&type=HTML&mobileYn=&efYd=20261002"
+        },
+        {
+          "law_id": "005212",
+          "law_serial_no": "290459",
+          "name": "아동ㆍ청소년의 성보호에 관한 법률 시행령",
+          "short_name": "청소년성보호법 시행령",
+          "law_type": "대통령령",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20260929",
+          "promulgation_no": "36728",
+          "enforcement_date": "20261002",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290459&type=HTML&mobileYn=&efYd=20261002"
+        },
+        {
+          "law_id": "010240",
+          "law_serial_no": "290907",
+          "name": "아동ㆍ청소년의 성보호에 관한 법률 시행규칙",
+          "short_name": "청소년성보호법 시행규칙",
+          "law_type": "성평등가족부령",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20261002",
+          "promulgation_no": "00017",
+          "enforcement_date": "20261002",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290907&type=HTML&mobileYn=&efYd=20261002"
+        },
+        {
+          "law_id": "000815",
+          "law_serial_no": "285397",
+          "name": "청소년 보호법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20260407",
+          "promulgation_no": "21537",
+          "enforcement_date": "20261008",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285397&type=HTML&mobileYn=&efYd=20261008"
+        },
+        {
+          "law_id": "005209",
+          "law_serial_no": "289973",
+          "name": "청소년 보호법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20260922",
+          "promulgation_no": "36695",
+          "enforcement_date": "20261008",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289973&type=HTML&mobileYn=&efYd=20261008"
+        },
+        {
+          "law_id": "008437",
+          "law_serial_no": "290909",
+          "name": "청소년 보호법 시행규칙",
+          "short_name": null,
+          "law_type": "성평등가족부령",
+          "ministry": "성평등가족부",
+          "promulgation_date": "20261002",
+          "promulgation_no": "00017",
+          "enforcement_date": "20261002",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290909&type=HTML&mobileYn=&efYd=20261002"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6758,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:01.055Z",
+      "usage_event_id": "5135d2dd-0cef-4c7f-93d3-e630af67152a"
+    }
+  }
+}

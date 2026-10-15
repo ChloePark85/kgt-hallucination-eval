@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00301015"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00301015",
+      "corp_name": "한서제약(주)",
+      "corp_name_en": "HANSEOPHARM.CO.,LTD.",
+      "stock_name": "한서제약",
+      "stock_code": "044070",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권철",
+      "corporate_registration_number": "1345110003662",
+      "business_registration_number": "3018117572",
+      "address": "충청북도 진천군 이월면 사곡리 588-2",
+      "homepage": "www.hanseoph.co.kr",
+      "ir_url": null,
+      "phone": "(043)533-1611",
+      "fax": "(02) 408-3911",
+      "industry_code": "21212",
+      "established_date": "19841212",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7411,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:43.750Z",
+      "usage_event_id": "bfd1881e-a62d-4dd4-a014-6a17b1fe9764"
+    }
+  }
+}

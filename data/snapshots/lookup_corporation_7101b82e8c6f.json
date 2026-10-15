@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00426208"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00426208",
+      "corp_name": "한국전자화학주식회사",
+      "corp_name_en": null,
+      "stock_name": "한국전자화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이의륭",
+      "corporate_registration_number": "1101111080920",
+      "business_registration_number": "2118604987",
+      "address": "서울특별시 강남구 논현1동 영풍빌딩",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-519-3671",
+      "fax": "02-549-8245",
+      "industry_code": "20119",
+      "established_date": "19941001",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7223,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:57.496Z",
+      "usage_event_id": "2f60badf-d057-40f3-80f9-83b7f2251568"
+    }
+  }
+}

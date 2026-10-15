@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00303837"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00303837",
+      "corp_name": "이레전자산업(주)",
+      "corp_name_en": "E-RAE Electronics Industry Co., Ltd.",
+      "stock_name": "이레전자산업",
+      "stock_code": "045310",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정문식",
+      "corporate_registration_number": "1101111322653",
+      "business_registration_number": "1188115332",
+      "address": "서울특별시 금천구 가산동 371-51",
+      "homepage": "www.erae.com",
+      "ir_url": null,
+      "phone": "02-861-6804",
+      "fax": "031-665-7196",
+      "industry_code": "2642",
+      "established_date": "19960918",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7407,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:46.476Z",
+      "usage_event_id": "ac1b3eb5-1810-4b02-b26f-b13517a56797"
+    }
+  }
+}

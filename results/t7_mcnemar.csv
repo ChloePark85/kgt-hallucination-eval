@@ -1,0 +1,4 @@
+﻿model,pairs,C0_only_correct,C2_only_correct,mcnemar_p
+gemma4:12b,600,1,501,7.7e-149
+gemma4:26b,600,3,507,1.3e-146
+qwen3.8:27b,600,3,525,5.6e-152

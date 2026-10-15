@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "비바리퍼블리카",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01212921",
+          "corp_name": "비바리퍼블리카",
+          "stock_code": null,
+          "modified_date": "20260326"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2633,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:31:23.103Z",
+      "usage_event_id": "387d73d3-dabb-4e37-9701-14f04b7a88a3"
+    }
+  }
+}

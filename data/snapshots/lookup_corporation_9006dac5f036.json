@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00766452"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00766452",
+      "corp_name": "신원해운 주식회사",
+      "corp_name_en": "SHIN WON MARINE CO.,LTD.",
+      "stock_name": "신원해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권만섭",
+      "corporate_registration_number": "1801110145606",
+      "business_registration_number": "6018123692",
+      "address": "부산광역시 영도구 대교동2가 147",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-418-1378",
+      "fax": "051-418-5725",
+      "industry_code": "50130",
+      "established_date": "19930831",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7068,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:54.639Z",
+      "usage_event_id": "17c79b73-6212-4bd9-991e-38ca771f1494"
+    }
+  }
+}

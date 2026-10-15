@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01671197"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01671197",
+      "corp_name": "에스케이증권제8호기업인수목적 주식회사",
+      "corp_name_en": "SK Securities No.8 Special Purpose Acquisition Company",
+      "stock_name": "에스케이증권제8호기업인수목적",
+      "stock_code": "435870",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김석",
+      "corporate_registration_number": "1101118327721",
+      "business_registration_number": "2728802391",
+      "address": "서울특별시 영등포구 국제금융로8길 31",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3773-8591",
+      "fax": null,
+      "industry_code": "66199",
+      "established_date": "20220610",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6998,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:44.673Z",
+      "usage_event_id": "b8a9f71a-d478-40be-8cbe-e1ff931d36bc"
+    }
+  }
+}

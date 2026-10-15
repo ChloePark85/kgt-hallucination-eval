@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00892562"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00892562",
+      "corp_name": "주식회사 진해식품",
+      "corp_name_en": "JIN HAI FOODS",
+      "stock_name": "진해식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김동훈",
+      "corporate_registration_number": "1154110034430",
+      "business_registration_number": "1278181909",
+      "address": "경기도 이천시 신둔면 고척리 219-5",
+      "homepage": "jhfood.co.kr",
+      "ir_url": null,
+      "phone": "031-637-7382",
+      "fax": "031-638-5338",
+      "industry_code": "10220",
+      "established_date": "20030704",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7024,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:26.591Z",
+      "usage_event_id": "ee080555-cea1-4c17-bf17-69847fcd33b2"
+    }
+  }
+}

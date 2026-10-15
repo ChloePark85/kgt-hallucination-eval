@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00797674"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00797674",
+      "corp_name": "(주)대우증권그린코리아기업인수목적회사",
+      "corp_name_en": "Daewoo Securities Green Korea Special Purpose Acquisition Company",
+      "stock_name": "대우증권그린코리아기업인수목적회사",
+      "stock_code": "121910",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "지성배",
+      "corporate_registration_number": "1353110013507",
+      "business_registration_number": "1388156695",
+      "address": "경기도 과천시 중앙동 36 ~100 38",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "02-3679-6288",
+      "fax": "02-3679-6289",
+      "industry_code": "64999",
+      "established_date": "20091215",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7056,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:03.634Z",
+      "usage_event_id": "1a5a0a99-c21f-4863-98a3-ec2cb432129d"
+    }
+  }
+}

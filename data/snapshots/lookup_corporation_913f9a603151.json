@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00388209"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00388209",
+      "corp_name": "서울캐피탈홀딩스(주)",
+      "corp_name_en": "Seoul Capital Holdings, Ltd.",
+      "stock_name": "서울캐피탈홀딩스",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "진병용",
+      "corporate_registration_number": "1101112302406",
+      "business_registration_number": "1208625084",
+      "address": "서울특별시 강남구 삼성동44-9 한국통신빌딩 7층",
+      "homepage": "www.sch21.co.kr",
+      "ir_url": null,
+      "phone": "02-541-4558",
+      "fax": "02-541-0441",
+      "industry_code": "66192",
+      "established_date": "20010803",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7287,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:13.152Z",
+      "usage_event_id": "4104e66e-96a7-4334-b6e3-b33f72e91299"
+    }
+  }
+}

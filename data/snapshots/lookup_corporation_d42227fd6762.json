@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00424158"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00424158",
+      "corp_name": "(주)캐피탈라인",
+      "corp_name_en": "CapitaLine Inc.",
+      "stock_name": "캐피탈라인",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "민경양",
+      "corporate_registration_number": "1101112191198",
+      "business_registration_number": "2208607881",
+      "address": "서울특별시 강남구 역삼동 678-35 역삼빌딩 9층",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "02-558-7851",
+      "fax": "02-557-7280",
+      "industry_code": "64209",
+      "established_date": "20010313",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7231,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:51.812Z",
+      "usage_event_id": "0dc3e253-97d3-4a41-ae63-b8a4c1d81286"
+    }
+  }
+}

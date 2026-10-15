@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "우아한형제들",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01063273",
+          "corp_name": "우아한형제들",
+          "stock_code": null,
+          "modified_date": "20230825"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6586,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:46.486Z",
+      "usage_event_id": "f1f7a137-77c4-48e4-9f88-b6012f8813e1"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+﻿volatility,condition,n,correct_pct,incorrect_pct,abstain_pct,unparsed_pct,error_pct,correct_ci95
+changes,C0,1080,1.7,28.9,69.4,0.0,0.0,1.1–2.6
+changes,C2,1080,96.5,0.6,1.8,1.1,0.0,95.2–97.4
+stable,C0,720,21.7,76.9,1.0,0.4,0.0,18.8–24.8
+stable,C2,720,91.4,5.7,1.1,1.5,0.3,89.1–93.2

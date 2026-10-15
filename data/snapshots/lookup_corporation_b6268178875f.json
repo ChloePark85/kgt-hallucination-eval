@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00207384"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00207384",
+      "corp_name": "(주)동일상사",
+      "corp_name_en": "DONGIL TRADING CO.",
+      "stock_name": "동일상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "하 영 무",
+      "corporate_registration_number": "1101110721236",
+      "business_registration_number": "1048120535",
+      "address": "서울특별시 중구 남대문로 5가 526번지",
+      "homepage": "해당없음",
+      "ir_url": null,
+      "phone": "02-775-1201",
+      "fax": "02-775-1206",
+      "industry_code": "13213",
+      "established_date": "19900910",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7581,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:44.184Z",
+      "usage_event_id": "2f90be08-833b-48fa-91b2-affe8b5a900b"
+    }
+  }
+}

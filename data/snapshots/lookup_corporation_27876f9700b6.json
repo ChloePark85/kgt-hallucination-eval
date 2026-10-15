@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00413408"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00413408",
+      "corp_name": "웰리치개발(주)",
+      "corp_name_en": "Wellichchosunhotel & Casino",
+      "stock_name": "웰리치개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신 득 일",
+      "corporate_registration_number": "1712110027100",
+      "business_registration_number": "5058130560",
+      "address": "경상북도 경주시 신평동 410-2",
+      "homepage": "www.chosunhotel.com",
+      "ir_url": null,
+      "phone": "054-740-8275",
+      "fax": "054-740-8260",
+      "industry_code": "55101",
+      "established_date": "20011001",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7253,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:36.837Z",
+      "usage_event_id": "3810314e-2f2d-4458-8795-f2733b29de99"
+    }
+  }
+}

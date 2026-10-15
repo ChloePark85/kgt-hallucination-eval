@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00165574"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00165574",
+      "corp_name": "주식회사 호원물산",
+      "corp_name_en": "HOWON CORPORATION",
+      "stock_name": "호원물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최광인",
+      "corporate_registration_number": "1101110398340",
+      "business_registration_number": "1168111062",
+      "address": "서울특별시 영등포구 여의도동 60",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-782-5677",
+      "fax": "02-789-5500",
+      "industry_code": "59141",
+      "established_date": "19850426",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7663,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:47.082Z",
+      "usage_event_id": "de2b4384-6808-499d-9ff9-7883864d2af4"
+    }
+  }
+}

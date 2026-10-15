@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00526003"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00526003",
+      "corp_name": "(주)동현상사",
+      "corp_name_en": "Dong Hyun Co. Ltd",
+      "stock_name": "동현상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권중기",
+      "corporate_registration_number": "1101110355712",
+      "business_registration_number": "1058138794",
+      "address": "서울특별시 은평구 불광3동 311-13 매트로타워 903",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-388-0510",
+      "fax": "02-388-0510",
+      "industry_code": "68121",
+      "established_date": "19830830",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7123,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:14.562Z",
+      "usage_event_id": "bf858d58-cc94-46d8-bd3d-f2e783994a70"
+    }
+  }
+}

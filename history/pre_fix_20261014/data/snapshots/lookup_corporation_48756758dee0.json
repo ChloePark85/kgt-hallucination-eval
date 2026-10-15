@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00131054"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00131054",
+      "corp_name": "유진투자증권(주)",
+      "corp_name_en": "EUGENE INVESTMENT & SECURITIES CO., LTD",
+      "stock_name": "유진증권",
+      "stock_code": "001200",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "유창수, 고경모(각자 대표)",
+      "corporate_registration_number": "1101110007826",
+      "business_registration_number": "1168134177",
+      "address": "서울특별시 영등포구 국제금융로 24 (여의도동)",
+      "homepage": "www.eugenefn.com",
+      "ir_url": null,
+      "phone": "02-368-6114",
+      "fax": "368-6703",
+      "industry_code": "66121",
+      "established_date": "19540512",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7745,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:49.579Z",
+      "usage_event_id": "5a274010-1c3e-4c40-aabe-47e2c12ece78"
+    }
+  }
+}

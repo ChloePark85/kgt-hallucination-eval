@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "26260",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 362,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "사직동",
+          "floor": 5,
+          "jibun": "354-2",
+          "canceled": false,
+          "deal_date": "2025-09-02",
+          "deal_type": "직거래",
+          "road_name": null,
+          "build_year": 1979,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "26260",
+          "canceled_date": null,
+          "apartment_name": "진성",
+          "deal_amount_krw": 400000000,
+          "deal_amount_raw": "40,000",
+          "exclusive_area_m2": 67.67
+        }
+      ],
+      "lawd_code": "26260",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2588,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:17.808Z",
+      "usage_event_id": "f42d52f2-98bd-48c6-8025-f53deeb06af6"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00350206"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00350206",
+      "corp_name": "엘파오 벤쳐캐피탈",
+      "corp_name_en": "EL-PAO VENTURE CAPITAL INC",
+      "stock_name": "엘파오벤쳐캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "NAUTA  HWANG",
+      "corporate_registration_number": "",
+      "business_registration_number": "9385",
+      "address": "400-555 Sixth Street New Westminister,B.C V3L 5H1, CANADA",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "604 - 526-6313",
+      "fax": null,
+      "industry_code": "64209",
+      "established_date": "19990716",
+      "fiscal_year_end_month": "01"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7365,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:17.724Z",
+      "usage_event_id": "dd115f71-3194-4bf6-9a83-318b9a60bbfb"
+    }
+  }
+}

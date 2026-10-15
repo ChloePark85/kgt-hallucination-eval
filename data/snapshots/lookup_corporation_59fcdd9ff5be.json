@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00257510"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00257510",
+      "corp_name": "주식회사 대웅상사",
+      "corp_name_en": "DAEWOONG INTERNATIONAL CORP.",
+      "stock_name": "대웅상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤 재 훈",
+      "corporate_registration_number": "1101110742985",
+      "business_registration_number": "1208106646",
+      "address": "서울특별시 강남구 삼성동 163-3",
+      "homepage": "www.daewoong.co.kr",
+      "ir_url": null,
+      "phone": "550-8441",
+      "fax": "550-8778",
+      "industry_code": "4610",
+      "established_date": "19910401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7459,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:10.260Z",
+      "usage_event_id": "790ce630-1624-4d92-a107-e0337cae99ae"
+    }
+  }
+}

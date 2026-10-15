@@ -1,0 +1,84 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "방송법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 4,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "000794",
+          "law_serial_no": "285487",
+          "name": "방송법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "방송미디어통신위원회",
+          "promulgation_date": "20260421",
+          "promulgation_no": "21572",
+          "enforcement_date": "20260421",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285487&type=HTML&mobileYn=&efYd=20260421"
+        },
+        {
+          "law_id": "003581",
+          "law_serial_no": "286311",
+          "name": "방송법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "방송미디어통신위원회",
+          "promulgation_date": "20260526",
+          "promulgation_no": "36355",
+          "enforcement_date": "20260526",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286311&type=HTML&mobileYn=&efYd=20260526"
+        },
+        {
+          "law_id": "012092",
+          "law_serial_no": "270879",
+          "name": "방송법 시행규칙",
+          "short_name": null,
+          "law_type": "과학기술정보통신부령",
+          "ministry": "방송미디어통신위원회",
+          "promulgation_date": "20250423",
+          "promulgation_no": "00146",
+          "enforcement_date": "20250423",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=270879&type=HTML&mobileYn=&efYd=20250423"
+        },
+        {
+          "law_id": "010635",
+          "law_serial_no": "286115",
+          "name": "인터넷 멀티미디어 방송사업법",
+          "short_name": "인터넷방송법",
+          "law_type": "법률",
+          "ministry": "방송미디어통신위원회",
+          "promulgation_date": "20260519",
+          "promulgation_no": "21677",
+          "enforcement_date": "20260519",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286115&type=HTML&mobileYn=&efYd=20260519"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6718,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:32.607Z",
+      "usage_event_id": "093ceb06-635d-4eca-a609-afc803f5070a"
+    }
+  }
+}

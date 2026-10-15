@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00256043"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00256043",
+      "corp_name": "(주)비씨월드제약",
+      "corp_name_en": "BCWORLDPHARM Co., Ltd.",
+      "stock_name": "비씨월드제약",
+      "stock_code": "200780",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "홍성한",
+      "corporate_registration_number": "1243110005515",
+      "business_registration_number": "1398111269",
+      "address": "경기도 여주시 가남읍 여주남로 872-23",
+      "homepage": "www.bcwp.co.kr",
+      "ir_url": null,
+      "phone": "031-881-6800",
+      "fax": null,
+      "industry_code": "212",
+      "established_date": "19800319",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7465,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:06.070Z",
+      "usage_event_id": "748f8428-d990-4301-8b46-8cca10d0f1eb"
+    }
+  }
+}

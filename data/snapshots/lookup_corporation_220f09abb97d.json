@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00363972"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00363972",
+      "corp_name": "덕영섬유(주)",
+      "corp_name_en": "DUCKYOUNG TEXTILE CO.LTD",
+      "stock_name": "덕영섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권태영",
+      "corporate_registration_number": "1701110038861",
+      "business_registration_number": "5048108726",
+      "address": "대구광역시 북구 노원3가 58-6",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(053)354-2501",
+      "fax": "(053)353-0796",
+      "industry_code": "20501",
+      "established_date": "19890629",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7349,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:29.497Z",
+      "usage_event_id": "4daf316c-9ff3-436f-9319-9d12f841ab05"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00235378"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00235378",
+      "corp_name": "우암물산 주식회사",
+      "corp_name_en": "WOO AM CO.,LTD.",
+      "stock_name": "우암물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "국경진",
+      "corporate_registration_number": "1101110621460",
+      "business_registration_number": "1288106878",
+      "address": "경기도 파주시 파평면 덕천리 산6-1",
+      "homepage": "해당사항없음.",
+      "ir_url": null,
+      "phone": "0348-958-6345",
+      "fax": "0348-958-7800",
+      "industry_code": "23329",
+      "established_date": "19890801",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7511,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:33.783Z",
+      "usage_event_id": "4979d81d-8d48-4ce6-9025-5937c95f3aea"
+    }
+  }
+}

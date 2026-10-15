@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "수영구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 1,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "부산광역시",
+          "sigungu": "수영구",
+          "adm_code": "2650010500",
+          "lawd_code": "26500",
+          "road_name": "남천동로",
+          "lot_sub_no": "15",
+          "lot_main_no": "148",
+          "postal_code": "48305",
+          "eupmyeondong": "남천동",
+          "road_address": "부산광역시 수영구 남천동로 100 (남천동)",
+          "road_mgmt_no": "265003138008",
+          "building_name": "수영구청",
+          "jibun_address": "부산광역시 수영구 남천동 148-15 수영구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "100 Namcheondong-ro, Suyeong-gu, Busan",
+          "is_mountain_lot": false,
+          "building_main_no": "100",
+          "building_mgmt_no": "2650010500101480015000900",
+          "road_address_main": "부산광역시 수영구 남천동로 100",
+          "road_address_detail": " (남천동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2599,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:32:04.569Z",
+      "usage_event_id": "45f69022-0819-4384-8ef8-7ced053b2807"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01013241"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01013241",
+      "corp_name": "주식회사 백제식품",
+      "corp_name_en": "BAKJE FOOD CO.,LTD",
+      "stock_name": "백제식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김재유",
+      "corporate_registration_number": "1611110008328",
+      "business_registration_number": "3108116499",
+      "address": "충청남도 홍성군 은하면 충서로 87",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "041-641-4682",
+      "fax": "041-642-2394",
+      "industry_code": "102",
+      "established_date": "20030325",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7004,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:40.260Z",
+      "usage_event_id": "198ad926-7fbb-4e25-871a-c782fd12e85d"
+    }
+  }
+}

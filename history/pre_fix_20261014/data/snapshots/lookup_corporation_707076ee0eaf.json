@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00208356"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00208356",
+      "corp_name": "동호전자주식회사",
+      "corp_name_en": "DONG HO ELECTRONICS CO., LTD.",
+      "stock_name": "동호전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 영 희",
+      "corporate_registration_number": "",
+      "business_registration_number": "3128113082",
+      "address": "충청남도 천안시 수신면 장산리 324-1번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0417)552-7461",
+      "fax": "0417)552-0681",
+      "industry_code": "2629",
+      "established_date": "19921231",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7579,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:45.531Z",
+      "usage_event_id": "9dc68d40-0943-46be-9343-4aa5dc4b242f"
+    }
+  }
+}

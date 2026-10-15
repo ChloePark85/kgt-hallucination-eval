@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00251695"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00251695",
+      "corp_name": "주식회사 메디캐피탈",
+      "corp_name_en": "MEDICAPITAL,CO.,LTD",
+      "stock_name": "메디캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정병옥",
+      "corporate_registration_number": "1101111283425",
+      "business_registration_number": "2208125297",
+      "address": "서울특별시 강남구 대치동 997-4 메디슨벤처타워",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2194-3651~8",
+      "fax": "02-2194-3650",
+      "industry_code": "76390",
+      "established_date": "19960618",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7477,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:57.449Z",
+      "usage_event_id": "336cbca2-4192-42fa-8f5a-500ae2605df2"
+    }
+  }
+}

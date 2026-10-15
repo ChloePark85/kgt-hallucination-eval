@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00232098"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00232098",
+      "corp_name": "제일섬유공업 주식회사",
+      "corp_name_en": "CHEIL TEXTILE IND, CO., LTD.",
+      "stock_name": "제일섬유공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "맹철재",
+      "corporate_registration_number": "1701110014902",
+      "business_registration_number": "5038120746",
+      "address": "대구광역시 서구 비산동 2010-29",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(053) 353-0991",
+      "fax": "(053) 356-2965",
+      "industry_code": "13211",
+      "established_date": "19731020",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7529,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:21.063Z",
+      "usage_event_id": "d1029b9e-58db-435b-a69a-717bf8af4a3b"
+    }
+  }
+}

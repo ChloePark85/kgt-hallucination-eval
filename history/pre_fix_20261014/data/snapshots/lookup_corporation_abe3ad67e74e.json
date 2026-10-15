@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00258801"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00258801",
+      "corp_name": "(주)카카오",
+      "corp_name_en": "Kakao Corp.",
+      "stock_name": "카카오",
+      "stock_code": "035720",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정신아",
+      "corporate_registration_number": "1101111129497",
+      "business_registration_number": "1208147521",
+      "address": "제주특별자치도 제주시 첨단로 242",
+      "homepage": "www.kakaocorp.com",
+      "ir_url": "https://www.kakaocorp.com/ir/main",
+      "phone": "02-6718-1082",
+      "fax": "02-6718-3647",
+      "industry_code": "63120",
+      "established_date": "19950216",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7982,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:44.002Z",
+      "usage_event_id": "fa1116b8-48f3-4ea6-b87a-ab56f3e079f8"
+    }
+  }
+}

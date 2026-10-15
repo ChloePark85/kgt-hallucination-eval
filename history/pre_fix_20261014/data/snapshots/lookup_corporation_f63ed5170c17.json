@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00188919"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00188919",
+      "corp_name": "주식회사 화성섬유",
+      "corp_name_en": "HWA SEUNG TEXTILE CO,. LTD.",
+      "stock_name": "화성섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "백순기",
+      "corporate_registration_number": "1701110032607",
+      "business_registration_number": "5028109622",
+      "address": "대구광역시 수성구 범어1동 173-6번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "054-331-7117, 053-742-0502",
+      "fax": "054-335-1153, 053-742-0503",
+      "industry_code": "13213",
+      "established_date": "19871202",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7623,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:15.295Z",
+      "usage_event_id": "ae222092-1f0c-4f74-8fc5-6202362fbb5f"
+    }
+  }
+}

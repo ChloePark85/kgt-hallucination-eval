@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41135",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "41135",
+      "deal_month": "202503",
+      "total": 804,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "한솔마을(2단지)(LG)",
+          "deal_amount_krw": 1650000000,
+          "deal_amount_raw": "165,000",
+          "deal_date": "2025-03-04",
+          "exclusive_area_m2": 164.99,
+          "floor": 12,
+          "build_year": 1995,
+          "dong": "정자동",
+          "jibun": "111",
+          "road_name": null,
+          "sigungu_code": "41135",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6869,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-12T17:21:12.908Z",
+      "usage_event_id": "7efdc01e-a1f7-4d7f-8e79-a8ca0b79476a"
+    }
+  }
+}

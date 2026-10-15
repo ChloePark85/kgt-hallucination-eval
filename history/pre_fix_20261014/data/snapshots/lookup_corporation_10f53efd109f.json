@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00101646"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00101646",
+      "corp_name": "(주)경방상사",
+      "corp_name_en": "KYUNGBANG TRADING CO., LTD",
+      "stock_name": "경방상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박준기",
+      "corporate_registration_number": "1101110223638",
+      "business_registration_number": "2208128936",
+      "address": "서울특별시 금천구 가산동 371-45",
+      "homepage": "www.gofabric.co.kr",
+      "ir_url": null,
+      "phone": "02-8609-510",
+      "fax": "02-861-4096",
+      "industry_code": "13211",
+      "established_date": "19780110",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7857,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:27.501Z",
+      "usage_event_id": "da3255a4-fd49-4db5-a8c1-cadadc764d29"
+    }
+  }
+}

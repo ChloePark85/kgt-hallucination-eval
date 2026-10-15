@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00221180"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00221180",
+      "corp_name": "삼양섬유주식회사",
+      "corp_name_en": null,
+      "stock_name": "삼양섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양태선외",
+      "corporate_registration_number": "1341110006961",
+      "business_registration_number": "1338122259",
+      "address": "경기도 시흥시 정왕동 시회공단1바 406",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-499-5151",
+      "fax": null,
+      "industry_code": "13402",
+      "established_date": "19810420",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7557,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:00.921Z",
+      "usage_event_id": "1f5c83a4-ff20-4201-8341-5ca557065ac0"
+    }
+  }
+}

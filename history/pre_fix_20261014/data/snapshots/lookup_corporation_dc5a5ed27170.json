@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00202325"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00202325",
+      "corp_name": "성창섬유주식회사",
+      "corp_name_en": null,
+      "stock_name": "성창섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "성낙중",
+      "corporate_registration_number": "1741110007523",
+      "business_registration_number": "5148116844",
+      "address": "대구광역시 달성 논공 금포 951-2",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "053-616-5500",
+      "fax": "053-616-5004",
+      "industry_code": "13109",
+      "established_date": "19931125",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7597,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:33.121Z",
+      "usage_event_id": "c48351be-ebc3-4a8d-912a-5b5bb800ecb4"
+    }
+  }
+}

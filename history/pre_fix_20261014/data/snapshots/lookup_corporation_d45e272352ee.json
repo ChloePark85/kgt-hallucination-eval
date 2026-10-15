@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00414762"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00414762",
+      "corp_name": "금화도시개발 주식회사",
+      "corp_name_en": "kumhwa urban development co.,ltd",
+      "stock_name": "금화도시개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정길현",
+      "corporate_registration_number": "1101111475494",
+      "business_registration_number": "1148181562",
+      "address": "경기도 안성시 대덕면 소현리 2-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-676-2009",
+      "fax": "02-575-1113",
+      "industry_code": "68122",
+      "established_date": "19971021",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7249,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:39.588Z",
+      "usage_event_id": "78dd381c-d99a-45ce-bc20-2a473ff94527"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00424307"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00424307",
+      "corp_name": "(주)덕경종합건설",
+      "corp_name_en": "DUCK KYUNG GENERAL CONSTRUCTION",
+      "stock_name": "덕경종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "류수락",
+      "corporate_registration_number": "1701110049842",
+      "business_registration_number": "5028122120",
+      "address": "경상북도 의성군 의성읍 후죽리 586-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "053-754-7069",
+      "fax": "053-741-9175",
+      "industry_code": "4111",
+      "established_date": "20011009",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7229,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:53.146Z",
+      "usage_event_id": "77d8b1b7-b5c7-40c9-8dbe-ed60e9223840"
+    }
+  }
+}

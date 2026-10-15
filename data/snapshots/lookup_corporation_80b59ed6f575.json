@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00413383"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00413383",
+      "corp_name": "에프씨산업주식회사",
+      "corp_name_en": "F.C CORPORATOIN",
+      "stock_name": "에프씨산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "유 효 식",
+      "corporate_registration_number": "1341110023824",
+      "business_registration_number": "1388105274",
+      "address": "경기도 안양시 동안구 관양동 874-1",
+      "homepage": "http://fc.co.kr",
+      "ir_url": null,
+      "phone": "031-424-3675",
+      "fax": "031-423-2989",
+      "industry_code": "22299",
+      "established_date": "19880114",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7255,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:35.468Z",
+      "usage_event_id": "473c207e-3612-413c-88e2-2fb0bd087d5f"
+    }
+  }
+}

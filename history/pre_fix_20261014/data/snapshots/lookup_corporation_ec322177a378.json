@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00231008"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00231008",
+      "corp_name": "(주)경인조선공업",
+      "corp_name_en": "KYEONG-IN REFRIGERATION CO.,LTD",
+      "stock_name": "경인조선공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "안기조",
+      "corporate_registration_number": "1201110068288",
+      "business_registration_number": "1218114829",
+      "address": "인천광역시 주구 항동 7가 7-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032)884-0044",
+      "fax": "032)884-1450",
+      "industry_code": "11201",
+      "established_date": "19900328",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7535,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:15.944Z",
+      "usage_event_id": "2d017884-9490-46c4-8d41-3a5187be4a30"
+    }
+  }
+}

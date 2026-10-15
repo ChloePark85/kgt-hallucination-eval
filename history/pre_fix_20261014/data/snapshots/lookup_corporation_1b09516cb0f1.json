@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00430061"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00430061",
+      "corp_name": "캐피탈링크(주)",
+      "corp_name_en": "Capitalink",
+      "stock_name": "캐피탈링크",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정현성",
+      "corporate_registration_number": "1101111650210",
+      "business_registration_number": "2028163110",
+      "address": "서울특별시 중구 을지로1가 101-1 하나은행빌딩 16층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-310-9740",
+      "fax": "02-319-9738",
+      "industry_code": "71531",
+      "established_date": "19990211",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7213,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:04.695Z",
+      "usage_event_id": "b5f30aa1-68d8-407b-85e6-76a4fb6a42ea"
+    }
+  }
+}

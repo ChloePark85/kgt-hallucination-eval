@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00370051"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00370051",
+      "corp_name": "유덕건설(주)",
+      "corp_name_en": "YUDUK CONSTRUCTION CO., LTD",
+      "stock_name": "유덕건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김유산",
+      "corporate_registration_number": "1101110689492",
+      "business_registration_number": "1388107777",
+      "address": "경기도 안양시 동안구 호계3동 1005-3 화선빌딩 3층",
+      "homepage": "http://www.yuduk.co.kr",
+      "ir_url": null,
+      "phone": "031-457-4411",
+      "fax": "031-457-4477",
+      "industry_code": "41221",
+      "established_date": "19900317",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7325,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:46.499Z",
+      "usage_event_id": "e09c2c3c-67cc-4fab-aaca-8c97be084208"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00166573"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00166573",
+      "corp_name": "환인제약(주)",
+      "corp_name_en": "WHANIN PHARM CO.,LTD",
+      "stock_name": "환인제약",
+      "stock_code": "016580",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "이광식, 이원범(각자 대표이사)",
+      "corporate_registration_number": "1101110339542",
+      "business_registration_number": "2158136171",
+      "address": "서울특별시 송파구 법원로6길 11 (문정동, 환인빌딩)",
+      "homepage": "www.whanin.co.kr",
+      "ir_url": null,
+      "phone": "02-405-3000",
+      "fax": "02-404-2518",
+      "industry_code": "212",
+      "established_date": "19821216",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7661,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:48.436Z",
+      "usage_event_id": "6f0952e0-cfa2-4917-9344-af74e79b4427"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00101318"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00101318",
+      "corp_name": "경남섬유공업(주)",
+      "corp_name_en": "KYUNGNAM SUMYU IND.CO., LTD",
+      "stock_name": "경남섬유공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "허 정 도",
+      "corporate_registration_number": "1801110002509",
+      "business_registration_number": "6218100126",
+      "address": "부산광역시 금정구 부곡동 235",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(051) 582-0042",
+      "fax": "(051) 515-6045",
+      "industry_code": "13212",
+      "established_date": "19590827",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7863,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:23.010Z",
+      "usage_event_id": "de00fe77-fd3f-4df4-b0f5-2039aaab3351"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00107367"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00107367",
+      "corp_name": "주식회사 남성조선",
+      "corp_name_en": "NAMSUNG SHIPYARD CO., LTD",
+      "stock_name": "남성조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강동근",
+      "corporate_registration_number": "1801110016328",
+      "business_registration_number": "6038101845",
+      "address": "부산광역시 사하구 감천동 391-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-207-8881",
+      "fax": "051-206-9795",
+      "industry_code": "3111",
+      "established_date": "19720221",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7829,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:48.232Z",
+      "usage_event_id": "d07672b0-7f48-457b-95bc-0eb0354974e5"
+    }
+  }
+}

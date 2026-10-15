@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01725577"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01725577",
+      "corp_name": "에스케이증권제9호기업인수목적 주식회사",
+      "corp_name_en": "SK Securities No.9 Special Purpose Acquisition Company",
+      "stock_name": "에스케이증권제9호기업인수목적",
+      "stock_code": "455910",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한현석",
+      "corporate_registration_number": "1101118590568",
+      "business_registration_number": "1448138784",
+      "address": "서울특별시 영등포구 국제금융로8길 31",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3773-8591",
+      "fax": null,
+      "industry_code": "66199",
+      "established_date": "20230323",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6996,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:46.095Z",
+      "usage_event_id": "be251970-bb13-4439-a0cf-4a9441ea5276"
+    }
+  }
+}

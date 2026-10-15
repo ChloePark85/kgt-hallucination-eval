@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00114446"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00114446",
+      "corp_name": "(주)신호전자통신",
+      "corp_name_en": null,
+      "stock_name": "신호전자통신",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "",
+      "corporate_registration_number": "1101110197841",
+      "business_registration_number": "0",
+      "address": "서울특별시 서초구 양재동 275 동원빌딩 8층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-589-6900",
+      "fax": "02-3460-2667        ",
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7807,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:03.786Z",
+      "usage_event_id": "113c1472-9484-48b7-894a-0b95c0580d7a"
+    }
+  }
+}

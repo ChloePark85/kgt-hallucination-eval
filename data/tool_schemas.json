@@ -1,0 +1,199 @@
+{
+  "fetched_at": "2026-10-13T02:24:02+0900",
+  "tools": [
+    {
+      "type": "function",
+      "function": {
+        "name": "verify_business_registration",
+        "description": "Cost: 2 credits/call (cache hit: 1). 국세청 사업자등록번호 상태(계속사업자/휴업/폐업/미등록)와 과세유형을 조회합니다. 대표자명(representative_name)과 개업일(opened_date, YYYYMMDD)을 함께 주면 등록정보 진위확인까지 수행합니다. 한 번에 최대 100건. 결과 status: active | suspended | closed | not_registered.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "business_numbers": {
+              "minItems": 1,
+              "maxItems": 100,
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "사업자등록번호 목록 (하이픈 유무 무관)"
+            },
+            "representative_name": {
+              "description": "진위확인용 대표자명 (단건 조회 시)",
+              "type": "string"
+            },
+            "opened_date": {
+              "description": "진위확인용 개업일자 YYYYMMDD (단건 조회 시)",
+              "type": "string",
+              "pattern": "^\\d{8}$"
+            },
+            "business_name": {
+              "description": "진위확인용 상호 (선택)",
+              "type": "string"
+            }
+          },
+          "required": [
+            "business_numbers"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "search_address",
+        "description": "Cost: 1 credit/call (cache hit: 1). 도로명주소·지번주소·건물명 키워드로 공식 주소를 검색해 정규화합니다. 우편번호(postal_code), 행정구역코드(adm_code), 아파트 실거래가 조회용 법정동코드 5자리(lawd_code), 영문주소를 반환합니다. 예: '세종대로 209', '역삼동 736-1', '삼성전자 본사'.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "keyword": {
+              "type": "string",
+              "minLength": 2,
+              "maxLength": 100,
+              "description": "검색 키워드 (도로명/지번/건물명)"
+            },
+            "page": {
+              "default": 1,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 9007199254740991
+            },
+            "per_page": {
+              "default": 10,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50
+            }
+          },
+          "required": [
+            "keyword"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "search_corporation",
+        "description": "Cost: 1 credit/call (cache hit: 1). 법인명으로 금융감독원 DART 등록 법인을 검색해 corp_code(8자리 고유번호)를 찾습니다. 상장사는 stock_code가 함께 반환됩니다. lookup_corporation의 corp_code 입력으로 사용하세요.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 50,
+              "description": "법인명 일부 또는 전체"
+            },
+            "limit": {
+              "default": 10,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 30
+            }
+          },
+          "required": [
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "lookup_corporation",
+        "description": "Cost: 2 credits/call (cache hit: 1). DART corp_code로 기업개황을 조회합니다: 정식 법인명, 대표자, 법인등록번호, 사업자등록번호, 주소, 업종코드, 설립일, 상장시장. corp_code를 모르면 먼저 search_corporation을 호출하세요.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "corp_code": {
+              "type": "string",
+              "pattern": "^\\d{8}$",
+              "description": "DART 고유번호 8자리"
+            }
+          },
+          "required": [
+            "corp_code"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "apartment_trade_prices",
+        "description": "Cost: 3 credits/call (cache hit: 1). 국토교통부 아파트 매매 실거래가를 시군구(법정동코드 5자리) + 계약월(YYYYMM) 단위로 조회합니다. lawd_code는 search_address 결과의 lawd_code를 사용하세요 (예: 강남구 11680). deal_amount_krw는 원 단위 정수입니다.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "lawd_code": {
+              "type": "string",
+              "pattern": "^\\d{5}$",
+              "description": "법정동코드 앞 5자리 (시군구)"
+            },
+            "deal_month": {
+              "type": "string",
+              "pattern": "^\\d{6}$",
+              "description": "계약년월 YYYYMM"
+            },
+            "page": {
+              "default": 1,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 9007199254740991
+            },
+            "per_page": {
+              "default": 100,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 1000
+            }
+          },
+          "required": [
+            "lawd_code",
+            "deal_month"
+          ]
+        }
+      }
+    },
+    {
+      "type": "function",
+      "function": {
+        "name": "search_law",
+        "description": "Cost: 2 credits/call (cache hit: 1). 법제처 국가법령정보센터에서 현행 법령(법률·시행령·시행규칙)을 검색합니다. 법령ID, 소관부처, 공포/시행일, 상세 링크를 반환합니다. 예: '개인정보 보호법', '주택임대차보호법'.",
+        "parameters": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "query": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100,
+              "description": "법령명 검색어"
+            },
+            "page": {
+              "default": 1,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 9007199254740991
+            },
+            "per_page": {
+              "default": 20,
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100
+            }
+          },
+          "required": [
+            "query"
+          ]
+        }
+      }
+    }
+  ]
+}

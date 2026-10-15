@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00131443"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00131443",
+      "corp_name": "서통상사(주)",
+      "corp_name_en": "Suttong Industrial Corporation",
+      "stock_name": "서통상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최좌진",
+      "corporate_registration_number": "1101110521769",
+      "business_registration_number": "1228137427",
+      "address": "인천광역시 부평구 청천동 423",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "( 032 ) 521-3006",
+      "fax": "( 032 ) 502-4340",
+      "industry_code": "4632",
+      "established_date": "19870228",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7743,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:51.174Z",
+      "usage_event_id": "1209af17-65ca-40b3-9ea1-be96eb4bc2fc"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00441818"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00441818",
+      "corp_name": "세창해운(주)",
+      "corp_name_en": "Sechang Shipping Co.,Ltd",
+      "stock_name": "세창해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최영자",
+      "corporate_registration_number": "2201110024546",
+      "business_registration_number": "6168124581",
+      "address": "전라남도 영암군 삼호읍 용당리 2169-7",
+      "homepage": "www.scline.co.kr",
+      "ir_url": null,
+      "phone": "064-799-3121",
+      "fax": "064-799-3921",
+      "industry_code": "50122",
+      "established_date": "19990108",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7189,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:21.233Z",
+      "usage_event_id": "368688af-108c-423f-b6a9-e06978833e2e"
+    }
+  }
+}

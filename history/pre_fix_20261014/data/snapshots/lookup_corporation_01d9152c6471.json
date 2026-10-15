@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00216319"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00216319",
+      "corp_name": "우일섬유 주식회사",
+      "corp_name_en": "Wooil textile Co., Ltd.",
+      "stock_name": "우일섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최 옥 균",
+      "corporate_registration_number": "1301110009208",
+      "business_registration_number": "1348104462",
+      "address": "경기도 안산시 초지동 624-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0345)491-2201~4",
+      "fax": "0345)491-0029",
+      "industry_code": "13402",
+      "established_date": "19750409",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7563,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:56.631Z",
+      "usage_event_id": "56d01656-cd93-4ab2-a48e-a5d9a42115de"
+    }
+  }
+}

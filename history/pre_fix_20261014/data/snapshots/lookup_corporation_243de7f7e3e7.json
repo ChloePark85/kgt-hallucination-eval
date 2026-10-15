@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00425379"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00425379",
+      "corp_name": "(주)페가수스캐피탈아시아",
+      "corp_name_en": "Pegasus Capital Asia, inc",
+      "stock_name": "페가수스캐피탈아시아",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": " Chung H. lee",
+      "corporate_registration_number": "1101112458184",
+      "business_registration_number": "1148617274",
+      "address": "서울특별시 서초구 방배동843-6",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "516-6792",
+      "fax": "516-6792",
+      "industry_code": "66192",
+      "established_date": "20020320",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7227,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:54.746Z",
+      "usage_event_id": "ec53b3df-a438-4b65-b89d-bd2d5c4c89e2"
+    }
+  }
+}

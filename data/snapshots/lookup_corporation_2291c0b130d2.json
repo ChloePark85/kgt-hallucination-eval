@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00127538"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00127538",
+      "corp_name": "삼원산업(주)",
+      "corp_name_en": "SAMWON Industrial Company Ltd.",
+      "stock_name": "삼원산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "송 정 섭",
+      "corporate_registration_number": "1647110001872",
+      "business_registration_number": "3078103469",
+      "address": "충청남도 연기군 전동면 청송리 508-2",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "041-862-9501",
+      "fax": "041-862-9504",
+      "industry_code": "2629",
+      "established_date": "19910419",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7757,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:40.729Z",
+      "usage_event_id": "a6fc141e-79dd-4934-9ff6-0ae89a9635bf"
+    }
+  }
+}

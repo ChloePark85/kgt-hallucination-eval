@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00403872"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00403872",
+      "corp_name": "영상산업(주)",
+      "corp_name_en": "young sang industrial co.,ltd",
+      "stock_name": "영상산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "전상열",
+      "corporate_registration_number": "1748110010225",
+      "business_registration_number": "5158107862",
+      "address": "경상북도 경산시 와촌면 용천리 436-1",
+      "homepage": "www.polyarfoam.com",
+      "ir_url": null,
+      "phone": "053-851-6666",
+      "fax": "053-851-7373",
+      "industry_code": "2225",
+      "established_date": "19950320",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7275,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:21.681Z",
+      "usage_event_id": "0f58ec16-9d0a-40ea-ad2a-37e5f151613a"
+    }
+  }
+}

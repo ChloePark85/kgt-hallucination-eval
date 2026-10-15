@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00250377"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00250377",
+      "corp_name": "경인해운(주)",
+      "corp_name_en": "kyug i hiig Co. Ltd.",
+      "stock_name": "경인해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김문기",
+      "corporate_registration_number": "1101111418064",
+      "business_registration_number": "2028159178",
+      "address": "서울특별시 강남구 역삼동 605-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "561-2411",
+      "fax": "561-2420",
+      "industry_code": "50122",
+      "established_date": "19970523",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7481,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:54.730Z",
+      "usage_event_id": "bc27a0c9-c032-4df5-ae9c-d8051fa874ff"
+    }
+  }
+}

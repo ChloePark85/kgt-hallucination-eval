@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "인천광역시청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:37+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 1,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "인천광역시 남동구 정각로 29 (구월동)",
+          "road_address_main": "인천광역시 남동구 정각로 29",
+          "road_address_detail": " (구월동)",
+          "jibun_address": "인천광역시 남동구 구월동 1138 인천광역시청",
+          "english_address": "29 Jeonggak-ro, Namdong-gu, Incheon",
+          "postal_code": "21554",
+          "adm_code": "2820010100",
+          "lawd_code": "28200",
+          "building_name": "인천광역시청",
+          "sido": "인천광역시",
+          "sigungu": "남동구",
+          "eupmyeondong": "구월동",
+          "ri": null,
+          "road_name": "정각로",
+          "building_main_no": "29",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "1138",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "282003153076",
+          "building_mgmt_no": "2820010100111380000001278"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6834,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:37.729Z",
+      "usage_event_id": "fadb5cbd-68cc-4822-8901-31d33ff33e92"
+    }
+  }
+}

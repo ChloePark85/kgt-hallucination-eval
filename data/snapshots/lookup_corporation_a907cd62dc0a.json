@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00174022"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00174022",
+      "corp_name": "유창섬유(주)",
+      "corp_name_en": "YOOCHANG TEXTILE CO.,LTD.",
+      "stock_name": "유창섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김도균",
+      "corporate_registration_number": "1741110000593",
+      "business_registration_number": "5148103859",
+      "address": "대구광역시 달성군 논공읍 본리리29-52",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(053)557-5513",
+      "fax": "(053)614-0620",
+      "industry_code": "20501",
+      "established_date": "19840822",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7649,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:56.874Z",
+      "usage_event_id": "770c87bc-beea-4e39-bea9-12c13dd3adf7"
+    }
+  }
+}

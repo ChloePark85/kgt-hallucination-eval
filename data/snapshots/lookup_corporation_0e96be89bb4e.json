@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00151997"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00151997",
+      "corp_name": "주식회사 도민상호저축은행",
+      "corp_name_en": "Domin Mutual Savings & Finance Co., Ltd",
+      "stock_name": "도민상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "채규철, 정주천, 최강홍",
+      "corporate_registration_number": "1401110000402",
+      "business_registration_number": "2218100659",
+      "address": "강원도 춘천시 운교동 179-7",
+      "homepage": "www.dominbank.co.kr",
+      "ir_url": null,
+      "phone": "(033) 241-3791",
+      "fax": "(033) 242-3791",
+      "industry_code": "64132",
+      "established_date": "19690208",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7695,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:24.799Z",
+      "usage_event_id": "a99cdc3b-e298-45fd-8dcc-b86607ab6054"
+    }
+  }
+}

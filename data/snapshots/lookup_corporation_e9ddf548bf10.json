@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00979092"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00979092",
+      "corp_name": "주식회사 해저식품",
+      "corp_name_en": "HAEJEO FOODS Co,. Ltd.",
+      "stock_name": "해저식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신흥수",
+      "corporate_registration_number": "1611110013864",
+      "business_registration_number": "3108124572",
+      "address": "충청남도 홍성군 광천읍 벽계리 249-11",
+      "homepage": "www.hjgim.co.kr",
+      "ir_url": null,
+      "phone": "041-642-8886",
+      "fax": "041-642-8887",
+      "industry_code": "10220",
+      "established_date": "20090602",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7014,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:33.476Z",
+      "usage_event_id": "6a60a386-d85d-47da-a93f-99d3dbfad612"
+    }
+  }
+}

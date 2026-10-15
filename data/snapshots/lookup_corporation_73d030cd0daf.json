@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00103352"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00103352",
+      "corp_name": "고합물산(주)",
+      "corp_name_en": null,
+      "stock_name": "고합물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "",
+      "corporate_registration_number": "1341110000393",
+      "business_registration_number": "1388102277",
+      "address": "경기도 의왕시 고천동 164",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0343-52-5066",
+      "fax": "0343-52-5635        ",
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7843,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:37.934Z",
+      "usage_event_id": "48b0988d-cfb3-4b13-9a38-d570c33244a8"
+    }
+  }
+}

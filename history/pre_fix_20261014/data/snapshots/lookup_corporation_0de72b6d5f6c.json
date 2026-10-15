@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01137727"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01137727",
+      "corp_name": "주식회사 무신사",
+      "corp_name_en": "MUSINSA Co., Ltd.",
+      "stock_name": "무신사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조만호, 조남성",
+      "corporate_registration_number": "1101114898916",
+      "business_registration_number": "2118879575",
+      "address": "서울특별시 성동구 아차산로13길 11 (성수동2가) 무신사캠퍼스 N1 1층",
+      "homepage": "https://newsroom.musinsa.com",
+      "ir_url": null,
+      "phone": "1544-7199",
+      "fax": null,
+      "industry_code": "4791",
+      "established_date": "20120625",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7882,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:55.125Z",
+      "usage_event_id": "b60cada6-f8e2-46a3-bd1e-73088201f09a"
+    }
+  }
+}

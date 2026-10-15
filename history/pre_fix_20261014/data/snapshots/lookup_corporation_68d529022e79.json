@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00564775"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00564775",
+      "corp_name": "세영화학(주)",
+      "corp_name_en": "SAEYOUNG CHEMICAL CO.,LTD.",
+      "stock_name": "세영화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김재환",
+      "corporate_registration_number": "1101112327264",
+      "business_registration_number": "1138171697",
+      "address": "서울특별시 동작구 신대방2동 359-68 녹십자빌딩 16층 5호",
+      "homepage": "www.sy-chem.com/",
+      "ir_url": null,
+      "phone": "02-834-2211",
+      "fax": "02-834-2525",
+      "industry_code": "46739",
+      "established_date": "20010906",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7110,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:24.298Z",
+      "usage_event_id": "0425852d-c6dd-4e26-b3b7-fd702513e004"
+    }
+  }
+}

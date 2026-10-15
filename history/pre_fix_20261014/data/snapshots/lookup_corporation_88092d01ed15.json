@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00222453"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00222453",
+      "corp_name": "두보물산(주)",
+      "corp_name_en": "Doo Bo Co., Ltd.",
+      "stock_name": "두보물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종문",
+      "corporate_registration_number": "1101110413304",
+      "business_registration_number": "1168112625",
+      "address": "서울특별시 영등포구 여의도동34",
+      "homepage": "http://www.doobo.com",
+      "ir_url": null,
+      "phone": "02-587-9322",
+      "fax": "02-587-9328",
+      "industry_code": "46209",
+      "established_date": "19860117",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7553,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:03.654Z",
+      "usage_event_id": "07f93ed9-cb33-4198-8c86-046799168369"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00380429"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00380429",
+      "corp_name": "(주)CMG제약",
+      "corp_name_en": "CMG Pharmaceutical Co., Ltd.",
+      "stock_name": "CMG제약",
+      "stock_code": "058820",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이주형",
+      "corporate_registration_number": "1350110115846",
+      "business_registration_number": "1348171976",
+      "address": "서울특별시 강남구 학동로 170 베터라이프빌딩 3층(논현동)",
+      "homepage": "www.cmgpharma.co.kr",
+      "ir_url": "cmgpharma.irpage.co.kr",
+      "phone": "031-881-7600",
+      "fax": "031-881-7670",
+      "industry_code": "212",
+      "established_date": "20010801",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7305,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:00.231Z",
+      "usage_event_id": "acda9092-ffad-4029-83f2-6423e96a4a04"
+    }
+  }
+}

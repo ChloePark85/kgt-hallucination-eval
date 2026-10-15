@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00162142"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00162142",
+      "corp_name": "동원증권(주)",
+      "corp_name_en": "Dongwon Securities",
+      "stock_name": "동원증권",
+      "stock_code": "005890",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김남구",
+      "corporate_registration_number": "1101110003816",
+      "business_registration_number": "1168111529",
+      "address": "서울특별시 영등포구 여의도동 34-7",
+      "homepage": "http://www.choiceup.com",
+      "ir_url": null,
+      "phone": "02-768-5000",
+      "fax": "768-5303",
+      "industry_code": "66121",
+      "established_date": "19681227",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7681,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:34.563Z",
+      "usage_event_id": "fa5299fb-93f0-4d5d-b8e2-9c9b0802d7ed"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00318246"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00318246",
+      "corp_name": "동현전자주식회사",
+      "corp_name_en": "DONG HYUN ELECTRONIC CO., LTD.",
+      "stock_name": "동현전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김동일",
+      "corporate_registration_number": "1201110159295",
+      "business_registration_number": "1378118965",
+      "address": "인천광역시 서구 가좌동 541-2",
+      "homepage": "www.dhpcb.com",
+      "ir_url": null,
+      "phone": "032-581-9801",
+      "fax": "032-581-9800",
+      "industry_code": "2622",
+      "established_date": "19970923",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7391,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:57.625Z",
+      "usage_event_id": "28b429ab-dc4b-4a0e-93ad-8bad000ed143"
+    }
+  }
+}

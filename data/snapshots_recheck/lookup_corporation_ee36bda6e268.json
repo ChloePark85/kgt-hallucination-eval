@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00266961"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:29:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-784-4175",
+      "phone": "1588-3830",
+      "ir_url": "https://www.navercorp.com/investment/investors",
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 성남시 분당구 정자일로 95 1784",
+      "ceo_name": "최수연",
+      "homepage": "www.navercorp.com",
+      "corp_code": "00266961",
+      "corp_name": "네이버(주)",
+      "market_raw": "Y",
+      "stock_code": "035420",
+      "stock_name": "NAVER",
+      "corp_name_en": "NAVER Corporation",
+      "industry_code": "63120",
+      "established_date": "19990602",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "2208162517",
+      "corporate_registration_number": "1101111707178"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2696,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:29:52.237Z",
+      "usage_event_id": "b4376dc8-70eb-41b9-b741-b47a746d1432"
+    }
+  }
+}

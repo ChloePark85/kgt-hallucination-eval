@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00234078"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00234078",
+      "corp_name": "길정종합건설 주식회사",
+      "corp_name_en": "KIL JUNG CONSTRUCTION CO.,LTD",
+      "stock_name": "길정종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강 신 택",
+      "corporate_registration_number": "1101110505292",
+      "business_registration_number": "6048130514",
+      "address": "부산광역시 동구 범일동 830-266 우신빌딩 13층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-647-6361",
+      "fax": "051-647-6032",
+      "industry_code": "41112",
+      "established_date": "19861110",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7521,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:26.862Z",
+      "usage_event_id": "c7663d4e-69c1-48a0-bf89-def7cc33b505"
+    }
+  }
+}

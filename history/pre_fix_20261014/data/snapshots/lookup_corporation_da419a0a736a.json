@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164779"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164779",
+      "corp_name": "에스케이하이닉스(주)",
+      "corp_name_en": "SK hynix Inc.",
+      "stock_name": "SK하이닉스",
+      "stock_code": "000660",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "곽노정",
+      "corporate_registration_number": "1344110001387",
+      "business_registration_number": "1268103725",
+      "address": "경기도 이천시  부발읍 경충대로 2091",
+      "homepage": "www.skhynix.com",
+      "ir_url": null,
+      "phone": "031-630-4114",
+      "fax": "031-645-8078",
+      "industry_code": "2612",
+      "established_date": "19491015",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7994,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:20.559Z",
+      "usage_event_id": "44e17634-add7-4182-84b0-90b87341111b"
+    }
+  }
+}

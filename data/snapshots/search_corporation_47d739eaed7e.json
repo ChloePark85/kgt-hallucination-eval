@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "셀트리온",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00413046",
+          "corp_name": "셀트리온",
+          "stock_code": "068270",
+          "modified_date": "20260325"
+        },
+        {
+          "listed": false,
+          "corp_code": "00421045",
+          "corp_name": "셀트리온",
+          "stock_code": null,
+          "modified_date": "20240628"
+        },
+        {
+          "listed": true,
+          "corp_code": "00554024",
+          "corp_name": "셀트리온헬스케어",
+          "stock_code": "091990",
+          "modified_date": "20240112"
+        },
+        {
+          "listed": true,
+          "corp_code": "00541349",
+          "corp_name": "셀트리온제약",
+          "stock_code": "068760",
+          "modified_date": "20240701"
+        },
+        {
+          "listed": false,
+          "corp_code": "00414416",
+          "corp_name": "셀트리온창업투자",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "00670182",
+          "corp_name": "셀트리온스킨큐어",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "01143773",
+          "corp_name": "셀트리온에스티",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "01159792",
+          "corp_name": "셀트리온화학연구소",
+          "stock_code": null,
+          "modified_date": "20171110"
+        },
+        {
+          "listed": false,
+          "corp_code": "01337266",
+          "corp_name": "셀트리온충북대코스메틱스",
+          "stock_code": null,
+          "modified_date": "20190227"
+        },
+        {
+          "listed": false,
+          "corp_code": "01337257",
+          "corp_name": "셀트리온충북대바이오메딕스",
+          "stock_code": null,
+          "modified_date": "20190227"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6649,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:25:13.398Z",
+      "usage_event_id": "3edab1f8-8a1c-4511-a149-50d2a92324a0"
+    }
+  }
+}

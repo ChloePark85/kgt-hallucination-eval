@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00445629"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00445629",
+      "corp_name": "(주)효헌산업",
+      "corp_name_en": "Hyo Hun Industry, Ltd.",
+      "stock_name": "효헌산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김현진",
+      "corporate_registration_number": "1101112758047",
+      "business_registration_number": "1018193679",
+      "address": "서울특별시 종로구 계동 140-48 3층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(02) 747-1192",
+      "fax": "(02) 747-4197",
+      "industry_code": "42",
+      "established_date": "20030410",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7173,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:36.767Z",
+      "usage_event_id": "b3729efc-be1f-4045-856c-3791f68000d4"
+    }
+  }
+}

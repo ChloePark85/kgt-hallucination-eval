@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00256326"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00256326",
+      "corp_name": "아성식품주식회사",
+      "corp_name_en": "A-Sung Foods Co.,ltd",
+      "stock_name": "아성식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장병수",
+      "corporate_registration_number": "1941110002876",
+      "business_registration_number": "6098119310",
+      "address": "경상남도 진해시 남문동 902번지",
+      "homepage": "www.Daesung-CLA.COM",
+      "ir_url": null,
+      "phone": "055)545-7711",
+      "fax": "055)545-8675",
+      "industry_code": "1012",
+      "established_date": "19940628",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7463,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:07.576Z",
+      "usage_event_id": "b89ce7cc-f56d-4050-8565-a88108185f17"
+    }
+  }
+}

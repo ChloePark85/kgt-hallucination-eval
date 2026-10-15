@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00200707"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00200707",
+      "corp_name": "한라해운 주식회사",
+      "corp_name_en": "HALLA MERCHANT MARINE CO.,LTD",
+      "stock_name": "한라해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정지로",
+      "corporate_registration_number": "1101110693758",
+      "business_registration_number": "2198122271",
+      "address": "서울특별시 송파구 신천동 7-19",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3434-6310",
+      "fax": "3434-6397",
+      "industry_code": "50130",
+      "established_date": "19900417",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7603,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:29.016Z",
+      "usage_event_id": "4b39c871-3e08-4565-beb3-7f42137a6411"
+    }
+  }
+}

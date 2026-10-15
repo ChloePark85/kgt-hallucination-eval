@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00371704"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00371704",
+      "corp_name": "조선해운(주)",
+      "corp_name_en": "CHOSUN SHIPPING CO,.LTD",
+      "stock_name": "조선해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김이수",
+      "corporate_registration_number": "1101110548945",
+      "business_registration_number": "2018144139",
+      "address": "서울특별시 중구 명동2가31-1",
+      "homepage": "WWW.aecx.co.kr",
+      "ir_url": null,
+      "phone": "02-723-2244",
+      "fax": "02-779-2246",
+      "industry_code": "50112",
+      "established_date": "19980425",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7313,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:54.797Z",
+      "usage_event_id": "9c04a2da-448d-4524-bfd3-18981c86d82a"
+    }
+  }
+}

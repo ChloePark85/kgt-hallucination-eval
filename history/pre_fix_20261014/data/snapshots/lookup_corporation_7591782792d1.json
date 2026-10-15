@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00305145"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00305145",
+      "corp_name": "신광화학주식회사",
+      "corp_name_en": "Shin Kwang Chemical Co. Ltd.",
+      "stock_name": "신광화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임금조",
+      "corporate_registration_number": "1201110057176",
+      "business_registration_number": "1228120187",
+      "address": "인천광역시 부평구 청천동 403-12",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "032-515-5884",
+      "fax": "032-518-2254",
+      "industry_code": "2225",
+      "established_date": "19900315",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7403,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:49.383Z",
+      "usage_event_id": "37927560-e165-4acc-84c8-0fafdd961d5f"
+    }
+  }
+}

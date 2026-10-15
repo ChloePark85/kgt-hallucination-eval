@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00907013"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00907013",
+      "corp_name": "한국투자ANKOR유전해외자원개발특별자산투자회사1호(지분증권)",
+      "corp_name_en": "KIM ANKOR Oilfield Overseas Resources Development Special Asset Fund [1](Equity)",
+      "stock_name": "한국투자ANKOR유전해외자원개발특별자산투자회사1호(지분증권)",
+      "stock_code": "152550",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한국투자리얼에셋운용",
+      "corporate_registration_number": "1101114661115",
+      "business_registration_number": "1078758070",
+      "address": "서울특별시 영등포구 국제금융로2길 28 18층(여의도동)",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2180-0466",
+      "fax": "02-2180-0908",
+      "industry_code": "642",
+      "established_date": "20110802",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7022,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:28.004Z",
+      "usage_event_id": "4ccd4ac0-991c-42b8-9095-dc4d93c11ace"
+    }
+  }
+}

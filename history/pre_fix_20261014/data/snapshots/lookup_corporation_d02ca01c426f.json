@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00365891"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00365891",
+      "corp_name": "(주)우경물산",
+      "corp_name_en": "wookyung co. ltd.",
+      "stock_name": "우경물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종인",
+      "corporate_registration_number": "1101111027899",
+      "business_registration_number": "2018127881",
+      "address": "서울특별시 중구 신당동 251-67",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2233-4047",
+      "fax": "02-2233-4048",
+      "industry_code": "68122",
+      "established_date": "19990413",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7343,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:33.730Z",
+      "usage_event_id": "4bf17994-7069-428c-8cd5-1ecf9caa1fc5"
+    }
+  }
+}

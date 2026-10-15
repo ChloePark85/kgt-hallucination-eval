@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00526784"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00526784",
+      "corp_name": "주식회사 정성식품",
+      "corp_name_en": "Jung Sung Foods Co., Ltd.",
+      "stock_name": "정성식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이승훈",
+      "corporate_registration_number": "1701110130237",
+      "business_registration_number": "5148129320",
+      "address": "대구광역시 달서구 이곡동 1000-30",
+      "homepage": "www.annecy.co.kr",
+      "ir_url": null,
+      "phone": "053-593-2260",
+      "fax": "053-593-2258",
+      "industry_code": "1012",
+      "established_date": "19980122",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7121,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:15.945Z",
+      "usage_event_id": "ab657d30-ae11-4024-8ff8-3249b33f9b2d"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00248974"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00248974",
+      "corp_name": "하나제약(주)",
+      "corp_name_en": "Hana Pharm. Co., Ltd.",
+      "stock_name": "하나제약",
+      "stock_code": "293480",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "최태홍",
+      "corporate_registration_number": "1311110002409",
+      "business_registration_number": "1248137632",
+      "address": "경기도 화성시 향남읍 제약단지로 13-39",
+      "homepage": "www.hanaph.co.kr",
+      "ir_url": "http://www.hanaph.co.kr/investment/irNotice.do",
+      "phone": "02-577-7667",
+      "fax": "02-566-6003",
+      "industry_code": "212",
+      "established_date": "19780119",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7483,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:53.293Z",
+      "usage_event_id": "f64291ef-c20e-46c1-ace1-895d86b6b45f"
+    }
+  }
+}

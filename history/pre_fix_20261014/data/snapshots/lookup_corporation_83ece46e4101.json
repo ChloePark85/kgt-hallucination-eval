@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00237491"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00237491",
+      "corp_name": "(주)서한전자",
+      "corp_name_en": null,
+      "stock_name": "서한전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이은아",
+      "corporate_registration_number": "1101111032228",
+      "business_registration_number": "1208156035",
+      "address": "서울특별시 강남구 청담동 133-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02  -545 -8531",
+      "fax": null,
+      "industry_code": "",
+      "established_date": "19940426",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7503,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:39.433Z",
+      "usage_event_id": "cc9c2c2d-b617-4cef-a86b-54dbc8500236"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00389952"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00389952",
+      "corp_name": "인제화학",
+      "corp_name_en": "INJECHEMICALCO.LTD",
+      "stock_name": "인제화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장신규",
+      "corporate_registration_number": "2062110004544",
+      "business_registration_number": "4178110438",
+      "address": "전라남도 여수시 화양면 2147번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "061-685-4300",
+      "fax": "061-685-4339",
+      "industry_code": "20202",
+      "established_date": "19950322",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7283,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:16.335Z",
+      "usage_event_id": "d97b5b91-e2ff-4879-979e-0086ef7b1079"
+    }
+  }
+}

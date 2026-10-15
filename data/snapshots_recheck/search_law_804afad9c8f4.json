@@ -1,0 +1,56 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "상가건물 임대차보호법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:12+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "상가건물 임대차보호법",
+          "law_id": "009276",
+          "law_type": "법률",
+          "ministry": "국토교통부,법무부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=279651&type=HTML&mobileYn=&efYd=20260512",
+          "is_current": true,
+          "short_name": "상가임대차법",
+          "law_serial_no": "279651",
+          "revision_type": "일부개정",
+          "promulgation_no": "21083",
+          "enforcement_date": "20260512",
+          "promulgation_date": "20251111"
+        },
+        {
+          "name": "상가건물 임대차보호법 시행령",
+          "law_id": "009361",
+          "law_type": "대통령령",
+          "ministry": "국토교통부,법무부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=287139&type=HTML&mobileYn=&efYd=20260701",
+          "is_current": true,
+          "short_name": "상가임대차법 시행령",
+          "law_serial_no": "287139",
+          "revision_type": "타법개정",
+          "promulgation_no": "36423",
+          "enforcement_date": "20260701",
+          "promulgation_date": "20260623"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2509,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:12.670Z",
+      "usage_event_id": "44380aa9-c0ee-4cae-b940-ac3f608f8df0"
+    }
+  }
+}

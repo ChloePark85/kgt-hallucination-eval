@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00362511"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00362511",
+      "corp_name": "승진건설주식회사",
+      "corp_name_en": null,
+      "stock_name": "승진건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤행옥",
+      "corporate_registration_number": "1101111705776",
+      "business_registration_number": "2148633235",
+      "address": "서울특별시 서초구 서초동 1534-1 윤재빌딩 7층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3471-4371",
+      "fax": "3471-4346",
+      "industry_code": "41112",
+      "established_date": "19990531",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7355,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:25.348Z",
+      "usage_event_id": "262ad02a-69c8-4a3b-a045-b0d7fc6032e9"
+    }
+  }
+}

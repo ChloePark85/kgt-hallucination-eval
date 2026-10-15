@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00258874"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00258874",
+      "corp_name": "영우화학(주)",
+      "corp_name_en": null,
+      "stock_name": "영우화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이영덕",
+      "corporate_registration_number": "1101110407092",
+      "business_registration_number": "",
+      "address": "서울특별시 강남구 역삼동 678-31",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-532-4555",
+      "fax": null,
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7453,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:14.493Z",
+      "usage_event_id": "9ffaa1df-70ef-4132-acd7-04be1348142f"
+    }
+  }
+}

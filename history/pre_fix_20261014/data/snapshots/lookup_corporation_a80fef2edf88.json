@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00247027"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00247027",
+      "corp_name": "주식회사 푸른건설",
+      "corp_name_en": "POOREUN CON",
+      "stock_name": "푸른건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이    정   모",
+      "corporate_registration_number": "1115110022437",
+      "business_registration_number": "1278168148",
+      "address": "경기도 의정부 의정부2 533-10",
+      "homepage": "WWW.POOREUN.COM",
+      "ir_url": null,
+      "phone": "02-2185-5100",
+      "fax": "02-2185-5106",
+      "industry_code": "41210",
+      "established_date": "19960824",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7487,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:50.593Z",
+      "usage_event_id": "bf374812-ccac-4d96-82c4-7d590c39bf65"
+    }
+  }
+}

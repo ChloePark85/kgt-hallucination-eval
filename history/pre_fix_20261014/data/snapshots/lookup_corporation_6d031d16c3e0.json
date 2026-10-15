@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00371838"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00371838",
+      "corp_name": "(주)남양주택건설",
+      "corp_name_en": "Namyang",
+      "stock_name": "남양주택건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이진수",
+      "corporate_registration_number": "2101110029655",
+      "business_registration_number": "4028115557",
+      "address": "전라북도 전주시 완산구 효자1동 281-5",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "063)221-8612",
+      "fax": "063)221-8613",
+      "industry_code": "41112",
+      "established_date": "19940407",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7311,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:56.129Z",
+      "usage_event_id": "d50553b5-fa46-4a78-a84b-e6418f90e4e5"
+    }
+  }
+}

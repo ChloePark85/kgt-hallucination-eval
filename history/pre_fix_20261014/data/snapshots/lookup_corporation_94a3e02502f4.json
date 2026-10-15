@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00694003"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00694003",
+      "corp_name": "중국식품포장유한공사",
+      "corp_name_en": "CHINA FOOD PACKAGING INC.,LTD",
+      "stock_name": "중국식품포장유한공사",
+      "stock_code": "900060",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "진민",
+      "corporate_registration_number": "",
+      "business_registration_number": "3834099500008074",
+      "address": "Flat 1407 14/F, City Landmark 1, 68 Chung On ST, Tsuen Wan, HK",
+      "homepage": "www.chinafoodpack.co.kr",
+      "ir_url": null,
+      "phone": "852-3443-5717",
+      "fax": null,
+      "industry_code": "64992",
+      "established_date": "20070830",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7078,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:47.523Z",
+      "usage_event_id": "8f917b07-34ee-466a-8cb7-598b3c728655"
+    }
+  }
+}

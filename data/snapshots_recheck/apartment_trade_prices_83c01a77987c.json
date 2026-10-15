@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "36110",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 833,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "해밀동",
+          "floor": 10,
+          "jibun": "635",
+          "canceled": false,
+          "deal_date": "2025-03-16",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2020,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "36110",
+          "canceled_date": null,
+          "apartment_name": "해밀마을2단지",
+          "deal_amount_krw": 685000000,
+          "deal_amount_raw": "68,500",
+          "exclusive_area_m2": 84.85
+        }
+      ],
+      "lawd_code": "36110",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2580,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:27.322Z",
+      "usage_event_id": "554c7581-1c32-4f98-b151-62a0b96ff24e"
+    }
+  }
+}

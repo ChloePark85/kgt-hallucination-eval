@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00252852"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00252852",
+      "corp_name": "근도물산주식회사",
+      "corp_name_en": "GUNDO TRADING CORP.",
+      "stock_name": "근도물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종완",
+      "corporate_registration_number": "1101111066780",
+      "business_registration_number": "1178111672",
+      "address": "서울특별시 양천구 신월동 976-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02) 695-7411",
+      "fax": "02) 695-4872",
+      "industry_code": "33401",
+      "established_date": "19940817",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7475,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:58.816Z",
+      "usage_event_id": "b5d1c793-1a0b-4e7a-8f92-04e8d6e684c2"
+    }
+  }
+}

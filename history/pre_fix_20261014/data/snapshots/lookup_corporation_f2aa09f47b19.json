@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00174323"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00174323",
+      "corp_name": "(주)제일이상호저축은행",
+      "corp_name_en": "JEILⅡ SAVING BANK ",
+      "stock_name": "제일이상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정구행",
+      "corporate_registration_number": "1101110120644",
+      "business_registration_number": "1208125565",
+      "address": "서울특별시 종로구 창신동 562번지",
+      "homepage": "www.jeil2bank.co.kr",
+      "ir_url": null,
+      "phone": "3670-9000",
+      "fax": "763-5129",
+      "industry_code": "64999",
+      "established_date": "19721221",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7641,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:02.499Z",
+      "usage_event_id": "24c65486-2707-45bc-9014-f1f10982bff5"
+    }
+  }
+}

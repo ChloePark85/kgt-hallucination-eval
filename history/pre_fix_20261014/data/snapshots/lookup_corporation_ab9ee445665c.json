@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00890908"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00890908",
+      "corp_name": "현대동양농식품사모투자전문회사",
+      "corp_name_en": "Hyundai-Tongyang Agrifood Private Equity Fund",
+      "stock_name": "현대동양농식품사모투자전문회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "현대증권(주), 동양인베스트먼트(주)",
+      "corporate_registration_number": "1101130015510",
+      "business_registration_number": "1078750762",
+      "address": "서울특별시 영등포구 여의나루로4길 21 (여의도동, 현대증권(주))",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-768-0114",
+      "fax": "02-761-0585",
+      "industry_code": "66199",
+      "established_date": "20110404",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7026,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:25.192Z",
+      "usage_event_id": "7fde3b1c-227a-4d78-93fc-338bbfc83a72"
+    }
+  }
+}

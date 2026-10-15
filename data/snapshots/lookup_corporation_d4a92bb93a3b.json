@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00320302"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00320302",
+      "corp_name": "동연산업 주식회사",
+      "corp_name_en": "DONGYEUN INDUSTRIAL Co., ltd",
+      "stock_name": "동연산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이차우",
+      "corporate_registration_number": "1501110027389",
+      "business_registration_number": "3018128797",
+      "address": "충청북도 청원군 강내면 태성리 117-11",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "043-231-8523",
+      "fax": "043-231-6995",
+      "industry_code": "13992",
+      "established_date": "19970101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7387,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:00.397Z",
+      "usage_event_id": "96f3bfbc-00c9-4e95-8cd8-add5ba757914"
+    }
+  }
+}

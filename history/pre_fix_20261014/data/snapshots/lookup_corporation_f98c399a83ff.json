@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00189343"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00189343",
+      "corp_name": "(주)솔로몬저축은행",
+      "corp_name_en": "SOLOMON SAVINGS BANK",
+      "stock_name": "솔로몬저축은행",
+      "stock_code": "007800",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임석, 정일대",
+      "corporate_registration_number": "1101110128341",
+      "business_registration_number": "2018145384",
+      "address": "서울특별시 강남구 대치동 889-11 대치빌딩",
+      "homepage": "www.solomonbank.com",
+      "ir_url": null,
+      "phone": "02-2022-8000",
+      "fax": "02-2022-8008",
+      "industry_code": "64131",
+      "established_date": "19720406",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7621,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:16.705Z",
+      "usage_event_id": "6c320e99-69a0-4088-b720-bc01b2460732"
+    }
+  }
+}

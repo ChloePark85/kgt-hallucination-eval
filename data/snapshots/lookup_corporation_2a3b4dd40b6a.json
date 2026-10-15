@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00664118"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00664118",
+      "corp_name": "(주)지오해양조선",
+      "corp_name_en": "GEO Marine Engineering & Shipbuilding Co.,Ltd.",
+      "stock_name": "지오해양조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이봉중",
+      "corporate_registration_number": "1801110503458",
+      "business_registration_number": "6058169517",
+      "address": "부산광역시 사상구 감전동 132-7 벽산디지털밸리 717호",
+      "homepage": "www.geoms.co.kr",
+      "ir_url": null,
+      "phone": "051-329-7794",
+      "fax": "051-329-8799",
+      "industry_code": "3111",
+      "established_date": "20041208",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7094,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:35.572Z",
+      "usage_event_id": "ce639c72-3dab-4b47-a60a-55bf035b3a2d"
+    }
+  }
+}

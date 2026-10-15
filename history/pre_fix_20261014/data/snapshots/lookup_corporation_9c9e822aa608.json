@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00118804"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00118804",
+      "corp_name": "(주)동진쎄미켐",
+      "corp_name_en": "DONGJIN SEMICHEM CO., LTD.",
+      "stock_name": "동진쎄미켐",
+      "stock_code": "005290",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이준혁",
+      "corporate_registration_number": "1201110003848",
+      "business_registration_number": "1378107814",
+      "address": "인천광역시 서구  백범로 644",
+      "homepage": "www.dongjin.com",
+      "ir_url": null,
+      "phone": "02-325-9451",
+      "fax": "02-325-0655",
+      "industry_code": "20129",
+      "established_date": "19730710",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7909,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:24.816Z",
+      "usage_event_id": "beb09d6f-ea30-425c-9e21-a689b1015646"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00312792"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00312792",
+      "corp_name": "우일전자 주식회사",
+      "corp_name_en": "WILL ELECTRONICS CO.,  LTD.",
+      "stock_name": "우일전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신 진 환",
+      "corporate_registration_number": "1346110000244",
+      "business_registration_number": "1258100730",
+      "address": "경기도 안성시 공도면 승두리 253",
+      "homepage": "http://www.Willcoltd.com",
+      "ir_url": null,
+      "phone": "02)832-7033",
+      "fax": "02)844-4468",
+      "industry_code": "2629",
+      "established_date": "19740416",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7393,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:56.246Z",
+      "usage_event_id": "47b41d1c-013d-49bc-9fe6-b65876c04da7"
+    }
+  }
+}

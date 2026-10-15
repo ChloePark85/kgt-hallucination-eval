@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00109073"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00109073",
+      "corp_name": "(주)미래저축은행",
+      "corp_name_en": "Mirae Mutual Savings Bank",
+      "stock_name": "미래저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김찬경",
+      "corporate_registration_number": "2201110000215",
+      "business_registration_number": "6168100842",
+      "address": "제주특별자치도 제주시 이도2동 315",
+      "homepage": "www.mrb.co.kr",
+      "ir_url": null,
+      "phone": "064-756-3111",
+      "fax": "064-756-3120",
+      "industry_code": "64131",
+      "established_date": "19700510",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7827,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:49.585Z",
+      "usage_event_id": "2b736388-f011-41b2-8db2-b95fa4b1f2c6"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00427483"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00427483",
+      "corp_name": "(주)대웅제약",
+      "corp_name_en": "DAEWOONG PHARMA",
+      "stock_name": "대웅제약",
+      "stock_code": "069620",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "이창재, 박성수",
+      "corporate_registration_number": "1348110075342",
+      "business_registration_number": "1248601143",
+      "address": "경기도 화성시 향남읍 제약공단4길 35-14 -",
+      "homepage": "www.daewoong.co.kr",
+      "ir_url": null,
+      "phone": "02-550-8800",
+      "fax": "02-2059-1690",
+      "industry_code": "212",
+      "established_date": "20021001",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7217,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:01.884Z",
+      "usage_event_id": "8dced025-1aa7-48c4-994b-4817f9c79d03"
+    }
+  }
+}

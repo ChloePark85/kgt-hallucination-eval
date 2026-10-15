@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01063273"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01063273",
+      "corp_name": "주식회사 우아한형제들",
+      "corp_name_en": "Woowa Brothers Corp.",
+      "stock_name": "우아한형제들",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이국환",
+      "corporate_registration_number": "1101114554063",
+      "business_registration_number": "1208765763",
+      "address": "서울특별시 송파구 위례성대로 2 (방이동) 장은빌딩",
+      "homepage": "www.woowahan.com/",
+      "ir_url": null,
+      "phone": "1600-7001",
+      "fax": "050-6050-0402",
+      "industry_code": "58222",
+      "established_date": "20110310",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7888,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:48.726Z",
+      "usage_event_id": "7bb0329a-9173-4885-8b76-818ec6763b2c"
+    }
+  }
+}

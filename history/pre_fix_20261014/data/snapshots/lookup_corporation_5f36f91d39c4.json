@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00257705"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00257705",
+      "corp_name": "주식회사진웅화학",
+      "corp_name_en": "JIN WOONG CHEMICAL CO.,LTD",
+      "stock_name": "진웅화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김정칠",
+      "corporate_registration_number": "1544110002935",
+      "business_registration_number": "3158122318",
+      "address": "충청북도 괴산ㄴ군 사리면 방축리 101-3",
+      "homepage": "WWW.JWCHEM.COM",
+      "ir_url": null,
+      "phone": "043-836-7016",
+      "fax": "043-836-8784",
+      "industry_code": "20119",
+      "established_date": "19970101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7457,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:11.709Z",
+      "usage_event_id": "86085029-46d4-4e83-98c0-74574bb85da6"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "공직선거법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:33+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 1,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "공직선거법",
+          "law_id": "001725",
+          "law_type": "법률",
+          "ministry": "중앙선거관리위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290229&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290229",
+          "revision_type": "일부개정",
+          "promulgation_no": "22052",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2495,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:33.234Z",
+      "usage_event_id": "4e1c9261-fd95-454e-bd05-34e9837c0e1c"
+    }
+  }
+}

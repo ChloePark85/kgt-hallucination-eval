@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "노원구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:20:22+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 2,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "서울특별시 노원구 노해로 437 (상계동)",
+          "road_address_main": "서울특별시 노원구 노해로 437",
+          "road_address_detail": " (상계동)",
+          "jibun_address": "서울특별시 노원구 상계동 701-1 노원구청",
+          "english_address": "437 Nohae-ro, Nowon-gu, Seoul",
+          "postal_code": "01689",
+          "adm_code": "1135010500",
+          "lawd_code": "11350",
+          "building_name": "노원구청",
+          "sido": "서울특별시",
+          "sigungu": "노원구",
+          "eupmyeondong": "상계동",
+          "ri": null,
+          "road_name": "노해로",
+          "building_main_no": "437",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "701",
+          "lot_sub_no": "1",
+          "road_mgmt_no": "113503005047",
+          "building_mgmt_no": "1135010500107010001001043"
+        },
+        {
+          "road_address": "서울특별시 노원구 수락산로 212-19 (상계동)",
+          "road_address_main": "서울특별시 노원구 수락산로 212-19",
+          "road_address_detail": " (상계동)",
+          "jibun_address": "서울특별시 노원구 상계동 1035-9 노원구청소년상담복지센터",
+          "english_address": "212-19 Suraksan-ro, Nowon-gu, Seoul",
+          "postal_code": "01616",
+          "adm_code": "1135010500",
+          "lawd_code": "11350",
+          "building_name": "노원구청소년상담복지센터",
+          "sido": "서울특별시",
+          "sigungu": "노원구",
+          "eupmyeondong": "상계동",
+          "ri": null,
+          "road_name": "수락산로",
+          "building_main_no": "212",
+          "building_sub_no": "19",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "1035",
+          "lot_sub_no": "9",
+          "road_mgmt_no": "113503110006",
+          "building_mgmt_no": "1135010500110350009000001"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6949,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:20:22.785Z",
+      "usage_event_id": "42fb47fb-2983-4771-8144-e96e36bd7e7b"
+    }
+  }
+}

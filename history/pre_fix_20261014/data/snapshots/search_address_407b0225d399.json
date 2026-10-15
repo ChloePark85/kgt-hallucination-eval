@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "부산광역시청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 1,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "부산광역시 연제구 중앙대로 1001 (연산동)",
+          "road_address_main": "부산광역시 연제구 중앙대로 1001",
+          "road_address_detail": " (연산동)",
+          "jibun_address": "부산광역시 연제구 연산동 1000 부산광역시청, 부산광역시의회",
+          "english_address": "1001 Jungang-daero, Yeonje-gu, Busan",
+          "postal_code": "47545",
+          "adm_code": "2647010200",
+          "lawd_code": "26470",
+          "building_name": "부산광역시청, 부산광역시의회",
+          "sido": "부산광역시",
+          "sigungu": "연제구",
+          "eupmyeondong": "연산동",
+          "ri": null,
+          "road_name": "중앙대로",
+          "building_main_no": "1001",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "1000",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "264702000010",
+          "building_mgmt_no": "2647010200110000000022055"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6836,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:35.021Z",
+      "usage_event_id": "2953156e-3c0a-40a4-a65f-14c60ee1cc5c"
+    }
+  }
+}

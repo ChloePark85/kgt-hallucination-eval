@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "케이티",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00186461",
+          "corp_name": "케이티",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00244871",
+          "corp_name": "케이티프리텔",
+          "stock_code": "032390",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00218928",
+          "corp_name": "케이티인더스트리",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00425120",
+          "corp_name": "케이티엠",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00275118",
+          "corp_name": "케이티비벤처벌처일호펀드",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00467889",
+          "corp_name": "케이티에프제삼차유동화전문유한회사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00323798",
+          "corp_name": "케이티비더블찬스채권혼합일호펀드",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00474922",
+          "corp_name": "케이티비그랑프리혼합형사모펀드",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00464767",
+          "corp_name": "케이티에프제이차유동화전문유한회사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00218742",
+          "corp_name": "케이티아이",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7954,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:07:26.720Z",
+      "usage_event_id": "225f2922-a9a7-44df-ba6c-69e9554d072a"
+    }
+  }
+}

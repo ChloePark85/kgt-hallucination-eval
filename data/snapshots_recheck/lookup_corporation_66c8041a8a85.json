@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00888347"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-6966-1691",
+      "phone": "02-6966-1600",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "강원특별자치도 춘천시 동내면 거두단지1길 23 -",
+      "ceo_name": "Doohyun Chang",
+      "homepage": "www.hugel.co.kr",
+      "corp_code": "00888347",
+      "corp_name": "휴젤(주)",
+      "market_raw": "K",
+      "stock_code": "145020",
+      "stock_name": "휴젤",
+      "corp_name_en": "Hugel, Inc.",
+      "industry_code": "211",
+      "established_date": "20011122",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "2118704515",
+      "corporate_registration_number": "1101112380890"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2648,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:31:04.144Z",
+      "usage_event_id": "3bc52b40-45af-4898-affb-759d95af6fd0"
+    }
+  }
+}

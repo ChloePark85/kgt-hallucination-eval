@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00111014"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00111014",
+      "corp_name": "(주)애큐온저축은행",
+      "corp_name_en": "ACUON SAVINGS BANK",
+      "stock_name": "애큐온저축은행",
+      "stock_code": "007640",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김정수 ",
+      "corporate_registration_number": "1101110126014",
+      "business_registration_number": "2118138105",
+      "address": "서울특별시 강남구 선릉로 514 (삼성동, 성원빌딩) 3층, 6층, 7층, 8층",
+      "homepage": "www.acuonsb.co.kr",
+      "ir_url": null,
+      "phone": "1588-6161",
+      "fax": "02-3478-3501",
+      "industry_code": "64132",
+      "established_date": "19720203",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7817,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:56.372Z",
+      "usage_event_id": "c59c01bf-9967-4d89-ad0c-dcfe061e9fa5"
+    }
+  }
+}

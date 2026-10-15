@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
+          "law_id": "000030",
+          "law_type": "법률",
+          "ministry": "과학기술정보통신부,방송미디어통신위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290001&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": "정보통신망법",
+          "law_serial_no": "290001",
+          "revision_type": "일부개정",
+          "promulgation_no": "21988",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령",
+          "law_id": "004797",
+          "law_type": "대통령령",
+          "ministry": "과학기술정보통신부,방송미디어통신위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290483&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": "정보통신망법 시행령",
+          "law_serial_no": "290483",
+          "revision_type": "타법개정",
+          "promulgation_no": "36728",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행규칙",
+          "law_id": "008108",
+          "law_type": "과학기술정보통신부령",
+          "ministry": "과학기술정보통신부,방송미디어통신위원회",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=230723&type=HTML&mobileYn=&efYd=20210331",
+          "is_current": true,
+          "short_name": "정보통신망법 시행규칙",
+          "law_serial_no": "230723",
+          "revision_type": "일부개정",
+          "promulgation_no": "00071",
+          "enforcement_date": "20210331",
+          "promulgation_date": "20210331"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2497,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:30.841Z",
+      "usage_event_id": "70a06135-913f-481d-bfad-78f95c603651"
+    }
+  }
+}

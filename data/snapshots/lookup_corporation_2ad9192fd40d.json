@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00452726"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00452726",
+      "corp_name": "주식회사 경주조선호텔",
+      "corp_name_en": "gyeongju chosun hotel",
+      "stock_name": "경주조선호텔",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권혁진",
+      "corporate_registration_number": "1712110027225",
+      "business_registration_number": "5058130541",
+      "address": "경상북도 경주시 신평동452-1번지",
+      "homepage": "www.chosunspahotel.com",
+      "ir_url": null,
+      "phone": "054-740-9600",
+      "fax": "054-740-9601",
+      "industry_code": "55101",
+      "established_date": "20010904",
+      "fiscal_year_end_month": "01"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7143,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:59.777Z",
+      "usage_event_id": "cd8c19eb-acec-4561-a2b6-0099557ddb87"
+    }
+  }
+}

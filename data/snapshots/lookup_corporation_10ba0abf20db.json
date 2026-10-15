@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00129183"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00129183",
+      "corp_name": "주식회사 삼화상호저축은행",
+      "corp_name_en": "SAMHWA MUTUAL SAVINGS BANK",
+      "stock_name": "삼화상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이광원",
+      "corporate_registration_number": "1101110119605",
+      "business_registration_number": "2038152106",
+      "address": "서울특별시 강남구 삼성동 157-36 ",
+      "homepage": "www.samhwabank.co.kr",
+      "ir_url": null,
+      "phone": "1588-5191",
+      "fax": "02-3016-2391",
+      "industry_code": "64131",
+      "established_date": "19710821",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7749,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:46.266Z",
+      "usage_event_id": "9466d452-89cb-41a0-aa9d-e157c0a1a155"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "수원화성박물관",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 1,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "경기도",
+          "sigungu": "수원시 팔달구",
+          "adm_code": "4111512800",
+          "lawd_code": "41115",
+          "road_name": "창룡대로",
+          "lot_sub_no": "0",
+          "lot_main_no": "49",
+          "postal_code": "16255",
+          "eupmyeondong": "매향동",
+          "road_address": "경기도 수원시 팔달구 창룡대로 21 (매향동)",
+          "road_mgmt_no": "411152012001",
+          "building_name": "수원화성박물관",
+          "jibun_address": "경기도 수원시 팔달구 매향동 49 수원화성박물관",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "21 Changnyong-daero, Paldal-gu, Suwon-si, Gyeonggi-do",
+          "is_mountain_lot": false,
+          "building_main_no": "21",
+          "building_mgmt_no": "4111512800100490000050306",
+          "road_address_main": "경기도 수원시 팔달구 창룡대로 21",
+          "road_address_detail": " (매향동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2559,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:32:52.330Z",
+      "usage_event_id": "603f64d2-5423-450f-894e-a04d941132af"
+    }
+  }
+}

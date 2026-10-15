@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00448291"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00448291",
+      "corp_name": "한림종합개발 주식회사",
+      "corp_name_en": "HANLIM DEVELOPMENT CO.,LTD",
+      "stock_name": "한림종합개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "홍형선",
+      "corporate_registration_number": "1341110048640",
+      "business_registration_number": "1238139786",
+      "address": "경기도 안양시 동안구 호계동 1104-3",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "031-457-8300",
+      "fax": "031-455-1346",
+      "industry_code": "4112",
+      "established_date": "19960109",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7163,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:44.018Z",
+      "usage_event_id": "e833b4c1-8e8d-4cf6-968f-e93273ba334b"
+    }
+  }
+}

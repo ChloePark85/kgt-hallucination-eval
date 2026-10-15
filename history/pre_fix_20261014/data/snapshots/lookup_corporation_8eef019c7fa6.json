@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00138321"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00138321",
+      "corp_name": "신한투자증권 (주)",
+      "corp_name_en": "Shinhan Securities Co., Ltd.",
+      "stock_name": "신한투자증권",
+      "stock_code": "008670",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이선훈",
+      "corporate_registration_number": "1101110143448",
+      "business_registration_number": "1168136684",
+      "address": "서울특별시 영등포구 의사당대로 96 (여의도동, TPTower)",
+      "homepage": "www.shinhansec.com",
+      "ir_url": "https://open.shinhansec.com/new_ir/main.jsp",
+      "phone": "02-3772-1000",
+      "fax": "02-761-2802",
+      "industry_code": "66121",
+      "established_date": "19730402",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7723,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:05.079Z",
+      "usage_event_id": "79adc181-f5ab-49d1-afc5-148fb8d2f6ca"
+    }
+  }
+}

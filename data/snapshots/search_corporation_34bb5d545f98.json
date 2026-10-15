@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "화학",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:15+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00120100",
+          "corp_name": "LG석유화학",
+          "stock_code": "012990",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00116356",
+          "corp_name": "동성화학",
+          "stock_code": "005190",
+          "listed": true,
+          "modified_date": "20210416"
+        },
+        {
+          "corp_code": "00267979",
+          "corp_name": "한일화학",
+          "stock_code": "007770",
+          "listed": true,
+          "modified_date": "20220224"
+        },
+        {
+          "corp_code": "00426208",
+          "corp_name": "한국전자화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00185851",
+          "corp_name": "중원화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00387264",
+          "corp_name": "엘지화학제일차유동화전문유한회사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00359304",
+          "corp_name": "한서화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00226574",
+          "corp_name": "세모화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00305145",
+          "corp_name": "신광화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00234935",
+          "corp_name": "금강화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00257705",
+          "corp_name": "진웅화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00144368",
+          "corp_name": "후성정밀화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00102803",
+          "corp_name": "고려석유화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00389952",
+          "corp_name": "인제화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00117753",
+          "corp_name": "동양화학공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00110671",
+          "corp_name": "대성합성화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00180582",
+          "corp_name": "삼성특수화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00103185",
+          "corp_name": "고려화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00387273",
+          "corp_name": "엘지화학제이차유동화전문유한회사",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00322522",
+          "corp_name": "이래화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00125178",
+          "corp_name": "삼광화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00208523",
+          "corp_name": "한국종합화학공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00258874",
+          "corp_name": "영우화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00160223",
+          "corp_name": "달재화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00683043",
+          "corp_name": "메탈화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00454982",
+          "corp_name": "한국마이콤화학플랜트",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00564775",
+          "corp_name": "세영화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00988577",
+          "corp_name": "동광화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00126265",
+          "corp_name": "삼성석유화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00119016",
+          "corp_name": "동해화학",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7870,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:15.359Z",
+      "usage_event_id": "d2d5f5af-f03f-4389-8141-ca100d535b23"
+    }
+  }
+}

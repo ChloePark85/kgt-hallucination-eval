@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01515323"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01515323",
+      "corp_name": "(주)엘지에너지솔루션",
+      "corp_name_en": "LG ENERGY SOLUTION, LTD.",
+      "stock_name": "LG에너지솔루션",
+      "stock_code": "373220",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "김동명",
+      "corporate_registration_number": "1101117701356",
+      "business_registration_number": "8518102050",
+      "address": "서울특별시 영등포구 여의대로 108, 타워 1",
+      "homepage": "www.lgensol.com",
+      "ir_url": "https://www.lgensol.com/kr/earnings-announcement",
+      "phone": "02-3777-1114",
+      "fax": null,
+      "industry_code": "28202",
+      "established_date": "20201201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7988,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:34.144Z",
+      "usage_event_id": "f846074a-072d-4062-b161-5a1a56f13941"
+    }
+  }
+}

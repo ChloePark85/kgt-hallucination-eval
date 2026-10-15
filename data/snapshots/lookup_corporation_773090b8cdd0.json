@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00434067"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00434067",
+      "corp_name": "주식회사 렉스상사",
+      "corp_name_en": "LEX Corporation",
+      "stock_name": "렉스상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이인성",
+      "corporate_registration_number": "1101110425565",
+      "business_registration_number": "1148164087",
+      "address": "서울특별시 서초구 반포동 49-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-591-7111",
+      "fax": "02-535-1118",
+      "industry_code": "14411",
+      "established_date": "19860426",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7203,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:11.551Z",
+      "usage_event_id": "6bc6fca3-3021-448c-a446-049a80ce1c10"
+    }
+  }
+}

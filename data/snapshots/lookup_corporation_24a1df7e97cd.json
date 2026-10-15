@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00124054"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00124054",
+      "corp_name": "(주)부산저축은행",
+      "corp_name_en": "BUSAN SAVINGS BANK",
+      "stock_name": "부산저축은행",
+      "stock_code": "007830",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박대일, 김봉환",
+      "corporate_registration_number": "1801110005701",
+      "business_registration_number": "6048104675",
+      "address": "부산광역시 동구 초량3동 1146-6",
+      "homepage": "www.bsbank.co.kr",
+      "ir_url": null,
+      "phone": "051-290-7000",
+      "fax": "051-465-5511",
+      "industry_code": "64132",
+      "established_date": "19700610",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7773,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:28.193Z",
+      "usage_event_id": "708a383f-26fe-4e52-9a42-b84750381ad2"
+    }
+  }
+}

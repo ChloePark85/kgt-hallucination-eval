@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00353753"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00353753",
+      "corp_name": "(주)에이스월드벤쳐캐피탈",
+      "corp_name_en": "ACE world Venture Capital",
+      "stock_name": "에이스월드벤쳐캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김태석",
+      "corporate_registration_number": "1601110092835",
+      "business_registration_number": "3058135776",
+      "address": "서울특별시 강남구 대치동 889-11 대치빌딩10층",
+      "homepage": "www.aceworld.co.kr",
+      "ir_url": null,
+      "phone": "02-556-1190",
+      "fax": "3453-1891",
+      "industry_code": "64209",
+      "established_date": "20000131",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7363,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:19.166Z",
+      "usage_event_id": "a5027c30-a373-4a80-aa31-b4c26bc4682e"
+    }
+  }
+}

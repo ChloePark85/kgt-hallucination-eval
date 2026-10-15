@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00145598"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00145598",
+      "corp_name": "이연제약(주)",
+      "corp_name_en": "REYON PHARMACEUTICAL CO., LTD",
+      "stock_name": "이연제약",
+      "stock_code": "102460",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정순옥, 유용환 (각자 대표이사)",
+      "corporate_registration_number": "1101110048143",
+      "business_registration_number": "1068100516",
+      "address": "서울특별시 강남구 테헤란로 620 에이동 12층 (대치동, 미래에셋타워)",
+      "homepage": "reyonpharm.co.kr",
+      "ir_url": null,
+      "phone": "02-793-5557",
+      "fax": "02-2233-1347",
+      "industry_code": "212",
+      "established_date": "19641125",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7713,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:11.919Z",
+      "usage_event_id": "f9d01448-56a8-4833-8f1c-8305f48f9b0e"
+    }
+  }
+}

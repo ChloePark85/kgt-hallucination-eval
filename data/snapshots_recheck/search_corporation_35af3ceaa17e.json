@@ -1,0 +1,68 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "무신사",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01137727",
+          "corp_name": "무신사",
+          "stock_code": null,
+          "modified_date": "20260401"
+        },
+        {
+          "listed": false,
+          "corp_code": "01933228",
+          "corp_name": "무신사리테일서비스",
+          "stock_code": null,
+          "modified_date": "20260304"
+        },
+        {
+          "listed": false,
+          "corp_code": "01544149",
+          "corp_name": "무신사로지스틱스",
+          "stock_code": null,
+          "modified_date": "20260227"
+        },
+        {
+          "listed": false,
+          "corp_code": "01758247",
+          "corp_name": "무신사페이먼츠",
+          "stock_code": null,
+          "modified_date": "20260302"
+        },
+        {
+          "listed": false,
+          "corp_code": "01545175",
+          "corp_name": "무신사트레이딩",
+          "stock_code": null,
+          "modified_date": "20260202"
+        },
+        {
+          "listed": false,
+          "corp_code": "01906206",
+          "corp_name": "무신사파트너스",
+          "stock_code": null,
+          "modified_date": "20260303"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2627,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:31:30.080Z",
+      "usage_event_id": "d24b1a55-b284-486a-b7f4-3aa0027521c1"
+    }
+  }
+}

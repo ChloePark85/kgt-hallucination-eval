@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00430441"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00430441",
+      "corp_name": "대명전자(주)",
+      "corp_name_en": "DAYMYUNG ELECTRINIC.LTD",
+      "stock_name": "대명전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 동 춘",
+      "corporate_registration_number": "1700000002345",
+      "business_registration_number": "5138119421",
+      "address": "경상북도 구미시 고아읍 오로리 60-27",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "461-5001",
+      "fax": "461-7080",
+      "industry_code": "26211",
+      "established_date": "20000901",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7211,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:06.076Z",
+      "usage_event_id": "8a6df328-753a-45de-a65d-ac848b0edf97"
+    }
+  }
+}

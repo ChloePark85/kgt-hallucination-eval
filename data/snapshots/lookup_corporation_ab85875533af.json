@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00263821"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00263821",
+      "corp_name": "주식회사 부산2저축은행",
+      "corp_name_en": "PUSAN 2 SAVINGS BANK",
+      "stock_name": "부산2저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김 민 영",
+      "corporate_registration_number": "1801110278093",
+      "business_registration_number": "6068120934",
+      "address": "부산광역시 북구 덕천2동 383-1",
+      "homepage": "bsbank.co.kr",
+      "ir_url": null,
+      "phone": "051-290-7500",
+      "fax": "051-334-9800",
+      "industry_code": "64132",
+      "established_date": "19990204",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7439,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:24.365Z",
+      "usage_event_id": "87aa23c9-b64c-44fd-a21b-eb2db7175ea9"
+    }
+  }
+}

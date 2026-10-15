@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00355496"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00355496",
+      "corp_name": "범해물산주식회사",
+      "corp_name_en": "Bumhae Moolsan CO., Ltd",
+      "stock_name": "범해물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 상권",
+      "corporate_registration_number": "1801110263432",
+      "business_registration_number": "6138116476",
+      "address": "경상남도 고성군 고성읍 율대리 183-3",
+      "homepage": "www.bumhae.co.kr",
+      "ir_url": null,
+      "phone": "055-673-8663",
+      "fax": "055-673-8663",
+      "industry_code": "10219",
+      "established_date": "19980806",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7361,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:20.931Z",
+      "usage_event_id": "4806c54d-ba80-4430-8b80-3f4303a18f35"
+    }
+  }
+}

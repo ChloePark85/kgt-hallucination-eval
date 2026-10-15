@@ -1,0 +1,100 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "충청북도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "충청북도",
+          "sigungu": "청주시 상당구",
+          "adm_code": "4311110700",
+          "lawd_code": "43111",
+          "road_name": "상당로",
+          "lot_sub_no": "0",
+          "lot_main_no": "89",
+          "postal_code": "28515",
+          "eupmyeondong": "문화동",
+          "road_address": "충청북도 청주시 상당구 상당로 82 (문화동)",
+          "road_mgmt_no": "431113236027",
+          "building_name": "충청북도청",
+          "jibun_address": "충청북도 청주시 상당구 문화동 89 충청북도청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "82 Sangdang-ro, Sangdang-gu, Cheongju-si, Chungcheongbuk-do",
+          "is_mountain_lot": false,
+          "building_main_no": "82",
+          "building_mgmt_no": "4311110700100890000050344",
+          "road_address_main": "충청북도 청주시 상당구 상당로 82",
+          "road_address_detail": " (문화동)"
+        },
+        {
+          "ri": null,
+          "sido": "충청북도",
+          "sigungu": "청주시 서원구",
+          "adm_code": "4311210100",
+          "lawd_code": "43112",
+          "road_name": "무심서로",
+          "lot_sub_no": "13",
+          "lot_main_no": "5",
+          "postal_code": "28655",
+          "eupmyeondong": "사직동",
+          "road_address": "충청북도 청주시 서원구 무심서로 485 (사직동)",
+          "road_mgmt_no": "431123236020",
+          "building_name": "충청북도청주교육지원청 별관",
+          "jibun_address": "충청북도 청주시 서원구 사직동 5-13 충청북도청주교육지원청 별관",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "485 Musimseo-ro, Seowon-gu, Cheongju-si, Chungcheongbuk-do",
+          "is_mountain_lot": false,
+          "building_main_no": "485",
+          "building_mgmt_no": "4311310100100050013024915",
+          "road_address_main": "충청북도 청주시 서원구 무심서로 485",
+          "road_address_detail": " (사직동)"
+        },
+        {
+          "ri": null,
+          "sido": "충청북도",
+          "sigungu": "청주시 서원구",
+          "adm_code": "4311210400",
+          "lawd_code": "43112",
+          "road_name": "산남로24번길",
+          "lot_sub_no": "0",
+          "lot_main_no": "370",
+          "postal_code": "28626",
+          "eupmyeondong": "산남동",
+          "road_address": "충청북도 청주시 서원구 산남로24번길 25 (산남동)",
+          "road_mgmt_no": "431124511539",
+          "building_name": "충청북도청주교육지원청",
+          "jibun_address": "충청북도 청주시 서원구 산남동 370 충청북도청주교육지원청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "25 Sannam-ro 24beon-gil, Seowon-gu, Cheongju-si, Chungcheongbuk-do",
+          "is_mountain_lot": false,
+          "building_main_no": "25",
+          "building_mgmt_no": "4311310600103700000023866",
+          "road_address_main": "충청북도 청주시 서원구 산남로24번길 25",
+          "road_address_detail": " (산남동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2553,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:32:59.440Z",
+      "usage_event_id": "3e91be1b-2481-4d5b-b26d-8c8133184dd8"
+    }
+  }
+}

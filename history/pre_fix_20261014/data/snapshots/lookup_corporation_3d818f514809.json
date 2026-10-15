@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00299871"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00299871",
+      "corp_name": "주식회사연화상사",
+      "corp_name_en": "YOUN HWA CO.,LTD.",
+      "stock_name": "연화상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이선호",
+      "corporate_registration_number": "1101110505755",
+      "business_registration_number": "2148189296",
+      "address": "서울특별시 서초구 서초동 1638-3 자동차회관501호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(02)582-5505",
+      "fax": "(02)582-4839",
+      "industry_code": "13213",
+      "established_date": "19870107",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7417,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:39.590Z",
+      "usage_event_id": "30bf98f1-e612-4e06-a526-a49c62a1517b"
+    }
+  }
+}

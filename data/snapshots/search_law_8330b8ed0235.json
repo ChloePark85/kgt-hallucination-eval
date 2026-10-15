@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "초·중등교육법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "000900",
+          "law_serial_no": "283903",
+          "name": "초ㆍ중등교육법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "교육부",
+          "promulgation_date": "20260310",
+          "promulgation_no": "21424",
+          "enforcement_date": "20260911",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283903&type=HTML&mobileYn=&efYd=20260911"
+        },
+        {
+          "law_id": "005238",
+          "law_serial_no": "289439",
+          "name": "초ㆍ중등교육법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "교육부",
+          "promulgation_date": "20260908",
+          "promulgation_no": "36645",
+          "enforcement_date": "20260911",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289439&type=HTML&mobileYn=&efYd=20260911"
+        },
+        {
+          "law_id": "012258",
+          "law_serial_no": "284493",
+          "name": "초ㆍ중등교육법 시행규칙",
+          "short_name": null,
+          "law_type": "교육부령",
+          "ministry": "교육부",
+          "promulgation_date": "20260311",
+          "promulgation_no": "00378",
+          "enforcement_date": "20260311",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284493&type=HTML&mobileYn=&efYd=20260311"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6728,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:24.311Z",
+      "usage_event_id": "9ccb9656-ae05-416c-b783-8324453df88c"
+    }
+  }
+}

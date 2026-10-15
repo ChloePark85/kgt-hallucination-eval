@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00469337"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00469337",
+      "corp_name": "상지상사주식회사",
+      "corp_name_en": "Sangjie Commercial Co., Ltd.",
+      "stock_name": "상지상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "표상기",
+      "corporate_registration_number": "1101110239924",
+      "business_registration_number": "2148106451",
+      "address": "서울특별시 서초구 서초1동 1629-3",
+      "homepage": "sangjie.co.kr",
+      "ir_url": null,
+      "phone": "02-588-3561",
+      "fax": "02-588-8772",
+      "industry_code": "4610",
+      "established_date": "19781007",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7135,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:05.610Z",
+      "usage_event_id": "967a81bf-f5df-4bd1-8a13-85ee8682a66d"
+    }
+  }
+}

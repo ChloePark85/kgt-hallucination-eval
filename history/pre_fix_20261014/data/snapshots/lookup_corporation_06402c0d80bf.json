@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01798722"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01798722",
+      "corp_name": "에스케이증권제12호기업인수목적 주식회사",
+      "corp_name_en": "SK Securities No.12 Special Purpose Acquisition Company",
+      "stock_name": "SK증권제12호스팩",
+      "stock_code": "473000",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이재혁",
+      "corporate_registration_number": "1101118794475",
+      "business_registration_number": "7448802770",
+      "address": "서울특별시 영등포구 국제금융로8길 31",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3773-8591",
+      "fax": null,
+      "industry_code": "66199",
+      "established_date": "20231116",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6990,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:50.221Z",
+      "usage_event_id": "aac5225e-9498-45bf-a233-3813ac97bc91"
+    }
+  }
+}

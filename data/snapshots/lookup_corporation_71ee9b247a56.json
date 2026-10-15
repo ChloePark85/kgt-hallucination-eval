@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00103185"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00103185",
+      "corp_name": "고려화학(주)",
+      "corp_name_en": "KOREA CHEMICAL CO.,LTD",
+      "stock_name": "고려화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김충세",
+      "corporate_registration_number": "1812110000451",
+      "business_registration_number": "2148604730",
+      "address": "서울특별시 서초구 서초동 1301-4",
+      "homepage": "www.kccworld.co.kr",
+      "ir_url": null,
+      "phone": "02-3480-5000",
+      "fax": "02-3480-5437",
+      "industry_code": "20411",
+      "established_date": "19740718",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7845,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:36.600Z",
+      "usage_event_id": "41aec929-4e3e-4c3d-97bf-2e517c7d0b48"
+    }
+  }
+}

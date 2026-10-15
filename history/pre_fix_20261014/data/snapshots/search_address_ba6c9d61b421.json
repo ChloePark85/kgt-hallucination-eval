@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "울산광역시청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 1,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "울산광역시 남구 중앙로 201 (신정동)",
+          "road_address_main": "울산광역시 남구 중앙로 201",
+          "road_address_detail": " (신정동)",
+          "jibun_address": "울산광역시 남구 신정동 646-4 울산광역시청",
+          "english_address": "201 Jungang-ro, Nam-gu, Ulsan",
+          "postal_code": "44675",
+          "adm_code": "3114010400",
+          "lawd_code": "31140",
+          "building_name": "울산광역시청",
+          "sido": "울산광역시",
+          "sigungu": "남구",
+          "eupmyeondong": "신정동",
+          "ri": null,
+          "road_name": "중앙로",
+          "building_main_no": "201",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "646",
+          "lot_sub_no": "4",
+          "road_mgmt_no": "311403170051",
+          "building_mgmt_no": "3114010400106460004011273"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6831,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:41.826Z",
+      "usage_event_id": "1e2e357c-7de1-4416-ae50-25c17c496e80"
+    }
+  }
+}

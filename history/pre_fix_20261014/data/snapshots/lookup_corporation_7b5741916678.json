@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00367987"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00367987",
+      "corp_name": "(주)시봉전자",
+      "corp_name_en": "Sivong Electronics",
+      "stock_name": "시봉전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양남길",
+      "corporate_registration_number": "1901110011433",
+      "business_registration_number": "6088107903",
+      "address": "경상남도 마산시 봉암동 470-22",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "055-295-1515",
+      "fax": "055-293-0062",
+      "industry_code": "27212",
+      "established_date": "19870701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7339,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:36.656Z",
+      "usage_event_id": "89910d45-0842-4de2-b00a-3ade44e7f5a3"
+    }
+  }
+}

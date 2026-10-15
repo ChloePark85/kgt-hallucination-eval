@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00104704"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00104704",
+      "corp_name": "한국저축은행(주)",
+      "corp_name_en": "KOREA SAVINGS BANK",
+      "stock_name": "한국저축은행",
+      "stock_code": "025610",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이통천",
+      "corporate_registration_number": "1101110338693",
+      "business_registration_number": "2018113602",
+      "address": "서울특별시 중구 을지로2가 6번지 내외빌딩 4층",
+      "homepage": "www.ksbank.co.kr",
+      "ir_url": null,
+      "phone": "02-753-3331",
+      "fax": "02-3455-0896",
+      "industry_code": "64131",
+      "established_date": "19821207",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7835,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:43.835Z",
+      "usage_event_id": "253b406d-e6a2-421a-98d1-50422e37a8bb"
+    }
+  }
+}

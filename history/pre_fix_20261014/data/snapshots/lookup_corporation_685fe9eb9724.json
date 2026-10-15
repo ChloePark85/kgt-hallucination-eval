@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00102317"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00102317",
+      "corp_name": "주식회사 경주조선호텔",
+      "corp_name_en": "Kyungju Chosun Hotel Corporation",
+      "stock_name": "경주조선호텔",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김  용  일",
+      "corporate_registration_number": "1712110000411",
+      "business_registration_number": "5058100810",
+      "address": "경상북도 경주시 신평동 410-2",
+      "homepage": "www.chosun.com",
+      "ir_url": null,
+      "phone": "054-745-7701",
+      "fax": "054-740-8260",
+      "industry_code": "55101",
+      "established_date": "19770624",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7851,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:32.486Z",
+      "usage_event_id": "cb2c3baf-74ae-4a2b-b5d8-f0f8b932915d"
+    }
+  }
+}

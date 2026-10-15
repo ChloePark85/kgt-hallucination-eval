@@ -1,0 +1,84 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "자동차관리법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 4,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "자동차관리법",
+          "law_id": "001747",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290737&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290737",
+          "revision_type": "타법개정",
+          "promulgation_no": "21857",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260804"
+        },
+        {
+          "name": "자동차관리법 시행령",
+          "law_id": "004590",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286479&type=HTML&mobileYn=&efYd=20260603",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "286479",
+          "revision_type": "일부개정",
+          "promulgation_no": "36376",
+          "enforcement_date": "20260603",
+          "promulgation_date": "20260602"
+        },
+        {
+          "name": "자동차관리법 시행규칙",
+          "law_id": "007928",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290943&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290943",
+          "revision_type": "일부개정",
+          "promulgation_no": "01167",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20261002"
+        },
+        {
+          "name": "자동차관리법 제21조제2항 등의 규정에 따른 행정처분의 기준과 절차에 관한 규칙",
+          "law_id": "007929",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=273379&type=HTML&mobileYn=&efYd=20250814",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "273379",
+          "revision_type": "일부개정",
+          "promulgation_no": "01521",
+          "enforcement_date": "20250814",
+          "promulgation_date": "20250814"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2486,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:45.163Z",
+      "usage_event_id": "df4e7e29-1822-4183-a31c-6b7d6e7ce7f4"
+    }
+  }
+}

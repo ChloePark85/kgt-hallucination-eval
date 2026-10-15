@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00447496"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00447496",
+      "corp_name": "일현건설주식회사",
+      "corp_name_en": "ILHYUN construction co. ltd",
+      "stock_name": "일현건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박정곤",
+      "corporate_registration_number": "2052110002185",
+      "business_registration_number": "4088115370",
+      "address": "광주광역시 동구 금동 211-10 코일빌딩 6층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "062-226-4747",
+      "fax": "062-262-0806",
+      "industry_code": "41112",
+      "established_date": "19920622",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7167,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:41.219Z",
+      "usage_event_id": "3ac0fc80-6781-4d49-9bcc-19eb8c194ca7"
+    }
+  }
+}

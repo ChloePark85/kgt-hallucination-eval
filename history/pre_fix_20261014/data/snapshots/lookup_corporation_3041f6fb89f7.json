@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164876"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164876",
+      "corp_name": "케이비증권 주식회사",
+      "corp_name_en": "KB SECURITIES CO.,LTD",
+      "stock_name": "케이비증권",
+      "stock_code": "003450",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강진두, 이홍구",
+      "corporate_registration_number": "1101110042476",
+      "business_registration_number": "1168129539",
+      "address": "서울특별시 영등포구 여의나루로 50 (여의도동, 한국교직원공제회관)",
+      "homepage": "www.kbsec.com",
+      "ir_url": null,
+      "phone": "1588-6611",
+      "fax": "02-6114-5753",
+      "industry_code": "66121",
+      "established_date": "19620601",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7667,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:44.341Z",
+      "usage_event_id": "0f21b6fb-cbc7-4d25-9cd4-a6df3484e558"
+    }
+  }
+}

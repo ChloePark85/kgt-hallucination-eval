@@ -1,0 +1,112 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "건축법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 6,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001823",
+          "law_serial_no": "273437",
+          "name": "건축법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20250826",
+          "promulgation_no": "21035",
+          "enforcement_date": "20260227",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=273437&type=HTML&mobileYn=&efYd=20260227"
+        },
+        {
+          "law_id": "002118",
+          "law_serial_no": "290833",
+          "name": "건축법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20261006",
+          "promulgation_no": "36746",
+          "enforcement_date": "20261006",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290833&type=HTML&mobileYn=&efYd=20261006"
+        },
+        {
+          "law_id": "006191",
+          "law_serial_no": "283727",
+          "name": "건축법 시행규칙",
+          "short_name": null,
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260227",
+          "promulgation_no": "01567",
+          "enforcement_date": "20260227",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283727&type=HTML&mobileYn=&efYd=20260227"
+        },
+        {
+          "law_id": "011557",
+          "law_serial_no": "284351",
+          "name": "녹색건축물 조성 지원법",
+          "short_name": "녹색건축법",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260317",
+          "promulgation_no": "21467",
+          "enforcement_date": "20260918",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284351&type=HTML&mobileYn=&efYd=20260918"
+        },
+        {
+          "law_id": "011768",
+          "law_serial_no": "285225",
+          "name": "녹색건축물 조성 지원법 시행령",
+          "short_name": "녹색건축법 시행령",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20260331",
+          "promulgation_no": "36231",
+          "enforcement_date": "20260331",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285225&type=HTML&mobileYn=&efYd=20260331"
+        },
+        {
+          "law_id": "011770",
+          "law_serial_no": "267443",
+          "name": "녹색건축물 조성 지원법 시행규칙",
+          "short_name": "녹색건축법 시행규칙",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "promulgation_date": "20241223",
+          "promulgation_no": "01422",
+          "enforcement_date": "20250101",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=267443&type=HTML&mobileYn=&efYd=20250101"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6750,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:07.165Z",
+      "usage_event_id": "f2d85bc0-878a-41c2-a673-06b0cbc76dd8"
+    }
+  }
+}

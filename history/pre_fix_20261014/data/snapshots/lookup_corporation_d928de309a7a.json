@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00291532"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00291532",
+      "corp_name": "대우조선공업주식회사(가칭)",
+      "corp_name_en": null,
+      "stock_name": "대우조선공업(가칭)",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "남우길",
+      "corporate_registration_number": "",
+      "business_registration_number": "",
+      "address": "",
+      "homepage": null,
+      "ir_url": null,
+      "phone": null,
+      "fax": null,
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7423,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:35.504Z",
+      "usage_event_id": "8f0d5da2-686a-4ac0-8ee7-1ea35a97894e"
+    }
+  }
+}

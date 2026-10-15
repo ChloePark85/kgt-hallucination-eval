@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00162319"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:36+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00162319",
+      "corp_name": "주식회사 한양상사",
+      "corp_name_en": null,
+      "stock_name": "한양상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이민",
+      "corporate_registration_number": "1243110010001",
+      "business_registration_number": "1308110996",
+      "address": "경기도 부천시 오정구 삼정동 34-6",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-729-3249",
+      "fax": null,
+      "industry_code": "46733",
+      "established_date": "19831027",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7679,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:35.993Z",
+      "usage_event_id": "6127c223-4005-419f-b464-c70e161e196b"
+    }
+  }
+}

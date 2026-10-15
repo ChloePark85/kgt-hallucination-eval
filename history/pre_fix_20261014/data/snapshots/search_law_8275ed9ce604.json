@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "고용보험법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:22:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001761",
+          "law_serial_no": "284449",
+          "name": "고용보험법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260317",
+          "promulgation_no": "21473",
+          "enforcement_date": "20260918",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284449&type=HTML&mobileYn=&efYd=20260918"
+        },
+        {
+          "law_id": "002249",
+          "law_serial_no": "288717",
+          "name": "고용보험법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260818",
+          "promulgation_no": "36588",
+          "enforcement_date": "20260918",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288717&type=HTML&mobileYn=&efYd=20260918"
+        },
+        {
+          "law_id": "006288",
+          "law_serial_no": "288723",
+          "name": "고용보험법 시행규칙",
+          "short_name": null,
+          "law_type": "고용노동부령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260819",
+          "promulgation_no": "00479",
+          "enforcement_date": "20260918",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288723&type=HTML&mobileYn=&efYd=20260918"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6772,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:22:48.541Z",
+      "usage_event_id": "775c5f09-ba0d-4c73-a2ed-78a2869fe809"
+    }
+  }
+}

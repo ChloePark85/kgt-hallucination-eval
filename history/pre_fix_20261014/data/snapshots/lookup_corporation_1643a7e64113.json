@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246550"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00246550",
+      "corp_name": "주식회사 신대한물산",
+      "corp_name_en": "Shindaehan.co.ltd",
+      "stock_name": "신대한물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김 해 수",
+      "corporate_registration_number": "1701110123802",
+      "business_registration_number": "5148127939",
+      "address": "대구광역시 달서구 월암동 1074",
+      "homepage": "무",
+      "ir_url": null,
+      "phone": "053-583-2477",
+      "fax": "053-586-1298",
+      "industry_code": "13219",
+      "established_date": "19970701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7491,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:47.848Z",
+      "usage_event_id": "97ca0a84-dfef-4bcb-b978-28d64f499ecd"
+    }
+  }
+}

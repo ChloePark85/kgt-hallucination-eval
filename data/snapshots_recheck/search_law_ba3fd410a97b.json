@@ -1,0 +1,56 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "중대재해 처벌 등에 관한 법률",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "중대재해 처벌 등에 관한 법률",
+          "law_id": "013993",
+          "law_type": "법률",
+          "ministry": "고용노동부,공정거래위원회,국토교통부,기후에너지환경부,법무부,산업통상부,중소벤처기업부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=228817&type=HTML&mobileYn=&efYd=20220127",
+          "is_current": true,
+          "short_name": "중대재해처벌법",
+          "law_serial_no": "228817",
+          "revision_type": "제정",
+          "promulgation_no": "17907",
+          "enforcement_date": "20220127",
+          "promulgation_date": "20210126"
+        },
+        {
+          "name": "중대재해 처벌 등에 관한 법률 시행령",
+          "law_id": "014159",
+          "law_type": "대통령령",
+          "ministry": "고용노동부,공정거래위원회,국토교통부,기후에너지환경부,법무부,산업통상부,중소벤처기업부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=277417&type=HTML&mobileYn=&efYd=20251001",
+          "is_current": true,
+          "short_name": "중대재해처벌법 시행령",
+          "law_serial_no": "277417",
+          "revision_type": "타법개정",
+          "promulgation_no": "35805",
+          "enforcement_date": "20251001",
+          "promulgation_date": "20251001"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2499,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:27.680Z",
+      "usage_event_id": "d1d55f48-aa0a-47c0-8a6c-8620cd51f2db"
+    }
+  }
+}

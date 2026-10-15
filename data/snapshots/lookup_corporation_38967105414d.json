@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00134246"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00134246",
+      "corp_name": "주식회사세원건설",
+      "corp_name_en": "SEWON CONSTRUCTION CO.,LTD",
+      "stock_name": "세원건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "손 현 수",
+      "corporate_registration_number": "1501110001896",
+      "business_registration_number": "3158100798",
+      "address": "충청북도 청주시 흥덕구 봉명2동 1825",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "043-262-2650",
+      "fax": "043-262-2653",
+      "industry_code": "68111",
+      "established_date": "19800212",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7739,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:53.928Z",
+      "usage_event_id": "980a23a0-f009-4c2b-926e-06846be8cd56"
+    }
+  }
+}

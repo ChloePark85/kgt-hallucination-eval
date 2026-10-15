@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00367358"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00367358",
+      "corp_name": "(주)동원물산",
+      "corp_name_en": "DONGONECORPORATION",
+      "stock_name": "동원물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "허동일",
+      "corporate_registration_number": "1101111263865",
+      "business_registration_number": "2118613981",
+      "address": "서울특별시 강남구 삼성동 156-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)501-8775",
+      "fax": "02)501-8488",
+      "industry_code": "141",
+      "established_date": "19960501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7341,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:35.174Z",
+      "usage_event_id": "4dd50ef3-ba62-414c-9fc7-83a627a79d25"
+    }
+  }
+}

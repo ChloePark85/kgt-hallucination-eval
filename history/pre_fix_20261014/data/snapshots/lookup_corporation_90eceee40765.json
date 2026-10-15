@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00202307"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00202307",
+      "corp_name": "(주)유신섬유",
+      "corp_name_en": "YOO SHIN  TEXTILE",
+      "stock_name": "유신섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한교영",
+      "corporate_registration_number": "1741110007622",
+      "business_registration_number": "5148116785",
+      "address": "대구광역시 달성군 화원읍 설하리 555",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "053) 615-2202",
+      "fax": "053)631-8216",
+      "industry_code": "13219",
+      "established_date": "19670411",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7599,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:31.753Z",
+      "usage_event_id": "d8aeff62-78d4-4b1d-bf32-41530c75080a"
+    }
+  }
+}

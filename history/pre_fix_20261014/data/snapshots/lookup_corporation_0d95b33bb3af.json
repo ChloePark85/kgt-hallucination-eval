@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00190233"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00190233",
+      "corp_name": "(주)신호상사",
+      "corp_name_en": null,
+      "stock_name": "신호상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김경호",
+      "corporate_registration_number": "1101110274904",
+      "business_registration_number": "2138135424",
+      "address": "대전광역시 서구 갈마동 309-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "042-523-2700",
+      "fax": "042-533-6651        ",
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7619,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:18.070Z",
+      "usage_event_id": "2e3b462f-b1cf-478f-a26e-43ab4ac7c076"
+    }
+  }
+}

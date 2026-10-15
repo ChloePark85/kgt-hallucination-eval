@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00179373"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00179373",
+      "corp_name": "(주)로케트상사",
+      "corp_name_en": "ROCKET CORPORATION LTD",
+      "stock_name": "로케트상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김 동 영",
+      "corporate_registration_number": "1101110776471",
+      "business_registration_number": "2118167648",
+      "address": "서울특별시 강남구 역삼동 747-29",
+      "homepage": "www.rocket.co.kr",
+      "ir_url": null,
+      "phone": "02-3451-5670",
+      "fax": "02-3451-5678",
+      "industry_code": "4659",
+      "established_date": "19910701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7635,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:07.089Z",
+      "usage_event_id": "8de09a88-cea8-4124-a5c2-86497bb790c1"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00226556"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00226556",
+      "corp_name": "우진전자통신주식회사",
+      "corp_name_en": "WOOJIN E&T Co., LTD.",
+      "stock_name": "우진전자통신",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김우진",
+      "corporate_registration_number": "1101110416845",
+      "business_registration_number": "1318113278",
+      "address": "경기도 군포시 당정동 110-3",
+      "homepage": "www.woojingroup.com",
+      "ir_url": null,
+      "phone": "031-458-0123",
+      "fax": "031-429-0789",
+      "industry_code": "26410",
+      "established_date": "19860201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7543,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:10.408Z",
+      "usage_event_id": "74affe43-a2aa-4108-a9bf-8d1fb69ebf2a"
+    }
+  }
+}

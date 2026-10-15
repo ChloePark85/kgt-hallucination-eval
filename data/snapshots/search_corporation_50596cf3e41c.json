@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "기아",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00106641",
+          "corp_name": "기아",
+          "stock_code": "000270",
+          "modified_date": "20260709"
+        },
+        {
+          "listed": false,
+          "corp_code": "01664948",
+          "corp_name": "기아",
+          "stock_code": null,
+          "modified_date": "20220513"
+        },
+        {
+          "listed": false,
+          "corp_code": "00454964",
+          "corp_name": "경기아스콘",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "00106632",
+          "corp_name": "기아자동차판매",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "00491910",
+          "corp_name": "새서울기아",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "01402108",
+          "corp_name": "천안아산서비스기아오토큐",
+          "stock_code": null,
+          "modified_date": "20190911"
+        },
+        {
+          "listed": false,
+          "corp_code": "01024779",
+          "corp_name": "현대기아남구정비서비스",
+          "stock_code": null,
+          "modified_date": "20220225"
+        },
+        {
+          "listed": false,
+          "corp_code": "01665123",
+          "corp_name": "에코루기아",
+          "stock_code": null,
+          "modified_date": "20220513"
+        },
+        {
+          "listed": false,
+          "corp_code": "01593747",
+          "corp_name": "양지대형서비스기아오토큐",
+          "stock_code": null,
+          "modified_date": "20240220"
+        },
+        {
+          "listed": false,
+          "corp_code": "00866460",
+          "corp_name": "미보기아",
+          "stock_code": null,
+          "modified_date": "20230227"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6641,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:25:27.600Z",
+      "usage_event_id": "27154e12-32fd-41a1-bebb-0eb74968e55a"
+    }
+  }
+}

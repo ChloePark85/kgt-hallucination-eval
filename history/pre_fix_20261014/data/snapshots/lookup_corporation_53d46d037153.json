@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00765851"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00765851",
+      "corp_name": "위더스제약(주)",
+      "corp_name_en": "Withus Pharmaceutical. Co., LTD",
+      "stock_name": "위더스제약",
+      "stock_code": "330350",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "성대영",
+      "corporate_registration_number": "1101113069534",
+      "business_registration_number": "2148763871",
+      "address": "서울특별시 서초구 동산로12길 9",
+      "homepage": "withuspharm.com",
+      "ir_url": null,
+      "phone": "02-3486-7474",
+      "fax": "02-792-0588",
+      "industry_code": "212",
+      "established_date": "20040819",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7070,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:53.268Z",
+      "usage_event_id": "29b39b80-2fc2-436b-b66e-c2d2e253f040"
+    }
+  }
+}

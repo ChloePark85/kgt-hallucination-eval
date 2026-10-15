@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00988115"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00988115",
+      "corp_name": "남양조선(주)",
+      "corp_name_en": "nam yang shipbuilding co.,ltd",
+      "stock_name": "남양조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강정한",
+      "corporate_registration_number": "2047110001170",
+      "business_registration_number": "4178102369",
+      "address": "전라남도 여수시 남산동 196번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "061-642-7330",
+      "fax": "061-642-4316",
+      "industry_code": "3111",
+      "established_date": "19820217",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7012,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:34.811Z",
+      "usage_event_id": "c224cd8c-5d12-42da-993d-ac0dd028339c"
+    }
+  }
+}

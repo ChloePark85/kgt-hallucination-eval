@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00180582"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00180582",
+      "corp_name": "주식회사 삼성특수화학",
+      "corp_name_en": "SAMSUNG SPEACIAL.LTD",
+      "stock_name": "삼성특수화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조재원",
+      "corporate_registration_number": "1341110010897",
+      "business_registration_number": "1388103543",
+      "address": "경기도 안양시 동안구 관양2동 913-4",
+      "homepage": "www.samsungspeacial.co.kr",
+      "ir_url": null,
+      "phone": "031-421-3731",
+      "fax": "031-422-2883",
+      "industry_code": "20202",
+      "established_date": "19840831",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7631,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:09.822Z",
+      "usage_event_id": "985a08fc-230a-4784-83a2-c20599791a6b"
+    }
+  }
+}

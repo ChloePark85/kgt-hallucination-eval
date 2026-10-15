@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00135999"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00135999",
+      "corp_name": "신라섬유(주)",
+      "corp_name_en": "SillaTextile",
+      "stock_name": "신라섬유",
+      "stock_code": "001000",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "박재흥",
+      "corporate_registration_number": "1701110014522",
+      "business_registration_number": "5028101407",
+      "address": "대구 동구 각산동 291-1",
+      "homepage": "sillatextile.co.kr",
+      "ir_url": null,
+      "phone": "053-960-1117",
+      "fax": "0539625111",
+      "industry_code": "681",
+      "established_date": "19760308",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7735,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:56.693Z",
+      "usage_event_id": "9dec874e-8fc4-4083-aae9-c5e923b8ea72"
+    }
+  }
+}

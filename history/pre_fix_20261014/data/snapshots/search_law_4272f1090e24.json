@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "식품위생법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001805",
+          "law_serial_no": "285339",
+          "name": "식품위생법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "식품의약품안전처",
+          "promulgation_date": "20260407",
+          "promulgation_no": "21525",
+          "enforcement_date": "20261008",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285339&type=HTML&mobileYn=&efYd=20261008"
+        },
+        {
+          "law_id": "004097",
+          "law_serial_no": "288767",
+          "name": "식품위생법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "식품의약품안전처",
+          "promulgation_date": "20260818",
+          "promulgation_no": "36593",
+          "enforcement_date": "20260818",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288767&type=HTML&mobileYn=&efYd=20260818"
+        },
+        {
+          "law_id": "007634",
+          "law_serial_no": "289161",
+          "name": "식품위생법 시행규칙",
+          "short_name": null,
+          "law_type": "총리령",
+          "ministry": "식품의약품안전처",
+          "promulgation_date": "20260901",
+          "promulgation_no": "02150",
+          "enforcement_date": "20260901",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=289161&type=HTML&mobileYn=&efYd=20260901"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6740,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:14.875Z",
+      "usage_event_id": "f40a5d60-c823-41aa-a96b-b3fa405eb2a8"
+    }
+  }
+}

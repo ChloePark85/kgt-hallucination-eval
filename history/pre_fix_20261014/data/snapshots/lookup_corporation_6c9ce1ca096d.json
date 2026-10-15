@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00670881"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00670881",
+      "corp_name": "(주)진로해운",
+      "corp_name_en": "JINLO SHIPPING CO.,LTD",
+      "stock_name": "진로해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조상곤",
+      "corporate_registration_number": "1101111506702",
+      "business_registration_number": "2028160618",
+      "address": "서울특별시 중구 무교동 1 효령빌딩 801",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "027530063",
+      "fax": "027530067",
+      "industry_code": "50112",
+      "established_date": "19980201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7090,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:38.720Z",
+      "usage_event_id": "419c797d-ffd9-4145-b5a9-71af7c54bc46"
+    }
+  }
+}

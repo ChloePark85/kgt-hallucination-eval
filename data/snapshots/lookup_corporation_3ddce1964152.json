@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00811062"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00811062",
+      "corp_name": "에이치씨해운주식회사",
+      "corp_name_en": "hc co.ltd",
+      "stock_name": "에이치씨해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이기원",
+      "corporate_registration_number": "1801110560044",
+      "business_registration_number": "6058178296",
+      "address": "부산광역시 중구 대창동1가 51",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-322-8321",
+      "fax": "051-322-8284",
+      "industry_code": "761",
+      "established_date": "20060627",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7050,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:07.723Z",
+      "usage_event_id": "79e139b3-db13-49b3-bbe6-f22d9d5879f2"
+    }
+  }
+}

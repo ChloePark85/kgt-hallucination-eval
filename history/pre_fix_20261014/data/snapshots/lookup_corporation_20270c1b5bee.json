@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00416229"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00416229",
+      "corp_name": "주식회사 윤진개발",
+      "corp_name_en": "YoonJin Co.,Ltd",
+      "stock_name": "윤진개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김철윤",
+      "corporate_registration_number": "1101111437692",
+      "business_registration_number": "2038124634",
+      "address": "서울특별시 광진구 광장동 학산 코스모스텔 801",
+      "homepage": "www.ntepia.com",
+      "ir_url": null,
+      "phone": "063-288-7778",
+      "fax": "063-282-8066",
+      "industry_code": "68112",
+      "established_date": "19970708",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7239,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:46.437Z",
+      "usage_event_id": "58a9a8b5-8687-49c1-afe9-afaaa2010140"
+    }
+  }
+}

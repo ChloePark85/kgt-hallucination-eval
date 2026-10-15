@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00149497"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00149497",
+      "corp_name": "(주)알파캐피탈",
+      "corp_name_en": "Alpha capital corp.",
+      "stock_name": "알파캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강석문",
+      "corporate_registration_number": "1350110052634",
+      "business_registration_number": "1238138695",
+      "address": "경기도 안양시 만안구 안양5동389-8",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-319-6644",
+      "fax": "02-757-4923",
+      "industry_code": "64911",
+      "established_date": "19910607",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7703,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:19.125Z",
+      "usage_event_id": "5eb6afb8-6393-4e28-b3ad-d04ea5585c33"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41117",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 546,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "영통동",
+          "floor": 5,
+          "jibun": "968",
+          "canceled": false,
+          "deal_date": "2025-03-01",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 1997,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "41117",
+          "canceled_date": null,
+          "apartment_name": "신나무실동보",
+          "deal_amount_krw": 595000000,
+          "deal_amount_raw": "59,500",
+          "exclusive_area_m2": 84.9
+        }
+      ],
+      "lawd_code": "41117",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2574,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:34.511Z",
+      "usage_event_id": "4402a976-33bf-40af-934e-f179f84291af"
+    }
+  }
+}

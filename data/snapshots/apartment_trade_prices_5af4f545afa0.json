@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11500",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:27:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "11500",
+      "deal_month": "202509",
+      "total": 606,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "마곡 한진해모로",
+          "deal_amount_krw": 800000000,
+          "deal_amount_raw": "80,000",
+          "deal_date": "2025-09-03",
+          "exclusive_area_m2": 84.93,
+          "floor": 7,
+          "build_year": 2004,
+          "dong": "방화동",
+          "jibun": "579",
+          "road_name": null,
+          "sigungu_code": "11500",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6539,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-14T02:27:18.697Z",
+      "usage_event_id": "03444b19-8468-4b67-8efd-5da3bb40b096"
+    }
+  }
+}

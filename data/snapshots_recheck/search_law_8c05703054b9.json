@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "부동산 거래신고 등에 관한 법률",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 3,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "부동산 거래신고 등에 관한 법률",
+          "law_id": "012480",
+          "law_type": "법률",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=259641&type=HTML&mobileYn=&efYd=20240517",
+          "is_current": true,
+          "short_name": "부동산거래신고법",
+          "law_serial_no": "259641",
+          "revision_type": "타법개정",
+          "promulgation_no": "20194",
+          "enforcement_date": "20240517",
+          "promulgation_date": "20240206"
+        },
+        {
+          "name": "부동산 거래신고 등에 관한 법률 시행령",
+          "law_id": "012790",
+          "law_type": "대통령령",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290839&type=HTML&mobileYn=&efYd=20261001",
+          "is_current": true,
+          "short_name": "부동산거래신고법 시행령",
+          "law_serial_no": "290839",
+          "revision_type": "일부개정",
+          "promulgation_no": "36740",
+          "enforcement_date": "20261001",
+          "promulgation_date": "20260930"
+        },
+        {
+          "name": "부동산 거래신고 등에 관한 법률 시행규칙",
+          "law_id": "012794",
+          "law_type": "국토교통부령",
+          "ministry": "국토교통부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283339&type=HTML&mobileYn=&efYd=20260210",
+          "is_current": true,
+          "short_name": "부동산거래신고법 시행규칙",
+          "law_serial_no": "283339",
+          "revision_type": "일부개정",
+          "promulgation_no": "01557",
+          "enforcement_date": "20260210",
+          "promulgation_date": "20260206"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2488,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:42.045Z",
+      "usage_event_id": "4e0af001-b0ce-4312-8e78-d24497f9f775"
+    }
+  }
+}

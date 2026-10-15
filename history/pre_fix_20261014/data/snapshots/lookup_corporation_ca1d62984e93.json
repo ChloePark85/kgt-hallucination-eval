@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00533191"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00533191",
+      "corp_name": "(주)비보존제약",
+      "corp_name_en": "VIVOZON PHARMACEUTICAL CO., LTD.",
+      "stock_name": "비보존 제약",
+      "stock_code": "082800",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "장부환",
+      "corporate_registration_number": "1358110085019",
+      "business_registration_number": "1248199564",
+      "address": "경기도 화성시 향남읍 제약공단2길 34-40",
+      "homepage": "www.vivozonpharm.com",
+      "ir_url": null,
+      "phone": "02-3434-7600",
+      "fax": "031-210-7905",
+      "industry_code": "212",
+      "established_date": "20020822",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7117,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:19.099Z",
+      "usage_event_id": "eecb0642-5790-4f90-ace5-9b58a5972cf8"
+    }
+  }
+}

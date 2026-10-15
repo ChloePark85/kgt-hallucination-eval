@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00236225"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00236225",
+      "corp_name": "유아전자주식회사",
+      "corp_name_en": "YAURE TEL COM",
+      "stock_name": "유아전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박현승",
+      "corporate_registration_number": "1101110518401",
+      "business_registration_number": "2208112939",
+      "address": "서울특별시 강남 역삼 798-30",
+      "homepage": "무",
+      "ir_url": null,
+      "phone": "02-555-9528",
+      "fax": "02-555-9529",
+      "industry_code": "2642",
+      "established_date": "19860402",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7509,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:35.167Z",
+      "usage_event_id": "f91db4ad-592c-4b90-999f-a778940217ca"
+    }
+  }
+}

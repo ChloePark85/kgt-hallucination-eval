@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00431501"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00431501",
+      "corp_name": "싱가포르 개발은행 서울지점",
+      "corp_name_en": "THE DEVELOPMENT BANK OF SINGAPORE LTD SEOUL BRANCH",
+      "stock_name": "싱가포르개발은행서울지점",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "LOW JEE FUN",
+      "corporate_registration_number": "1101810004974",
+      "business_registration_number": "1048403731",
+      "address": "서울특별시 중구 태평로1가 광화문 빌딩 20층",
+      "homepage": "na",
+      "ir_url": null,
+      "phone": "02-399-2661/2",
+      "fax": "02-732-7953",
+      "industry_code": "64122",
+      "established_date": "19811001",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7209,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:07.452Z",
+      "usage_event_id": "ec2cab9b-42d0-48bd-88d3-f8e75ce9a52c"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00155018"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00155018",
+      "corp_name": "(주)진로종합식품",
+      "corp_name_en": "JINRO GENERAL FOOD CO,.LTD.",
+      "stock_name": "진로종합식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박래웅",
+      "corporate_registration_number": "1101110070526",
+      "business_registration_number": "2148145677",
+      "address": "서울특별시 서초구 서초동 1445-15",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)3488-3000",
+      "fax": "02)522-2816",
+      "industry_code": "11209",
+      "established_date": "19660901",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7687,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:30.481Z",
+      "usage_event_id": "f9000a26-e6e3-4b1e-865d-a9b6e2ddb6a2"
+    }
+  }
+}

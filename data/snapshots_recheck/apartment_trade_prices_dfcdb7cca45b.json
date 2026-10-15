@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11200",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 591,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "성수동1가",
+          "floor": 29,
+          "jibun": "721",
+          "canceled": false,
+          "deal_date": "2025-09-30",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2024,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "11200",
+          "canceled_date": null,
+          "apartment_name": "서울숲아이파크리버포레1차",
+          "deal_amount_krw": 2580000000,
+          "deal_amount_raw": "258,000",
+          "exclusive_area_m2": 59.949
+        }
+      ],
+      "lawd_code": "11200",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2603,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:31:59.708Z",
+      "usage_event_id": "f697e5f3-e290-41ed-99d8-35923243e5c8"
+    }
+  }
+}

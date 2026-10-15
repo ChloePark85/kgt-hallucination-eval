@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00448705"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00448705",
+      "corp_name": "모아건설(주)",
+      "corp_name_en": "MOA Construction Co.",
+      "stock_name": "모아건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종선",
+      "corporate_registration_number": "1355110115515",
+      "business_registration_number": "1348167322",
+      "address": "경기도 부천시 원미구 중동 1031-2번지 골든벨타워 9층",
+      "homepage": "http://goodmoa.co.kr",
+      "ir_url": null,
+      "phone": "032) 328 - 4600",
+      "fax": "032) 328 - 4609",
+      "industry_code": "4112",
+      "established_date": "20010417",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7159,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:46.909Z",
+      "usage_event_id": "4b798542-e13e-48e4-bd44-ba72f187a076"
+    }
+  }
+}

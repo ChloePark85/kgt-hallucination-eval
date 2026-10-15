@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00137997"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00137997",
+      "corp_name": "현대차증권(주)",
+      "corp_name_en": "HYUNDAI MOTOR SECURITIES CO.,LTD.",
+      "stock_name": "현대차증권",
+      "stock_code": "001500",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "배형근",
+      "corporate_registration_number": "1101110019962",
+      "business_registration_number": "1168134691",
+      "address": "서울특별시 영등포구 국제금융로2길 28 현대차증권",
+      "homepage": "hmsec.com",
+      "ir_url": "https://hmsec.com",
+      "phone": "02-3787-2114",
+      "fax": "02-782-0086",
+      "industry_code": "66121",
+      "established_date": "19550726",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7727,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:02.283Z",
+      "usage_event_id": "2856d046-13d1-423b-976b-f65fbfbec9d0"
+    }
+  }
+}

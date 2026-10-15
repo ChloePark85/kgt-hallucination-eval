@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00835150"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00835150",
+      "corp_name": "(주)동양식품",
+      "corp_name_en": "DONG YANG FOOD CO.,LTD",
+      "stock_name": "동양식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤봉기",
+      "corporate_registration_number": "1154110019325",
+      "business_registration_number": "1278130977",
+      "address": "경기도 포천시 가산면 방축리",
+      "homepage": "www.migakchon.co.kr",
+      "ir_url": null,
+      "phone": "031-541-1581",
+      "fax": "031-542-1581",
+      "industry_code": "10",
+      "established_date": "19990413",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7038,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:16.717Z",
+      "usage_event_id": "98ad963a-5afc-4783-9b79-5bbfa873cc0a"
+    }
+  }
+}

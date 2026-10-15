@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11650",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 125,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "반포동",
+          "floor": 2,
+          "jibun": "612-2",
+          "canceled": false,
+          "deal_date": "2025-09-25",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2007,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "11650",
+          "canceled_date": null,
+          "apartment_name": "반포2차ApelBaum",
+          "deal_amount_krw": 3800000000,
+          "deal_amount_raw": "380,000",
+          "exclusive_area_m2": 244.15
+        }
+      ],
+      "lawd_code": "11650",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2618,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:31:40.939Z",
+      "usage_event_id": "140204f0-b8a5-4088-9c30-5fce16bd8983"
+    }
+  }
+}

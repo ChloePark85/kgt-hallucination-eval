@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00227528"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00227528",
+      "corp_name": "극동섬유(주)",
+      "corp_name_en": null,
+      "stock_name": "극동섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "백우현",
+      "corporate_registration_number": "1101110720262",
+      "business_registration_number": "0",
+      "address": "서울특별시 중구 무교동 32-2",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02  -777 -8782",
+      "fax": null,
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7539,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:13.154Z",
+      "usage_event_id": "f6ca6b93-5e28-48a4-9d95-c5cbe8cd5037"
+    }
+  }
+}

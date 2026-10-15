@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00395661"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00395661",
+      "corp_name": "현지개발 주식회사",
+      "corp_name_en": "JI-SEUNG DEVELOPMENT CO., LTD",
+      "stock_name": "현지개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "오충환",
+      "corporate_registration_number": "1201110193136",
+      "business_registration_number": "1218130528",
+      "address": "인천광역시 중구 항동7가 27-129",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-889-0074",
+      "fax": "032-255-5006",
+      "industry_code": "68119",
+      "established_date": "19990519",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7279,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:19.033Z",
+      "usage_event_id": "2b4c1135-8be4-4833-90ef-ea7987ee4b7b"
+    }
+  }
+}

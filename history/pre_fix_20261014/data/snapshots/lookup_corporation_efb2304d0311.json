@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00688996"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00688996",
+      "corp_name": "(주)KB금융지주",
+      "corp_name_en": "KB Financial Group Inc.",
+      "stock_name": "KB금융",
+      "stock_code": "105560",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "양종희",
+      "corporate_registration_number": "1101113975517",
+      "business_registration_number": "2018608254",
+      "address": "서울특별시 영등포구 국제금융로8길 26 (여의도동, 국민은행 여의도본점)",
+      "homepage": "www.kbfg.com",
+      "ir_url": null,
+      "phone": "02-2073-7114",
+      "fax": null,
+      "industry_code": "64992",
+      "established_date": "20080929",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7973,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:58.440Z",
+      "usage_event_id": "ef337d53-5a01-4e70-8f53-60a6345b652a"
+    }
+  }
+}

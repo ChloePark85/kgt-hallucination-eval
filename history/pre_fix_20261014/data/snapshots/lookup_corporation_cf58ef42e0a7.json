@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00451000"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00451000",
+      "corp_name": "주식회사 광명산업",
+      "corp_name_en": "KWANGMYUNGINDUSTRIAL.CO.LTD",
+      "stock_name": "광명산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "채진우,이수경",
+      "corporate_registration_number": "1701110070798",
+      "business_registration_number": "5048117263",
+      "address": "경상북도 칠곡군 지천면 달서리 375",
+      "homepage": "http://www.kmyind.co.kr",
+      "ir_url": null,
+      "phone": "054)973-0082~8",
+      "fax": "054)973-0085",
+      "industry_code": "2225",
+      "established_date": "19931124",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7147,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:56.613Z",
+      "usage_event_id": "59b23ea9-5f91-45f9-874c-037d4eaa82e7"
+    }
+  }
+}

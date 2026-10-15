@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00382199"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:22+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-6360-3098",
+      "phone": "02-6360-3000",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 중구 세종대로9길 20 태평로2가",
+      "ceo_name": "진옥동",
+      "homepage": "www.shinhangroup.com",
+      "corp_code": "00382199",
+      "corp_name": "(주)신한금융지주회사",
+      "market_raw": "Y",
+      "stock_code": "055550",
+      "stock_name": "신한지주",
+      "corp_name_en": "SHINHAN FINANCIAL GROUP CO.,LTD",
+      "industry_code": "64992",
+      "established_date": "20010901",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1048164625",
+      "corporate_registration_number": "1101112322438"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2676,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:22.815Z",
+      "usage_event_id": "7c57f578-e527-4967-8e8b-a4113d920c84"
+    }
+  }
+}

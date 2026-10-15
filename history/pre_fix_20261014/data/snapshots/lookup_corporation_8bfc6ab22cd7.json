@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00112518"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00112518",
+      "corp_name": "대준섬유주식회사",
+      "corp_name_en": "DAE JOON TEXTILE CO.,LTD",
+      "stock_name": "대준섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박노화",
+      "corporate_registration_number": "1701110012823",
+      "business_registration_number": "5038109246",
+      "address": "대구광역시 달서구 갈산동 400-60",
+      "homepage": "www.daejoon.com",
+      "ir_url": null,
+      "phone": "(053)581-5201",
+      "fax": "(053)581-5205",
+      "industry_code": "13213",
+      "established_date": "19820202",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7811,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:00.977Z",
+      "usage_event_id": "4c0a8340-7293-40c3-a60b-6be255c9f03d"
+    }
+  }
+}

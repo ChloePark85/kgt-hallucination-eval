@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00830775"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00830775",
+      "corp_name": "송가네식품 주식회사",
+      "corp_name_en": "SONG GA NE FOOD CO.,LTD",
+      "stock_name": "송가네식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박흥재",
+      "corporate_registration_number": "1601110025753",
+      "business_registration_number": "3028105593",
+      "address": "충청북도 옥천군 옥천읍 매화리 3-4",
+      "homepage": "www.songane.co.kr",
+      "ir_url": null,
+      "phone": "043-731-6400",
+      "fax": "043-733-8139",
+      "industry_code": "1012",
+      "established_date": "19910412",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7040,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:14.839Z",
+      "usage_event_id": "faaa29ea-7d78-4f33-a6de-e38c127aa221"
+    }
+  }
+}

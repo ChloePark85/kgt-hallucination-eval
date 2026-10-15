@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00244181"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00244181",
+      "corp_name": "미래2저축은행",
+      "corp_name_en": "MIRAE 2 SAVINGS BANK",
+      "stock_name": "미래2저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정영석",
+      "corporate_registration_number": "2111110008583",
+      "business_registration_number": "4018111785",
+      "address": "전라북도 군산시 중앙로3가 54-3",
+      "homepage": "www.mrb2.co.kr",
+      "ir_url": null,
+      "phone": "063-443-9000",
+      "fax": "063-443-4045",
+      "industry_code": "64132",
+      "established_date": "19970701",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7501,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:40.784Z",
+      "usage_event_id": "34e6e225-5917-49bd-be84-aa9568965066"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00125178"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00125178",
+      "corp_name": "삼광화학(주)",
+      "corp_name_en": null,
+      "stock_name": "삼광화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김용래",
+      "corporate_registration_number": "1941110000325",
+      "business_registration_number": "",
+      "address": "전라북도 익산시 용제동 571번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0553-242-3540-1",
+      "fax": "0553-242-3542       ",
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": ""
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7771,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:29.583Z",
+      "usage_event_id": "aa7f1331-a949-4a94-82da-d8a377cdf6c8"
+    }
+  }
+}

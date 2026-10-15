@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00763020"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00763020",
+      "corp_name": "미래로해운(주)",
+      "corp_name_en": "MIRAERO SHIPPING CO., LTD",
+      "stock_name": "미래로해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양재욱 채승협",
+      "corporate_registration_number": "1101112310508",
+      "business_registration_number": "1058629397",
+      "address": "서울특별시 마포구 도화동 마스터즈타워빌딩",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3275-5557",
+      "fax": "02-3275-5558",
+      "industry_code": "5013",
+      "established_date": "20010817",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7074,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:50.416Z",
+      "usage_event_id": "ebb39e3f-2f20-4918-a69c-612c4f6a3157"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00155319"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:02+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "0562)220-6000",
+      "phone": "054-220-0114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경상북도 포항시 남구 동해안로 6261 -",
+      "ceo_name": "대표이사 회장  장인화, 대표이사 사장  이주태",
+      "homepage": "www.posco-inc.com",
+      "corp_code": "00155319",
+      "corp_name": "포스코홀딩스(주)",
+      "market_raw": "Y",
+      "stock_code": "005490",
+      "stock_name": "POSCO홀딩스",
+      "corp_name_en": "POSCO Holdings Inc.",
+      "industry_code": "2411",
+      "established_date": "19680401",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "5068100017",
+      "corporate_registration_number": "1746110000741"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2690,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:02.378Z",
+      "usage_event_id": "9ffae4ad-d07a-4174-a62c-7105a2dd954a"
+    }
+  }
+}

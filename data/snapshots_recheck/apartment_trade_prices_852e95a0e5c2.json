@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11710",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 391,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "송파동",
+          "floor": 3,
+          "jibun": "166",
+          "canceled": false,
+          "deal_date": "2025-09-20",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 1984,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "11710",
+          "canceled_date": null,
+          "apartment_name": "가락삼익맨숀",
+          "deal_amount_krw": 2300000000,
+          "deal_amount_raw": "230,000",
+          "exclusive_area_m2": 108.338
+        }
+      ],
+      "lawd_code": "11710",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2615,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:31:44.466Z",
+      "usage_event_id": "957e6c54-4382-4114-9e8c-e1b612865429"
+    }
+  }
+}

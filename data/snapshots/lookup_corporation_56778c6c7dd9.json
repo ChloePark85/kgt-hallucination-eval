@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00842619"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00842619",
+      "corp_name": "(주)리가켐 바이오사이언스",
+      "corp_name_en": "LigaChem Biosciences Inc.",
+      "stock_name": "리가켐바이오",
+      "stock_code": "141080",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "박세진",
+      "corporate_registration_number": "1601110206866",
+      "business_registration_number": "3148182268",
+      "address": "대전광역시 유성구 국제과학10로 10 (주)레고켐 바이오사이언스",
+      "homepage": "www.ligachembio.com",
+      "ir_url": null,
+      "phone": "042-861-0688",
+      "fax": "042)861-0689",
+      "industry_code": "70113",
+      "established_date": "20060502",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6611,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:26:13.804Z",
+      "usage_event_id": "2ae0539f-33e5-4e6a-ac0c-4f7e12cd2104"
+    }
+  }
+}

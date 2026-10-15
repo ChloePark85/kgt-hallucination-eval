@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11680",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "11680",
+      "deal_month": "202503",
+      "total": 917,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "청담현대3차아파트",
+          "deal_amount_krw": 3550000000,
+          "deal_amount_raw": "355,000",
+          "deal_date": "2025-03-22",
+          "exclusive_area_m2": 109.53,
+          "floor": 10,
+          "build_year": 1999,
+          "dong": "청담동",
+          "jibun": "127-31",
+          "road_name": null,
+          "sigungu_code": "11680",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6577,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-14T02:26:56.343Z",
+      "usage_event_id": "2e9c3dca-397f-4d47-a5df-7a8cc9360ead"
+    }
+  }
+}

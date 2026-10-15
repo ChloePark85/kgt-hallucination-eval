@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00201511"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00201511",
+      "corp_name": "태광섬유 주식회사",
+      "corp_name_en": "TAEKWANG TEXTILE CO.,LTD",
+      "stock_name": "태광섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "손용수",
+      "corporate_registration_number": "1701110071275",
+      "business_registration_number": "5158109012",
+      "address": "경상북도 경산시 진량면 신상리 1184-1번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "053-856-7071",
+      "fax": "053-856-1707",
+      "industry_code": "13213",
+      "established_date": "19931101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7601,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:30.395Z",
+      "usage_event_id": "4d7f14b5-881d-4e1d-8747-9422c8b2fed9"
+    }
+  }
+}

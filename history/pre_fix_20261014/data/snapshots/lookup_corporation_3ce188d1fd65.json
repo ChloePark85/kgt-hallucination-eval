@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00217150"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00217150",
+      "corp_name": "대진종합건설 주식회사",
+      "corp_name_en": "DAE JIN CONSTRUCTIOW.CO.,LTD",
+      "stock_name": "대진종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임 평 환",
+      "corporate_registration_number": "1101110422694",
+      "business_registration_number": "2148135446",
+      "address": "서울특별시 서초구 서초동 1338-21 코리아비지니스센터 B/D12",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3474-8751-6",
+      "fax": "3474-8760",
+      "industry_code": "41112",
+      "established_date": "19860327",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7561,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:58.055Z",
+      "usage_event_id": "8dfea9f6-178a-472b-b7f9-542a57813d75"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00197795"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00197795",
+      "corp_name": "주식회사 하선정종합식품",
+      "corp_name_en": "HASUNJUNG GENERAL FOOD CO., LTD.",
+      "stock_name": "하선정종합식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김태준",
+      "corporate_registration_number": "1101110239833",
+      "business_registration_number": "1258105623",
+      "address": "경기도 안성시 미양면 구수리 264-7",
+      "homepage": "www.hasunjung.co.kr",
+      "ir_url": null,
+      "phone": "031-677-7755",
+      "fax": "031-677-7759",
+      "industry_code": "10211",
+      "established_date": "19791005",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7607,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:26.234Z",
+      "usage_event_id": "76f915d1-9b58-4611-bd1d-f6b4785cd1ea"
+    }
+  }
+}

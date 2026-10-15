@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "근로기준법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:22:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001872",
+          "law_serial_no": "285279",
+          "name": "근로기준법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260407",
+          "promulgation_no": "21533",
+          "enforcement_date": "20261008",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285279&type=HTML&mobileYn=&efYd=20261008"
+        },
+        {
+          "law_id": "003058",
+          "law_serial_no": "270551",
+          "name": "근로기준법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20250408",
+          "promulgation_no": "35436",
+          "enforcement_date": "20251023",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=270551&type=HTML&mobileYn=&efYd=20251023"
+        },
+        {
+          "law_id": "006859",
+          "law_serial_no": "269393",
+          "name": "근로기준법 시행규칙",
+          "short_name": null,
+          "law_type": "고용노동부령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20250221",
+          "promulgation_no": "00436",
+          "enforcement_date": "20250223",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=269393&type=HTML&mobileYn=&efYd=20250223"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6796,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:22:30.486Z",
+      "usage_event_id": "5c26b16a-a624-4dfd-bd46-c251db53e457"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00206349"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00206349",
+      "corp_name": "록정개발 주식회사",
+      "corp_name_en": "Rook Jung Development Co., Ltd",
+      "stock_name": "록정개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김향실",
+      "corporate_registration_number": "1101110424517",
+      "business_registration_number": "1068118092",
+      "address": "서울특별시 용산구 한남동 261-5 청산빌딩 2층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)749-8480~2",
+      "fax": "02)749-2341",
+      "industry_code": "4111",
+      "established_date": "19860501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7585,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:41.422Z",
+      "usage_event_id": "6c9cd611-7f48-45b5-8341-9a17e63633ca"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00119919"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00119919",
+      "corp_name": "라성물산주식회사",
+      "corp_name_en": "RHASUNG MOOLSAN CO., LTD.",
+      "stock_name": "라성물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박   원   태",
+      "corporate_registration_number": "1101110194996",
+      "business_registration_number": "2018106964",
+      "address": "서울특별시 중구 충무로1가 24-28",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02) 755-2025",
+      "fax": "02) 766-1456",
+      "industry_code": "46800",
+      "established_date": "19760205",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7783,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:21.280Z",
+      "usage_event_id": "b832603e-1435-441f-a666-1700763f362f"
+    }
+  }
+}

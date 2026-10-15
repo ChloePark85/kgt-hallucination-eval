@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "에이치엘비",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": false,
+          "corp_code": "01922091",
+          "corp_name": "에이치엘비",
+          "stock_code": null,
+          "modified_date": "20250509"
+        },
+        {
+          "listed": true,
+          "corp_code": "01413371",
+          "corp_name": "에이치엘비사이언스",
+          "stock_code": "343090",
+          "modified_date": "20260116"
+        },
+        {
+          "listed": false,
+          "corp_code": "00938262",
+          "corp_name": "엔에이치엘비그로쓰챔프이천십일의사호사모투자전문회사",
+          "stock_code": null,
+          "modified_date": "20180223"
+        },
+        {
+          "listed": false,
+          "corp_code": "01109159",
+          "corp_name": "에이치엘비네트웍스",
+          "stock_code": null,
+          "modified_date": "20190225"
+        },
+        {
+          "listed": false,
+          "corp_code": "01613324",
+          "corp_name": "에이치엘비인베스트먼트",
+          "stock_code": null,
+          "modified_date": "20220207"
+        },
+        {
+          "listed": false,
+          "corp_code": "00413569",
+          "corp_name": "에이치엘비에너지",
+          "stock_code": null,
+          "modified_date": "20220223"
+        },
+        {
+          "listed": false,
+          "corp_code": "01445051",
+          "corp_name": "에이치엘비셀",
+          "stock_code": null,
+          "modified_date": "20220504"
+        },
+        {
+          "listed": false,
+          "corp_code": "01465310",
+          "corp_name": "에이치엘비바이오코드",
+          "stock_code": null,
+          "modified_date": "20250418"
+        },
+        {
+          "listed": false,
+          "corp_code": "01994885",
+          "corp_name": "에이치엘비일렉",
+          "stock_code": null,
+          "modified_date": "20260320"
+        },
+        {
+          "listed": false,
+          "corp_code": "01386022",
+          "corp_name": "에이치엘비오션테크",
+          "stock_code": null,
+          "modified_date": "20260126"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 2661,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-15T00:30:46.380Z",
+      "usage_event_id": "52bbb347-e9d7-423d-9aee-bf29e4a2f123"
+    }
+  }
+}

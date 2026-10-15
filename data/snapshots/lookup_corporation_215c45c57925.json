@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00381987"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00381987",
+      "corp_name": "주식회사 휴먼캐피탈",
+      "corp_name_en": "human capital ",
+      "stock_name": "휴먼캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종국",
+      "corporate_registration_number": "1101112154146",
+      "business_registration_number": "2208605694",
+      "address": "서울특별시 강남구 도곡동 467-23",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3462-7511",
+      "fax": "02-3461-2351",
+      "industry_code": "64919",
+      "established_date": "20010118",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7301,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:03.108Z",
+      "usage_event_id": "173725d0-bceb-412c-be47-1838ce467904"
+    }
+  }
+}

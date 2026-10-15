@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00208523"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00208523",
+      "corp_name": "한국종합화학공업(주)",
+      "corp_name_en": "KOREA GENERAL CHEMICAL CHEMICAL CORPORATIOI",
+      "stock_name": "한국종합화학공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "차상열",
+      "corporate_registration_number": "1101110143539",
+      "business_registration_number": "1028100061",
+      "address": "서울특별시 종로구 수송동 80 대한재보험빌딩 7층",
+      "homepage": "WWW.KGCHEM.CO.KR",
+      "ir_url": null,
+      "phone": "02)732-4392",
+      "fax": "02)735-5605",
+      "industry_code": "20129",
+      "established_date": "19730401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7577,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:46.896Z",
+      "usage_event_id": "64940ed1-97c0-41d9-9902-2c2f19f8ed2b"
+    }
+  }
+}

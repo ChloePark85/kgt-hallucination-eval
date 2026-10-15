@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00250632"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00250632",
+      "corp_name": "한양해운(주)",
+      "corp_name_en": "HAN YANG SHIPPING CO.,LTD.",
+      "stock_name": "한양해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "심재영",
+      "corporate_registration_number": "1101110557003",
+      "business_registration_number": "1028124326",
+      "address": "서울특별시 종로구 당주동 5번지 로얄빌딩 12층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3702-1800",
+      "fax": "3702-1871",
+      "industry_code": "52999",
+      "established_date": "19890501",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7479,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:56.077Z",
+      "usage_event_id": "6eb090ae-c45b-46f2-8bfd-89a04dcb8f0a"
+    }
+  }
+}

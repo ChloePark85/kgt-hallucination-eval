@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00116499"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:12+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00116499",
+      "corp_name": "동신제약(주)",
+      "corp_name_en": "DONGSHIN PHARMACEUTICAL CO.,LTD",
+      "stock_name": "동신제약",
+      "stock_code": "006600",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "변진호, 신승권",
+      "corporate_registration_number": "1101110166250",
+      "business_registration_number": "1208116334",
+      "address": "서울특별시 강남구 수서동 724V-밸리빌딩 10층",
+      "homepage": "www.dong-shin.com",
+      "ir_url": null,
+      "phone": "02-556-9966",
+      "fax": "02-557-8898",
+      "industry_code": "21212",
+      "established_date": "19700409",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7795,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:12.550Z",
+      "usage_event_id": "fa537bf2-6a03-4b8a-953b-681d8e03800a"
+    }
+  }
+}

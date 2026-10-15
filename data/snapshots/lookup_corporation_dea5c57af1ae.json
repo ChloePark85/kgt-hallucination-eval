@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00144368"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00144368",
+      "corp_name": "후성정밀화학주식회사",
+      "corp_name_en": "Foo Sung Fine Chemical Co.,Ltd.",
+      "stock_name": "후성정밀화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "송영수",
+      "corporate_registration_number": "1746110006749",
+      "business_registration_number": "5068105948",
+      "address": "경상북도 포항시 남구 장흥동 1838번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(054) 278-7111∼3",
+      "fax": "(054) 278-6042",
+      "industry_code": "20129",
+      "established_date": "19880322",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7719,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:07.804Z",
+      "usage_event_id": "449a838a-6fb7-4319-aeb8-52ff64cc8a16"
+    }
+  }
+}

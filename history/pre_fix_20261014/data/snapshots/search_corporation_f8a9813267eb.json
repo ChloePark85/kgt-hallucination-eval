@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "LG에너지솔루션",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "01515323",
+          "corp_name": "LG에너지솔루션",
+          "stock_code": "373220",
+          "listed": true,
+          "modified_date": "20250812"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7990,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:06:29.624Z",
+      "usage_event_id": "98f63274-3b19-42df-acea-ae15c197cc15"
+    }
+  }
+}

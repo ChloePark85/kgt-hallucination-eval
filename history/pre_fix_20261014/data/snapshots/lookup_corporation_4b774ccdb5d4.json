@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00376790"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00376790",
+      "corp_name": "케이에이캐피탈주식회사",
+      "corp_name_en": "KA CAPITAL CO.LTD.",
+      "stock_name": "케이에이캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종모,김재영",
+      "corporate_registration_number": "1101111614802",
+      "business_registration_number": "2118647521",
+      "address": "서울특별시 중구 서소문 47-2 한성빌딩 10층",
+      "homepage": "mjzzang@hotmail.com",
+      "ir_url": null,
+      "phone": "772-9200",
+      "fax": "772-9202",
+      "industry_code": "66192",
+      "established_date": "19981201",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7307,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:58.891Z",
+      "usage_event_id": "c4385324-9cd5-426f-bea1-1674185f09e9"
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "제주특별자치도청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 2,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "제주특별자치도 제주시 문연로 6 (연동)",
+          "road_address_main": "제주특별자치도 제주시 문연로 6",
+          "road_address_detail": " (연동)",
+          "jibun_address": "제주특별자치도 제주시 연동 312-1 제주특별자치도청",
+          "english_address": "6 Munyeon-ro, Jeju-si, Jeju-do",
+          "postal_code": "63122",
+          "adm_code": "5011013700",
+          "lawd_code": "50110",
+          "building_name": "제주특별자치도청",
+          "sido": "제주특별자치도",
+          "sigungu": "제주시",
+          "eupmyeondong": "연동",
+          "ri": null,
+          "road_name": "문연로",
+          "building_main_no": "6",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "312",
+          "lot_sub_no": "1",
+          "road_mgmt_no": "501103349069",
+          "building_mgmt_no": "5011013700103120001006804"
+        },
+        {
+          "road_address": "제주특별자치도 제주시 문연로 30 (연동)",
+          "road_address_main": "제주특별자치도 제주시 문연로 30",
+          "road_address_detail": " (연동)",
+          "jibun_address": "제주특별자치도 제주시 연동 322-1 제주특별자치도청",
+          "english_address": "30 Munyeon-ro, Jeju-si, Jeju-do",
+          "postal_code": "63121",
+          "adm_code": "5011013700",
+          "lawd_code": "50110",
+          "building_name": "제주특별자치도청",
+          "sido": "제주특별자치도",
+          "sigungu": "제주시",
+          "eupmyeondong": "연동",
+          "ri": null,
+          "road_name": "문연로",
+          "building_main_no": "30",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "322",
+          "lot_sub_no": "1",
+          "road_mgmt_no": "501103349069",
+          "building_mgmt_no": "5011013700103220001006789"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6821,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:55.636Z",
+      "usage_event_id": "7d36deb7-35fd-4eab-a1dc-25ca74b787f5"
+    }
+  }
+}

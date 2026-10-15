@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00444462"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00444462",
+      "corp_name": "명가식품 주식회사",
+      "corp_name_en": "Myungga Foods Co.,Ltd",
+      "stock_name": "명가식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "유창하,김경남",
+      "corporate_registration_number": "1544110011522",
+      "business_registration_number": "3018168391",
+      "address": "충청북도 증평군 도안면 광덕리 457-13",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "043-820-8888",
+      "fax": "043-83-8760",
+      "industry_code": "68112",
+      "established_date": "20030318",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7179,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:31.773Z",
+      "usage_event_id": "a6e895c6-19a0-4324-b9d9-9af5453e4432"
+    }
+  }
+}

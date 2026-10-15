@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00263283"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00263283",
+      "corp_name": "주식회사 시앤드시상사",
+      "corp_name_en": "c&c co., ltd",
+      "stock_name": "시앤드시상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 현 구",
+      "corporate_registration_number": "1101111059305",
+      "business_registration_number": "1208141736",
+      "address": "경기도 성남시 분당구 서현동 249-6",
+      "homepage": "www.casamia.co.kr",
+      "ir_url": null,
+      "phone": "0342-701-7998",
+      "fax": "0342-702-3864",
+      "industry_code": "13213",
+      "established_date": "19940721",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7441,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:22.992Z",
+      "usage_event_id": "554e5fcb-0633-434c-975a-4167adac152e"
+    }
+  }
+}

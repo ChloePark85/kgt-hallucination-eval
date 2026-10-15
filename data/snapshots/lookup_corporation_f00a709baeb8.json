@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00455662"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:04+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00455662",
+      "corp_name": "고은상사(주)",
+      "corp_name_en": null,
+      "stock_name": "고은상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김진성",
+      "corporate_registration_number": "1101110600050",
+      "business_registration_number": "2088109623",
+      "address": "경기도 성남시 분당구 구미동 187-1 체리빌 701",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "031)717-2266",
+      "fax": "031)717-9888",
+      "industry_code": "4112",
+      "established_date": "19890201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7137,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:04.269Z",
+      "usage_event_id": "8a53ae65-06fa-43ab-af06-8d62d15d35bf"
+    }
+  }
+}

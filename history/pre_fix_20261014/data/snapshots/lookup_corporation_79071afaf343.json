@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00362618"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00362618",
+      "corp_name": "용성조선(주)",
+      "corp_name_en": "YONG SUNG SHIPBUILDING CO.LTD",
+      "stock_name": "용성조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김영철",
+      "corporate_registration_number": "1949110002383",
+      "business_registration_number": "6128120910",
+      "address": "경상남도 거제시 사등면 성포리 18",
+      "homepage": "yongsungyard.co.kr",
+      "ir_url": null,
+      "phone": "055-632-6911",
+      "fax": "055-632-6913",
+      "industry_code": "3111",
+      "established_date": "19940110",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7353,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:26.742Z",
+      "usage_event_id": "72a3d2dc-36d6-47fc-a3cd-4b921ef7cf64"
+    }
+  }
+}

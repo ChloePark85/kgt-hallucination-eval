@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00435598"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00435598",
+      "corp_name": "(주)태거산업",
+      "corp_name_en": "TAEGUH IND.CO.LTD",
+      "stock_name": "태거산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이영모",
+      "corporate_registration_number": "1342110027634",
+      "business_registration_number": "1268136115",
+      "address": "경기도 광주시 초월면 지월리 134-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-763-6101",
+      "fax": "031-763-6104",
+      "industry_code": "2629",
+      "established_date": "19981221",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7199,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:14.307Z",
+      "usage_event_id": "7d8af279-1007-4ab6-bd52-4bd4cc1831cc"
+    }
+  }
+}

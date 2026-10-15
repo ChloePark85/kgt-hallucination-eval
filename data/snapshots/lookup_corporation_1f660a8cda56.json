@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00381668"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00381668",
+      "corp_name": "(주)미쯔비시상사",
+      "corp_name_en": "MITSUBISHI CORPORATION",
+      "stock_name": "미쯔비시상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "TAKESHI SAKURAI",
+      "corporate_registration_number": "",
+      "business_registration_number": "7813",
+      "address": "6-3. MARUNOUCHI 2-CHOME. CHITODA-KU. TOKYO. JAPAN",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051)728-4182",
+      "fax": null,
+      "industry_code": "9699",
+      "established_date": "19500401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7303,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:01.728Z",
+      "usage_event_id": "d4074678-df4d-4128-968b-a5399ff1c3bf"
+    }
+  }
+}

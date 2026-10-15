@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246967"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00246967",
+      "corp_name": "태산산업개발주식회사",
+      "corp_name_en": "TAESAN INDUSTRIAL DEVELOPMENT.CO.,LTD",
+      "stock_name": "태산산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이원규",
+      "corporate_registration_number": "1836110013099",
+      "business_registration_number": "1268513823",
+      "address": "경기도 광주시 퇴촌면 광동리 243",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-768-8123",
+      "fax": "031-767-4010",
+      "industry_code": "34011",
+      "established_date": "19971201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7489,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:49.229Z",
+      "usage_event_id": "43d4890f-c8a4-4bcf-89db-bf2d329d58e8"
+    }
+  }
+}

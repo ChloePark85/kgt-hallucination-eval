@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00262381"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00262381",
+      "corp_name": "(주)기삼물산",
+      "corp_name_en": null,
+      "stock_name": "기삼물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최은순",
+      "corporate_registration_number": "1101111102568",
+      "business_registration_number": "",
+      "address": "서울특별시 서초구 서초동 1497-14",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-340-9023",
+      "fax": null,
+      "industry_code": "",
+      "established_date": "",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7447,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:18.578Z",
+      "usage_event_id": "a3a6b291-93c6-4654-a410-1f0257492d86"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00337986"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00337986",
+      "corp_name": "캐피탈 그룹 인터내셔널 인코포레이티드",
+      "corp_name_en": "Capital Group International, Inc.",
+      "stock_name": "캐피탈그룹인터내셔널인코포레이티드",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "Philip de Toledo",
+      "corporate_registration_number": "",
+      "business_registration_number": "95-4154357",
+      "address": "333 South Hope St., 55th Fl., Los Angeles, CA 90071, U.S.A.",
+      "homepage": "www.shinkim.com",
+      "ir_url": null,
+      "phone": "02-316-4203",
+      "fax": "02-756-6226",
+      "industry_code": "64209",
+      "established_date": "19871216",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7371,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:11.689Z",
+      "usage_event_id": "4b1b3f93-113d-496e-8a3c-2c17045363ba"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00197713"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00197713",
+      "corp_name": "주은산업주식회사",
+      "corp_name_en": "Joo Eun Industrial Co., Ltd.",
+      "stock_name": "주은산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이주섭",
+      "corporate_registration_number": "1101110928949",
+      "business_registration_number": "2298108811",
+      "address": "서울특별시 서초구 양재동 트윈타워 A동 2층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3461-3250",
+      "fax": "3461-5356",
+      "industry_code": "41112",
+      "established_date": "19930321",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7609,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:24.884Z",
+      "usage_event_id": "dde8a5f5-4647-4b9c-a0d7-8b710195a70e"
+    }
+  }
+}

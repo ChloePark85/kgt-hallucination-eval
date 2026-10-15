@@ -1,0 +1,33 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "리가켐바이오",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00842619",
+          "corp_name": "리가켐바이오",
+          "stock_code": "141080",
+          "listed": true,
+          "modified_date": "20260504"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6613,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:10.660Z",
+      "usage_event_id": "ad79acd9-59d1-4b2f-a766-71c50560fa0d"
+    }
+  }
+}

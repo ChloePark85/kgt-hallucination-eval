@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00126380"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:24:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-200-7538",
+      "phone": "02-2255-0114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 수원시 영통구  삼성로 129 (매탄동)",
+      "ceo_name": "전영현, 노태문",
+      "homepage": "www.samsung.com/sec",
+      "corp_code": "00126380",
+      "corp_name": "삼성전자(주)",
+      "market_raw": "Y",
+      "stock_code": "005930",
+      "stock_name": "삼성전자",
+      "corp_name_en": "SAMSUNG ELECTRONICS CO,.LTD",
+      "industry_code": "264",
+      "established_date": "19690113",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1248100998",
+      "corporate_registration_number": "1301110006246"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6660,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:24:48.829Z",
+      "usage_event_id": "e4e50f24-c656-47d8-a35c-cf9e73f3c86d"
+    }
+  }
+}

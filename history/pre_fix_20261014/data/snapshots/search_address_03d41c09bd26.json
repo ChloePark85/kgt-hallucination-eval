@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "마포구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:20:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 2,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "서울특별시 마포구 월드컵로 212 (성산동)",
+          "road_address_main": "서울특별시 마포구 월드컵로 212",
+          "road_address_detail": " (성산동)",
+          "jibun_address": "서울특별시 마포구 성산동 370 마포구청",
+          "english_address": "212 World Cup-ro, Mapo-gu, Seoul",
+          "postal_code": "03937",
+          "adm_code": "1144012500",
+          "lawd_code": "11440",
+          "building_name": "마포구청",
+          "sido": "서울특별시",
+          "sigungu": "마포구",
+          "eupmyeondong": "성산동",
+          "ri": null,
+          "road_name": "월드컵로",
+          "building_main_no": "212",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "370",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "114403113018",
+          "building_mgmt_no": "1144012500103700000029118"
+        },
+        {
+          "road_address": "서울특별시 마포구 월드컵로 지하190 (성산동)",
+          "road_address_main": "서울특별시 마포구 월드컵로 지하190",
+          "road_address_detail": " (성산동)",
+          "jibun_address": "서울특별시 마포구 성산동 592 마포구청역",
+          "english_address": "B190 World Cup-ro, Mapo-gu, Seoul",
+          "postal_code": "03938",
+          "adm_code": "1144012500",
+          "lawd_code": "11440",
+          "building_name": "마포구청역",
+          "sido": "서울특별시",
+          "sigungu": "마포구",
+          "eupmyeondong": "성산동",
+          "ri": null,
+          "road_name": "월드컵로",
+          "building_main_no": "190",
+          "building_sub_no": "0",
+          "is_underground": true,
+          "is_mountain_lot": false,
+          "lot_main_no": "592",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "114403113018",
+          "building_mgmt_no": "1144012300104720005000001"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6956,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:20:18.151Z",
+      "usage_event_id": "4208f2f9-06b7-40ca-a54c-50db06c84683"
+    }
+  }
+}

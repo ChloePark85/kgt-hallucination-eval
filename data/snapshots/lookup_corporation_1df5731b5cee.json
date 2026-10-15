@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00447034"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:39+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00447034",
+      "corp_name": "(주)이십일세기종합건설",
+      "corp_name_en": "21st Century construction co.ltd",
+      "stock_name": "이십일세기종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "오병학",
+      "corporate_registration_number": "1801110355536",
+      "business_registration_number": "6068167093",
+      "address": "경상남도 김해시 내동 1121-4 시티빌804호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "055-332-0489",
+      "fax": "055-332-9734",
+      "industry_code": "41210",
+      "established_date": "20010320",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7169,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:39.480Z",
+      "usage_event_id": "9c208da2-ccf7-4aae-912d-90b2c7f2dee5"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00408044"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00408044",
+      "corp_name": "동국산업제일차유동화전문유한회사",
+      "corp_name_en": "Dongkuk Industries First Asset Securitization Specialty Co.",
+      "stock_name": "동국산업제일차유동화전문유한회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박정숙",
+      "corporate_registration_number": "1101140037968",
+      "business_registration_number": "1078616675",
+      "address": "서울특별시 영등포구 여의도동 16-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3787-2238",
+      "fax": null,
+      "industry_code": "64999",
+      "established_date": "20020423",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7271,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:24.408Z",
+      "usage_event_id": "3b0298bd-84b5-4198-9ae4-ba736b8f2f36"
+    }
+  }
+}

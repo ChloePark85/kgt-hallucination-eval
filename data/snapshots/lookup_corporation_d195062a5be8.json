@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00153968"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00153968",
+      "corp_name": "태왕물산주식회사",
+      "corp_name_en": "Tae Wang Mul San Co., Ltd.",
+      "stock_name": "태왕물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "권 성 기",
+      "corporate_registration_number": "1701110012302",
+      "business_registration_number": "5148115597",
+      "address": "대구광역시 남구 대명2동 1800-6",
+      "homepage": "www.taewang.co.kr",
+      "ir_url": null,
+      "phone": "053) 651-7821",
+      "fax": "053) 651-1786",
+      "industry_code": "13213",
+      "established_date": "19810105",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7691,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:27.536Z",
+      "usage_event_id": "c13abadc-9695-4438-b474-1b0611a9d53a"
+    }
+  }
+}

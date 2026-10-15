@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00233112"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00233112",
+      "corp_name": "성우전자주식회사",
+      "corp_name_en": "Sungwoo Electronics",
+      "stock_name": "성우전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "나영열",
+      "corporate_registration_number": "1346110007224",
+      "business_registration_number": "1258118870",
+      "address": "경기도 안성시 미얀면 보체리 404-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "0334)670-7761",
+      "fax": "0334)677-7713",
+      "industry_code": "2611",
+      "established_date": "19960522",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7525,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:24.153Z",
+      "usage_event_id": "cc8164fa-7cf2-471a-9dc9-f92e690d6bab"
+    }
+  }
+}

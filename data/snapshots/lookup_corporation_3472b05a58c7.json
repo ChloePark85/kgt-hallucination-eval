@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00178453"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00178453",
+      "corp_name": "동도섬유 주식회사",
+      "corp_name_en": "Dong Do textile co. ltd",
+      "stock_name": "동도섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김정강",
+      "corporate_registration_number": "1760120004090",
+      "business_registration_number": "5138103555",
+      "address": "경상북도 구미시 공단동 292-30",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "054-461-7717",
+      "fax": "054-462-1122",
+      "industry_code": "13213",
+      "established_date": "19890118",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7637,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:05.752Z",
+      "usage_event_id": "f5ab7963-3b1c-42f3-adc4-8ae4d415dab9"
+    }
+  }
+}

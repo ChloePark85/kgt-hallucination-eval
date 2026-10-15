@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00231442"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00231442",
+      "corp_name": "(주)디지틀조선일보",
+      "corp_name_en": "DigitalChosun",
+      "stock_name": "디지틀조선",
+      "stock_code": "033130",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "김영수",
+      "corporate_registration_number": "1101111201071",
+      "business_registration_number": "1048137808",
+      "address": "서울특별시 중구  세종대로21길 52 (태평로1가)",
+      "homepage": "www.chosun.com",
+      "ir_url": null,
+      "phone": "02-3701-2821",
+      "fax": "02-3701-2999",
+      "industry_code": "631",
+      "established_date": "19951002",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7533,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:17.279Z",
+      "usage_event_id": "cafbd872-befe-40d3-be6b-c95588e01183"
+    }
+  }
+}

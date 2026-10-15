@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00179984"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00179984",
+      "corp_name": "(주)연방건설산업",
+      "corp_name_en": "youn bao",
+      "stock_name": "연방건설산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이연우",
+      "corporate_registration_number": "1243110015382",
+      "business_registration_number": "2078128613",
+      "address": "서울특별시 광진구 중곡동",
+      "homepage": "해당사항없음",
+      "ir_url": null,
+      "phone": "02)2201-1400",
+      "fax": null,
+      "industry_code": "42",
+      "established_date": "19850101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7633,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:08.464Z",
+      "usage_event_id": "00bdced9-ddeb-45ef-93a8-9057867b54cb"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "해운대구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 1,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "부산광역시",
+          "sigungu": "해운대구",
+          "adm_code": "2635010600",
+          "lawd_code": "26350",
+          "road_name": "중동2로",
+          "lot_sub_no": "95",
+          "lot_main_no": "1378",
+          "postal_code": "48095",
+          "eupmyeondong": "중동",
+          "road_address": "부산광역시 해운대구 중동2로 11 (중동)",
+          "road_mgmt_no": "263503133041",
+          "building_name": "해운대구청",
+          "jibun_address": "부산광역시 해운대구 중동 1378-95 해운대구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "11 Jungdong 2-ro, Haeundae-gu, Busan",
+          "is_mountain_lot": false,
+          "building_main_no": "11",
+          "building_mgmt_no": "2635010600113780095002835",
+          "road_address_main": "부산광역시 해운대구 중동2로 11",
+          "road_address_detail": " (중동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 2602,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-15T00:32:00.919Z",
+      "usage_event_id": "449f4cb5-26a4-4322-9029-fd05436a0a5d"
+    }
+  }
+}

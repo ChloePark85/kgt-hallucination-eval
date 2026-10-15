@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00101637"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00101637",
+      "corp_name": "그로웰전자(주)",
+      "corp_name_en": "Growell Electronics, Inc.",
+      "stock_name": "그로웰전자",
+      "stock_code": "009220",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박정서",
+      "corporate_registration_number": "1101110151821",
+      "business_registration_number": "2048125164",
+      "address": "서울특별시 금천구 가산동 319-8",
+      "homepage": "www.growell.co.kr",
+      "ir_url": null,
+      "phone": "02  -854 -0162",
+      "fax": "02  -866 -0956",
+      "industry_code": "2642",
+      "established_date": "19730906",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7859,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:26.139Z",
+      "usage_event_id": "9ca79ec6-c741-43af-b13f-a03577b32498"
+    }
+  }
+}

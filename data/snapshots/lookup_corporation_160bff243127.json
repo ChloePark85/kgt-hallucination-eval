@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00300432"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:41+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00300432",
+      "corp_name": "비아이캐피탈주식회사",
+      "corp_name_en": "Best investment capital",
+      "stock_name": "비아이캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한은섭",
+      "corporate_registration_number": "1101111779664",
+      "business_registration_number": "1018150549",
+      "address": "서울특별시 조로구 인의동 28-9",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3672-0397",
+      "fax": "3672-0398",
+      "industry_code": "66199",
+      "established_date": "19990929",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7415,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:41.000Z",
+      "usage_event_id": "741c0129-7aa7-416f-b531-d95e533523bd"
+    }
+  }
+}

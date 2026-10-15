@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00273545"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00273545",
+      "corp_name": "(주)철우네식품",
+      "corp_name_en": "CHUL WOO NE FOOD CO.",
+      "stock_name": "철우네식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김영각",
+      "corporate_registration_number": "1159110019078",
+      "business_registration_number": "2148624323",
+      "address": "경기도 고양시 일산구 구산동 1519-45",
+      "homepage": "www.chulwoo.com",
+      "ir_url": null,
+      "phone": "0344-923-0011",
+      "fax": "0344-923-0012",
+      "industry_code": "4632",
+      "established_date": "19980702",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7429,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:31.278Z",
+      "usage_event_id": "c6405cfa-8eb4-42fb-a0d0-244d8ead8145"
+    }
+  }
+}

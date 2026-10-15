@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00836706"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00836706",
+      "corp_name": "도신해운 주식회사",
+      "corp_name_en": "DSMARITIME CO.,LTD.",
+      "stock_name": "도신해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "와타나베 모토히로",
+      "corporate_registration_number": "1801110567777",
+      "business_registration_number": "6058179413",
+      "address": "부산광역시 동구 초량3동 1193-1 흥국생명빌딩 13층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-710-0612",
+      "fax": "051-441-7611",
+      "industry_code": "76190",
+      "established_date": "20061010",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7034,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:19.725Z",
+      "usage_event_id": "e063a276-8882-4b76-b760-1b6fc379ef74"
+    }
+  }
+}

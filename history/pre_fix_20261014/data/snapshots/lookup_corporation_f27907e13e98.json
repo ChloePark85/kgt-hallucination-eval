@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00121987"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00121987",
+      "corp_name": "주식회사 프라임상호저축은행",
+      "corp_name_en": "PRIME Savings Bank Co. LTD.",
+      "stock_name": "프라임상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김시승",
+      "corporate_registration_number": "1101110135445",
+      "business_registration_number": "1168106900",
+      "address": "서울특별시 강남구 논현동 278-3 ",
+      "homepage": "www.primebanking.co.kr",
+      "ir_url": null,
+      "phone": "02)6233-7000",
+      "fax": "02)6233-7110",
+      "industry_code": "64132",
+      "established_date": "19721026",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7777,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:25.473Z",
+      "usage_event_id": "2287247d-19c5-4fbb-b2e0-df16a57bafcd"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00410720"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00410720",
+      "corp_name": "탑종합건설주식회사",
+      "corp_name_en": "Top construction co., LTD.",
+      "stock_name": "탑종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤영철",
+      "corporate_registration_number": "1350110098323",
+      "business_registration_number": "1348148932",
+      "address": "경기도 안산시 고잔동 527-9 중앙오피스텔 402호",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-480-4100",
+      "fax": "031-480-4104",
+      "industry_code": "4112",
+      "established_date": "19991208",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7263,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:29.829Z",
+      "usage_event_id": "6416697d-4c9d-428e-9bc3-67831d18bb68"
+    }
+  }
+}

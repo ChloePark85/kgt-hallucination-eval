@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "카카오",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "00258801",
+          "corp_name": "카카오",
+          "stock_code": "035720",
+          "modified_date": "20240329"
+        },
+        {
+          "listed": false,
+          "corp_code": "00918444",
+          "corp_name": "카카오",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": true,
+          "corp_code": "00130949",
+          "corp_name": "카카오엠",
+          "stock_code": "016170",
+          "modified_date": "20180918"
+        },
+        {
+          "listed": true,
+          "corp_code": "01244601",
+          "corp_name": "카카오페이",
+          "stock_code": "377300",
+          "modified_date": "20260308"
+        },
+        {
+          "listed": true,
+          "corp_code": "01133217",
+          "corp_name": "카카오뱅크",
+          "stock_code": "323410",
+          "modified_date": "20260313"
+        },
+        {
+          "listed": true,
+          "corp_code": "01137383",
+          "corp_name": "카카오게임즈",
+          "stock_code": "293490",
+          "modified_date": "20260623"
+        },
+        {
+          "listed": false,
+          "corp_code": "01143205",
+          "corp_name": "카카오랩",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "01144329",
+          "corp_name": "카카오게임즈홀딩스",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "01359569",
+          "corp_name": "아산카카오메디컬데이터",
+          "stock_code": null,
+          "modified_date": "20190319"
+        },
+        {
+          "listed": false,
+          "corp_code": "01248795",
+          "corp_name": "카카오메이커스",
+          "stock_code": null,
+          "modified_date": "20190418"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6651,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:25:09.396Z",
+      "usage_event_id": "0c846df7-5214-4d1c-9b2d-1b2918fbb962"
+    }
+  }
+}

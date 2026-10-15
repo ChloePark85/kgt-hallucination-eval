@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164830"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164830",
+      "corp_name": "에이치디한국조선해양(주)",
+      "corp_name_en": "HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING CO., LTD.",
+      "stock_name": "HD한국조선해양",
+      "stock_code": "009540",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정기선, 김형관 (각자 대표이사)",
+      "corporate_registration_number": "1812110000386",
+      "business_registration_number": "6208100012",
+      "address": "경기도 성남시 분당구 분당수서로 477 정자동, HD현대그룹 글로벌 R&D센터",
+      "homepage": "www.ksoe.co.kr",
+      "ir_url": null,
+      "phone": "02-1811-9114",
+      "fax": "02-746-4662",
+      "industry_code": "64992",
+      "established_date": "19731228",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7669,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:42.948Z",
+      "usage_event_id": "cff76766-8f76-4e71-8f71-f776e1d9e853"
+    }
+  }
+}

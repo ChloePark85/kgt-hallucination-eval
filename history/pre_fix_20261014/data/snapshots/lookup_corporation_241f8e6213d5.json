@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00148188"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00148188",
+      "corp_name": "(주)으뜸상호저축은행",
+      "corp_name_en": "EUTTEUM MUTUAL SAVINGS BANK",
+      "stock_name": "으뜸상호저축은행",
+      "stock_code": "032150",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김종태,한효섭",
+      "corporate_registration_number": "2201110001312",
+      "business_registration_number": "6168100634",
+      "address": "제주특별자치도 제주시 이도1동 1289-15번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "064-720-3360",
+      "fax": "064-720-3399",
+      "industry_code": "64132",
+      "established_date": "19741121",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7707,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:16.011Z",
+      "usage_event_id": "4e826c6a-446f-4481-b01f-255774aadfc1"
+    }
+  }
+}

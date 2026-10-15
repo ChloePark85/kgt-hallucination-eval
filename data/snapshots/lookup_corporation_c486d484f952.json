@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00383444"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00383444",
+      "corp_name": "쥬리히 캐피탈 매니지먼트 인크",
+      "corp_name_en": "Zurich Capital Management, Inc.",
+      "stock_name": "쥬리히캐피탈매니지먼트인크",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "Jack Cager",
+      "corporate_registration_number": "",
+      "business_registration_number": "12535",
+      "address": "One Chase Manhattan Plaza, New York, NY 10005 USA",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(212)208-3600",
+      "fax": "(212)208-3601",
+      "industry_code": "64209",
+      "established_date": "19621231",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7295,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:07.280Z",
+      "usage_event_id": "83247db7-1f2e-44b4-b258-52999fb1a083"
+    }
+  }
+}

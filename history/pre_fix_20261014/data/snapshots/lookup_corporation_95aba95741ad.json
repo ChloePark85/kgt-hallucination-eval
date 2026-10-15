@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00330451"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00330451",
+      "corp_name": "미쓰이물산(주)",
+      "corp_name_en": "MITSUI & CO.,LTD.",
+      "stock_name": "미쓰이물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "씨이즈 신지로",
+      "corporate_registration_number": "",
+      "business_registration_number": "",
+      "address": "서울특별시 종로구 내자동 세양빌딩",
+      "homepage": "www.inptra.mitsui.co.kr",
+      "ir_url": null,
+      "phone": "02-3703-1209",
+      "fax": "02-737-9091",
+      "industry_code": "4610",
+      "established_date": "19470725",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7377,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:07.476Z",
+      "usage_event_id": "0b843b40-3bdb-4af1-ad74-b93d78dec2ba"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "학교폭력예방 및 대책에 관한 법률",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "학교폭력예방 및 대책에 관한 법률",
+          "law_id": "009620",
+          "law_type": "법률",
+          "ministry": "교육부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=286361&type=HTML&mobileYn=&efYd=20260602",
+          "is_current": true,
+          "short_name": "학교폭력예방법",
+          "law_serial_no": "286361",
+          "revision_type": "일부개정",
+          "promulgation_no": "21723",
+          "enforcement_date": "20260602",
+          "promulgation_date": "20260602"
+        },
+        {
+          "name": "학교폭력예방 및 대책에 관한 법률 시행령",
+          "law_id": "009741",
+          "law_type": "대통령령",
+          "ministry": "교육부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280967&type=HTML&mobileYn=&efYd=20260102",
+          "is_current": true,
+          "short_name": "학교폭력예방법 시행령",
+          "law_serial_no": "280967",
+          "revision_type": "타법개정",
+          "promulgation_no": "35947",
+          "enforcement_date": "20260102",
+          "promulgation_date": "20251230"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2481,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:51.644Z",
+      "usage_event_id": "ec5b9381-062d-4294-b7c8-bc13e4b44209"
+    }
+  }
+}

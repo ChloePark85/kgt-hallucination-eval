@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00690681"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00690681",
+      "corp_name": "(주)에스앤에스식품",
+      "corp_name_en": "SNS Foods Co.,Ltd.",
+      "stock_name": "에스앤에스식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이철호",
+      "corporate_registration_number": "1801110364941",
+      "business_registration_number": "6038145881",
+      "address": "부산광역시 사하구 장림동 1085-8",
+      "homepage": "www.snsfood.co.kr",
+      "ir_url": null,
+      "phone": "051-262-6502",
+      "fax": "051-262-6504",
+      "industry_code": "102",
+      "established_date": "20010609",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7082,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:44.259Z",
+      "usage_event_id": "4b47cf3f-1c7f-4595-ae52-958088a99fd0"
+    }
+  }
+}

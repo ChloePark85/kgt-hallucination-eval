@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164788"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164788",
+      "corp_name": "현대모비스(주)",
+      "corp_name_en": "HYUNDAI MOBIS CO.,LTD",
+      "stock_name": "현대모비스",
+      "stock_code": "012330",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정의선, 이규석",
+      "corporate_registration_number": "1101110215536",
+      "business_registration_number": "1018116406",
+      "address": "서울 강남구 역삼1동 로담코빌딩 140-2",
+      "homepage": "www.mobis.com",
+      "ir_url": "www.mobis.com",
+      "phone": "02-2018-5114",
+      "fax": "02-2173-5223",
+      "industry_code": "303",
+      "established_date": "19770701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7958,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:20.929Z",
+      "usage_event_id": "cf1824c0-3452-4008-a16b-57196b29bb21"
+    }
+  }
+}

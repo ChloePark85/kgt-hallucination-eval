@@ -1,0 +1,20 @@
+{
+  "model": "qwen3.8:27b",
+  "digest": "47951e4a666180bc2aedfc93c169472f2de783696fe196efbf063f5730ecf163",
+  "details": {
+    "parent_model": "",
+    "format": "safetensors",
+    "family": "qwen3_5",
+    "families": null,
+    "parameter_size": "27.8B",
+    "quantization_level": "nvfp4",
+    "runner": "mlx"
+  },
+  "capabilities": [
+    "completion",
+    "vision",
+    "tools",
+    "thinking"
+  ],
+  "recorded_at": "2026-10-15T09:27:15+0900"
+}

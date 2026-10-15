@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00370334"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:50+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00370334",
+      "corp_name": "이에이치상사(주)",
+      "corp_name_en": "E.H Co.,Ltd.",
+      "stock_name": "이에이치상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김경식",
+      "corporate_registration_number": "1344110011443",
+      "business_registration_number": "1268131328",
+      "address": "충청북도 진천군 광혜원면 회죽리 210",
+      "homepage": "www.ehco21.co.kr",
+      "ir_url": null,
+      "phone": "043-535-4211",
+      "fax": "043-535-4213",
+      "industry_code": "2049",
+      "established_date": "19971217",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7319,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:50.595Z",
+      "usage_event_id": "5fac70c7-6e84-4fbf-badd-00074970f55f"
+    }
+  }
+}

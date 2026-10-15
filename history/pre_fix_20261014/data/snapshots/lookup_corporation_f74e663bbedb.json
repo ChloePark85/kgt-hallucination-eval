@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00436375"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00436375",
+      "corp_name": "주식회사맘모스산업개발",
+      "corp_name_en": null,
+      "stock_name": "맘모스산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "오 성순",
+      "corporate_registration_number": "1101111243792",
+      "business_registration_number": "2118613074",
+      "address": "서울특별시 강남구 청담1동 정화빌딩 1102",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-517-7722",
+      "fax": "02-511-2266",
+      "industry_code": "41210",
+      "established_date": "19960225",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7195,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:17.149Z",
+      "usage_event_id": "5ddc8b94-1245-40d5-8e6e-792dbfba2151"
+    }
+  }
+}

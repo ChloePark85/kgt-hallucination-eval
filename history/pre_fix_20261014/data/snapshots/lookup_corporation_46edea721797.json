@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00209647"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00209647",
+      "corp_name": "대웅전기산업(주)",
+      "corp_name_en": "DAEWOONG ELECTRIC INDUSTRIAL.CO.LTD.",
+      "stock_name": "대웅전기산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김용진",
+      "corporate_registration_number": "1101110638704",
+      "business_registration_number": "2188116010",
+      "address": "경기도 용인시 고림동 220",
+      "homepage": "www.dae-woong.co.kr",
+      "ir_url": null,
+      "phone": "031-321-9340",
+      "fax": "031-321-9363",
+      "industry_code": "28512",
+      "established_date": "19890714",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7569,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:52.360Z",
+      "usage_event_id": "f8fef60d-5650-44dc-8249-b99bcdf21edf"
+    }
+  }
+}

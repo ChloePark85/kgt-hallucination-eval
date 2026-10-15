@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00333342"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00333342",
+      "corp_name": "(주)대경전자",
+      "corp_name_en": "DAEKYUNG ELECTRO MEDICAL LTD.",
+      "stock_name": "대경전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강철영",
+      "corporate_registration_number": "1154110012030",
+      "business_registration_number": "1278167270",
+      "address": "경기도 포천군 소흘읍 무봉리 393-6",
+      "homepage": "www.daekyungmed.co.kr",
+      "ir_url": null,
+      "phone": "031-543-5054",
+      "fax": "031-543-5059",
+      "industry_code": "27199",
+      "established_date": "19960622",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7375,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:08.888Z",
+      "usage_event_id": "aaec18da-84c6-4285-b75d-26eb124c145d"
+    }
+  }
+}

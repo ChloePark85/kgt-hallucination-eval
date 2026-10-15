@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00596862"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00596862",
+      "corp_name": "주식회사 파랑새상호저축은행",
+      "corp_name_en": "PARANGSAE MUTUAL SAVINGS BANK",
+      "stock_name": "파랑새상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김득성",
+      "corporate_registration_number": "1801110551895",
+      "business_registration_number": "6178161352",
+      "address": "부산광역시 해운대구 좌동 1466-4",
+      "homepage": "www.parangsaebank.co.kr",
+      "ir_url": null,
+      "phone": "051-713-1000",
+      "fax": "051-713-1010",
+      "industry_code": "64132",
+      "established_date": "20060526",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7102,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:29.757Z",
+      "usage_event_id": "cb02ed9f-b455-450e-a980-456aea6371b4"
+    }
+  }
+}

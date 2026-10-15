@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01797440"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01797440",
+      "corp_name": "에스케이증권제11호기업인수목적 주식회사",
+      "corp_name_en": "SK Securities No.11 Special Purpose Acquisition Company",
+      "stock_name": "에스케이증권제11호기업인수목적",
+      "stock_code": "472230",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최상우",
+      "corporate_registration_number": "1101118782032",
+      "business_registration_number": "4058602978",
+      "address": "서울특별시 영등포구 국제금융로8길 31 &nbsp",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3773-8591",
+      "fax": null,
+      "industry_code": "66199",
+      "established_date": "20231102",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6992,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:48.854Z",
+      "usage_event_id": "d8f6edea-c3b5-4f7f-8519-4f3e8cbd0a7e"
+    }
+  }
+}

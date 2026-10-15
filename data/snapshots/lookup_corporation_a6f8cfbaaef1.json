@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00233741"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00233741",
+      "corp_name": "한이해운주식회사",
+      "corp_name_en": "Hanii Shipping Corporation",
+      "stock_name": "한이해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "오덕근",
+      "corporate_registration_number": "1101110856207",
+      "business_registration_number": "1018124963",
+      "address": "서울특별시 종로구 운니동 98-78",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-766-8950",
+      "fax": "02-744-6277",
+      "industry_code": "50112",
+      "established_date": "19920506",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7523,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:25.506Z",
+      "usage_event_id": "1b799b37-d2e4-4270-afa9-f5392a5510d2"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00163682"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:40+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00163682",
+      "corp_name": "메리츠증권(주)",
+      "corp_name_en": "MERITZ SECURITIES CO.,LTD",
+      "stock_name": "메리츠증권",
+      "stock_code": "008560",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장원재,김종민",
+      "corporate_registration_number": "1101110141301",
+      "business_registration_number": "1168122502",
+      "address": "서울특별시 영등포구 국제금융로 10 (여의도동, 서울국제금융센터)",
+      "homepage": "www.imeritz.com",
+      "ir_url": null,
+      "phone": "02-785-6611",
+      "fax": "02-6454-3527",
+      "industry_code": "66121",
+      "established_date": "19730224",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7673,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:40.106Z",
+      "usage_event_id": "483a80f8-362e-40c8-a3a4-ce907a560f3b"
+    }
+  }
+}

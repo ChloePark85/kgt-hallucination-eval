@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "증권",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00797674",
+          "corp_name": "대우증권그린코리아기업인수목적회사",
+          "stock_code": "121910",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00804114",
+          "corp_name": "대신증권그로쓰알파기업인수목적",
+          "stock_code": "123550",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00115038",
+          "corp_name": "하나IB증권",
+          "stock_code": "003330",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00162142",
+          "corp_name": "동원증권",
+          "stock_code": "005890",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00163178",
+          "corp_name": "우리증권",
+          "stock_code": "001280",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00311030",
+          "corp_name": "미래에셋증권",
+          "stock_code": "037620",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00116860",
+          "corp_name": "NH농협증권",
+          "stock_code": "016420",
+          "listed": true,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00131054",
+          "corp_name": "유진증권",
+          "stock_code": "001200",
+          "listed": true,
+          "modified_date": "20230110"
+        },
+        {
+          "corp_code": "00163682",
+          "corp_name": "메리츠증권",
+          "stock_code": "008560",
+          "listed": true,
+          "modified_date": "20240725"
+        },
+        {
+          "corp_code": "00113359",
+          "corp_name": "교보증권",
+          "stock_code": "030610",
+          "listed": true,
+          "modified_date": "20230102"
+        },
+        {
+          "corp_code": "00111722",
+          "corp_name": "미래에셋증권",
+          "stock_code": "006800",
+          "listed": true,
+          "modified_date": "20231207"
+        },
+        {
+          "corp_code": "00145190",
+          "corp_name": "유화증권",
+          "stock_code": "003460",
+          "listed": true,
+          "modified_date": "20250327"
+        },
+        {
+          "corp_code": "01797440",
+          "corp_name": "SK증권제11호스팩",
+          "stock_code": "472230",
+          "listed": true,
+          "modified_date": "20240304"
+        },
+        {
+          "corp_code": "00131850",
+          "corp_name": "SK증권",
+          "stock_code": "001510",
+          "listed": true,
+          "modified_date": "20240326"
+        },
+        {
+          "corp_code": "00138321",
+          "corp_name": "신한투자증권",
+          "stock_code": "008670",
+          "listed": true,
+          "modified_date": "20250110"
+        },
+        {
+          "corp_code": "01801822",
+          "corp_name": "SK증권제13호스팩",
+          "stock_code": "473950",
+          "listed": true,
+          "modified_date": "20240725"
+        },
+        {
+          "corp_code": "00960641",
+          "corp_name": "한국투자패러랠유전해외자원개발특별자산투자회사1호(지분증권)",
+          "stock_code": "168490",
+          "listed": true,
+          "modified_date": "20250401"
+        },
+        {
+          "corp_code": "01798722",
+          "corp_name": "SK증권제12호스팩",
+          "stock_code": "473000",
+          "listed": true,
+          "modified_date": "20240507"
+        },
+        {
+          "corp_code": "00104856",
+          "corp_name": "삼성증권",
+          "stock_code": "016360",
+          "listed": true,
+          "modified_date": "20240322"
+        },
+        {
+          "corp_code": "00137997",
+          "corp_name": "현대차증권",
+          "stock_code": "001500",
+          "listed": true,
+          "modified_date": "20240322"
+        },
+        {
+          "corp_code": "00117601",
+          "corp_name": "유안타증권",
+          "stock_code": "003470",
+          "listed": true,
+          "modified_date": "20240401"
+        },
+        {
+          "corp_code": "00296290",
+          "corp_name": "키움증권",
+          "stock_code": "039490",
+          "listed": true,
+          "modified_date": "20260317"
+        },
+        {
+          "corp_code": "00123772",
+          "corp_name": "부국증권",
+          "stock_code": "001270",
+          "listed": true,
+          "modified_date": "20260306"
+        },
+        {
+          "corp_code": "00110893",
+          "corp_name": "대신증권",
+          "stock_code": "003540",
+          "listed": true,
+          "modified_date": "20260325"
+        },
+        {
+          "corp_code": "00330424",
+          "corp_name": "LS증권",
+          "stock_code": "078020",
+          "listed": true,
+          "modified_date": "20260325"
+        },
+        {
+          "corp_code": "01725577",
+          "corp_name": "에스케이증권제9호기업인수목적",
+          "stock_code": "455910",
+          "listed": true,
+          "modified_date": "20260304"
+        },
+        {
+          "corp_code": "01671197",
+          "corp_name": "에스케이증권제8호기업인수목적",
+          "stock_code": "435870",
+          "listed": true,
+          "modified_date": "20250516"
+        },
+        {
+          "corp_code": "00907013",
+          "corp_name": "한국투자ANKOR유전해외자원개발특별자산투자회사1호(지분증권)",
+          "stock_code": "152550",
+          "listed": true,
+          "modified_date": "20260504"
+        },
+        {
+          "corp_code": "00115694",
+          "corp_name": "DB증권",
+          "stock_code": "016610",
+          "listed": true,
+          "modified_date": "20250604"
+        },
+        {
+          "corp_code": "00164876",
+          "corp_name": "케이비증권",
+          "stock_code": "003450",
+          "listed": true,
+          "modified_date": "20260325"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7874,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:09:08.890Z",
+      "usage_event_id": "7806216d-7670-4628-99e0-6c32fcc50d58"
+    }
+  }
+}

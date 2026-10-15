@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00577557"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00577557",
+      "corp_name": "(주) 협진상사",
+      "corp_name_en": "HYUP-JIN MEDICAL CO.,LTD",
+      "stock_name": "협진상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "심영근",
+      "corporate_registration_number": "1101111852840",
+      "business_registration_number": "1108144129",
+      "address": "서울특별시 강서구 방화1동 452-5 동현빌딩 5층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-2661-3300",
+      "fax": "02-2661-5628",
+      "industry_code": "46441",
+      "established_date": "20000201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7106,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:27.047Z",
+      "usage_event_id": "74429f25-18ac-465e-ba57-ac0fd0bc52a3"
+    }
+  }
+}

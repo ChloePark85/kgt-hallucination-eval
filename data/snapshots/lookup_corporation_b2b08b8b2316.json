@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00224381"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00224381",
+      "corp_name": "두올상사주식회사",
+      "corp_name_en": "DUAL TRADING CO., LTD",
+      "stock_name": "두올상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조 전 기",
+      "corporate_registration_number": "1812110010806",
+      "business_registration_number": "6208102475",
+      "address": "울산광역시 북구 효문동 286",
+      "homepage": "WWW.IDUAL.CO.KR",
+      "ir_url": null,
+      "phone": "(052) 288-0001~5",
+      "fax": "(052) 289-0999",
+      "industry_code": "30",
+      "established_date": "19890523",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7547,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:07.690Z",
+      "usage_event_id": "47cd042a-81a9-408a-a555-0188e286e148"
+    }
+  }
+}

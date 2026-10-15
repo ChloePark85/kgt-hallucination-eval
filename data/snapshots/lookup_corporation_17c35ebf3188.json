@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00409928"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00409928",
+      "corp_name": "(주)조한도시개발",
+      "corp_name_en": null,
+      "stock_name": "조한도시개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조영관",
+      "corporate_registration_number": "1101111517618",
+      "business_registration_number": "1108138781",
+      "address": "서울특별시 서대문구 홍제1동 334-87",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-394-0524",
+      "fax": "02-394-4485",
+      "industry_code": "68121",
+      "established_date": "19980227",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7265,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:28.467Z",
+      "usage_event_id": "fcd227a0-038e-48e2-9ab8-5f3fdeb4b495"
+    }
+  }
+}

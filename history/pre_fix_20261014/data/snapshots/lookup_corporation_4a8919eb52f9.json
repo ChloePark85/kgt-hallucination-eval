@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00143439"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00143439",
+      "corp_name": "우학물산주식회사",
+      "corp_name_en": "woohak co.ltd...",
+      "stock_name": "우학물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박송웅",
+      "corporate_registration_number": "1101110058895",
+      "business_registration_number": "2018133044",
+      "address": "서울특별시 중구 명동2가 33-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "776-4535",
+      "fax": "318-4397",
+      "industry_code": "68112",
+      "established_date": "19651109",
+      "fiscal_year_end_month": "09"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7721,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:06.429Z",
+      "usage_event_id": "bdaa111a-027c-4e85-b0ac-1aa503ca1f7e"
+    }
+  }
+}

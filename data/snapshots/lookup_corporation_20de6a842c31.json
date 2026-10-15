@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00425528"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:56+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00425528",
+      "corp_name": "부산유조선주식회사",
+      "corp_name_en": "PUSAN TANKER CO.,LTD",
+      "stock_name": "부산유조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이우근",
+      "corporate_registration_number": "1801110010742",
+      "business_registration_number": "6018108065",
+      "address": "부산광역시 중구 중앙동3가1번지 부산우체국12층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-469-6222",
+      "fax": "051-469-1228",
+      "industry_code": "50112",
+      "established_date": "19610724",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7225,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:56.102Z",
+      "usage_event_id": "cb09e4a5-0051-40dc-a5a2-fb7b182f9c6e"
+    }
+  }
+}

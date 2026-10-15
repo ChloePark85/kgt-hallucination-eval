@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00412861"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00412861",
+      "corp_name": "국제금속산업",
+      "corp_name_en": "Kukje metal",
+      "stock_name": "국제금속산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이성묵",
+      "corporate_registration_number": "1115110027130",
+      "business_registration_number": "1278128689",
+      "address": "충청남도 당진군 합덕읍 석우리 662-2",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "041-363-2766",
+      "fax": "041-363-2768",
+      "industry_code": "28302",
+      "established_date": "19981207",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7261,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:31.214Z",
+      "usage_event_id": "5a192b48-7457-4eb5-ae4d-41ac3e6a7098"
+    }
+  }
+}

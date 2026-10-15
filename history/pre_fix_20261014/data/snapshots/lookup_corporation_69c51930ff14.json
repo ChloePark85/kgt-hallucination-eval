@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00174129"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00174129",
+      "corp_name": "(주)제일저축은행",
+      "corp_name_en": "Jeil Savings Bank",
+      "stock_name": "제일저축은행",
+      "stock_code": "024100",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이용준",
+      "corporate_registration_number": "1101110090350",
+      "business_registration_number": "2158133698",
+      "address": "서울특별시 송파구 가락동 99-3",
+      "homepage": "www.jeilbank.co.kr",
+      "ir_url": null,
+      "phone": "02-405-2000",
+      "fax": "02)449-8457",
+      "industry_code": "64131",
+      "established_date": "19680622",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7647,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:58.237Z",
+      "usage_event_id": "d166eb76-6dcb-4b23-8a08-e964724cff0f"
+    }
+  }
+}

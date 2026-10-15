@@ -1,0 +1,96 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "솔브레인",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "listed": true,
+          "corp_code": "01489648",
+          "corp_name": "솔브레인",
+          "stock_code": "357780",
+          "modified_date": "20250905"
+        },
+        {
+          "listed": true,
+          "corp_code": "00247975",
+          "corp_name": "솔브레인홀딩스",
+          "stock_code": "036830",
+          "modified_date": "20250317"
+        },
+        {
+          "listed": false,
+          "corp_code": "01057193",
+          "corp_name": "솔브레인나노텍",
+          "stock_code": null,
+          "modified_date": "20170630"
+        },
+        {
+          "listed": false,
+          "corp_code": "00916093",
+          "corp_name": "솔브레인멤시스",
+          "stock_code": null,
+          "modified_date": "20190225"
+        },
+        {
+          "listed": false,
+          "corp_code": "00875042",
+          "corp_name": "솔브레인에스엘디",
+          "stock_code": null,
+          "modified_date": "20220727"
+        },
+        {
+          "listed": false,
+          "corp_code": "00122180",
+          "corp_name": "솔브레인저축은행",
+          "stock_code": null,
+          "modified_date": "20220216"
+        },
+        {
+          "listed": false,
+          "corp_code": "01142932",
+          "corp_name": "솔브레인옵토스",
+          "stock_code": null,
+          "modified_date": "20220222"
+        },
+        {
+          "listed": false,
+          "corp_code": "01832664",
+          "corp_name": "솔브레인네트워크",
+          "stock_code": null,
+          "modified_date": "20240510"
+        },
+        {
+          "listed": false,
+          "corp_code": "01223778",
+          "corp_name": "솔브레인라사",
+          "stock_code": null,
+          "modified_date": "20260223"
+        },
+        {
+          "listed": false,
+          "corp_code": "01969065",
+          "corp_name": "솔브레인멤시스",
+          "stock_code": null,
+          "modified_date": "20251216"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 6602,
+      "cache_hit": true,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-14T02:26:25.197Z",
+      "usage_event_id": "03594581-c6e4-467d-970f-d930f5905fa8"
+    }
+  }
+}

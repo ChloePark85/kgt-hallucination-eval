@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00356361"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:11+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00356361",
+      "corp_name": "(주)LG화학",
+      "corp_name_en": "LG CHEM LTD",
+      "stock_name": "LG화학",
+      "stock_code": "051910",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "김동춘",
+      "corporate_registration_number": "1101112207995",
+      "business_registration_number": "1078198139",
+      "address": "서울특별시 영등포구  여의대로 128",
+      "homepage": "www.lgchem.com",
+      "ir_url": null,
+      "phone": "02-3777-1114",
+      "fax": "02-3773-7813",
+      "industry_code": "20111",
+      "established_date": "20010401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7964,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:11.234Z",
+      "usage_event_id": "8d49c00b-a06a-48c8-a15f-582d457ca758"
+    }
+  }
+}

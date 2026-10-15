@@ -1,0 +1,47 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "파마리서치",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00970453",
+          "corp_name": "파마리서치",
+          "stock_code": "214450",
+          "listed": true,
+          "modified_date": "20260330"
+        },
+        {
+          "corp_code": "01066058",
+          "corp_name": "파마리서치바이오",
+          "stock_code": "217950",
+          "listed": true,
+          "modified_date": "20260224"
+        },
+        {
+          "corp_code": "02013956",
+          "corp_name": "파마리서치메디케어",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20260424"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7923,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:08:08.046Z",
+      "usage_event_id": "8cf44145-85a5-49f9-9a74-8baabd57fdc9"
+    }
+  }
+}

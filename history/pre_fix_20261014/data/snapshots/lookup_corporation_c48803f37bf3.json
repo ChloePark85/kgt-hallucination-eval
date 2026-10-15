@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00174138"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00174138",
+      "corp_name": "주식회사 에이스상호저축은행",
+      "corp_name_en": "ACE MUTUAL SAVINGS BANK",
+      "stock_name": "에이스상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤영규",
+      "corporate_registration_number": "1201110001462",
+      "business_registration_number": "1318106442",
+      "address": "인천광역시 남동구 구월동 1140-11 에이스저축은행",
+      "homepage": "www.aceibank.com",
+      "ir_url": null,
+      "phone": "032-421-7000",
+      "fax": "032-429-9783",
+      "industry_code": "64132",
+      "established_date": "19721030",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7645,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:59.589Z",
+      "usage_event_id": "3c493ae4-b952-4c70-89d9-1322dea131e9"
+    }
+  }
+}

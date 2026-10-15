@@ -1,0 +1,52 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "영통구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "total": 1,
+      "page": 1,
+      "results": [
+        {
+          "road_address": "경기도 수원시 영통구 효원로 407 (매탄동)",
+          "road_address_main": "경기도 수원시 영통구 효원로 407",
+          "road_address_detail": " (매탄동)",
+          "jibun_address": "경기도 수원시 영통구 매탄동 1268 영통구청",
+          "english_address": "407 Hyowon-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+          "postal_code": "16545",
+          "adm_code": "4111710100",
+          "lawd_code": "41117",
+          "building_name": "영통구청",
+          "sido": "경기도",
+          "sigungu": "수원시 영통구",
+          "eupmyeondong": "매탄동",
+          "ri": null,
+          "road_name": "효원로",
+          "building_main_no": "407",
+          "building_sub_no": "0",
+          "is_underground": false,
+          "is_mountain_lot": false,
+          "lot_main_no": "1268",
+          "lot_sub_no": "0",
+          "road_mgmt_no": "411173176021",
+          "building_mgmt_no": "4111710100112680000001760"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6865,
+      "cache_hit": false,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-12T17:21:16.618Z",
+      "usage_event_id": "a150a507-6c46-4f63-8bda-4e1fca90f0f2"
+    }
+  }
+}

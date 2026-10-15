@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00114686"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:05+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00114686",
+      "corp_name": "(주)동구바이오제약",
+      "corp_name_en": "DongKoo Bio & Pharma Co., Ltd.",
+      "stock_name": "동구바이오제약",
+      "stock_code": "006620",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "조용준",
+      "corporate_registration_number": "1101110352156",
+      "business_registration_number": "1138103336",
+      "address": "서울특별시 송파구 법원로 114, B동 14층",
+      "homepage": "www.dongkoo.com",
+      "ir_url": null,
+      "phone": "02-2684-5421",
+      "fax": "02-2681-1880",
+      "industry_code": "212",
+      "established_date": "19830701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7805,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:05.138Z",
+      "usage_event_id": "252f7cdc-b61a-4e43-9c0e-8c3b6b4ba546"
+    }
+  }
+}

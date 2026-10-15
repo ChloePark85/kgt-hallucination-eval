@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00301529"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00301529",
+      "corp_name": "캐피탈코리아벤처주식회사",
+      "corp_name_en": "Capital Korea Venture Corporation",
+      "stock_name": "캐피탈코리아벤처",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김도용",
+      "corporate_registration_number": "1801110273572",
+      "business_registration_number": "6048139081",
+      "address": "부산광역시 부산진구 범천동 878-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)538-3271",
+      "fax": "02)539-7610",
+      "industry_code": "64209",
+      "established_date": "19981218",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7409,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:45.120Z",
+      "usage_event_id": "e9ffa590-f5c6-4842-b6cd-ede42af74b0c"
+    }
+  }
+}

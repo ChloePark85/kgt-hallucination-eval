@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00414461"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00414461",
+      "corp_name": "(주)신우종합건설",
+      "corp_name_en": "SHIN WOO CONSTRUCTION",
+      "stock_name": "신우종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "구교철",
+      "corporate_registration_number": "1341110037470",
+      "business_registration_number": "1238129653",
+      "address": "경기도 안양시 만안구 안양5동 627-29",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(031)442-3456",
+      "fax": "(031)442-4754",
+      "industry_code": "4111",
+      "established_date": "19920701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7251,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:38.209Z",
+      "usage_event_id": "0af68695-c48c-44db-909d-6e185d0501ff"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00115694"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:09+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00115694",
+      "corp_name": "DB증권(주)",
+      "corp_name_en": "DB Securities Co.,Ltd",
+      "stock_name": "DB증권",
+      "stock_code": "016610",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "곽봉석",
+      "corporate_registration_number": "1101110339956",
+      "business_registration_number": "1168159557",
+      "address": "서울특별시 영등포구 국제금융로8길 32 동부증권빌딩",
+      "homepage": "dbsec.co.kr",
+      "ir_url": "\thttps://www.dbsec.co.kr/company/ko/invest/irDocument.do",
+      "phone": "02-369-3000",
+      "fax": "02-782-6703",
+      "industry_code": "66121",
+      "established_date": "19821220",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7799,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:09.365Z",
+      "usage_event_id": "88f583f5-4764-4520-bc43-69482c99d5e8"
+    }
+  }
+}

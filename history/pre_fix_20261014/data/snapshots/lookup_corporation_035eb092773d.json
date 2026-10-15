@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00311030"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00311030",
+      "corp_name": "미래에셋증권(주)",
+      "corp_name_en": "MIRAE ASSET SECURITIES CO.,LTD",
+      "stock_name": "미래에셋증권",
+      "stock_code": "037620",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조웅기",
+      "corporate_registration_number": "1101111821423",
+      "business_registration_number": "1078173894",
+      "address": "서울특별시 중구 수하동 67 미래에셋 센터원 빌딩 이스트타워",
+      "homepage": "www.miraeasset.com",
+      "ir_url": null,
+      "phone": "02-3774-1700",
+      "fax": "02-3774-6003",
+      "industry_code": "66121",
+      "established_date": "19991202",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7395,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:54.910Z",
+      "usage_event_id": "6efa30d7-ec9d-4372-8d56-ff80233ef4cf"
+    }
+  }
+}

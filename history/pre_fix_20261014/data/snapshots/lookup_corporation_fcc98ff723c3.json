@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00207366"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00207366",
+      "corp_name": "피어리스상사(주)",
+      "corp_name_en": "해당사항 없음.",
+      "stock_name": "피어리스상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장 일 수",
+      "corporate_registration_number": "1348110002030",
+      "business_registration_number": "1248130527",
+      "address": "경기도 오산시 누읍동 131",
+      "homepage": "해당사항 없음.",
+      "ir_url": null,
+      "phone": "02-312-3121",
+      "fax": "02-312-3120",
+      "industry_code": "46443",
+      "established_date": "19811106",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7583,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:42.773Z",
+      "usage_event_id": "5480b53d-85b6-409f-9d36-00fb9cab9518"
+    }
+  }
+}

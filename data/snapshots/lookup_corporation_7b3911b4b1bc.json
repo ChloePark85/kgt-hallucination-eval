@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00304377"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:48+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00304377",
+      "corp_name": "주식회사 평화섬유",
+      "corp_name_en": "PYEVNG HWA TEXTILE CO., LTD",
+      "stock_name": "평화섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "배  정  환",
+      "corporate_registration_number": "1748110008072",
+      "business_registration_number": "5158105544",
+      "address": "경상북도 경산시 압량면 가일리 205",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "053-812-6001",
+      "fax": "053-817-9252",
+      "industry_code": "13409",
+      "established_date": "19940118",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7405,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:47.862Z",
+      "usage_event_id": "74662c74-3962-4fd9-afe3-948c92b36298"
+    }
+  }
+}

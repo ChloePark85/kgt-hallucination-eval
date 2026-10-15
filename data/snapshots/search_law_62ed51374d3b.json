@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "상속세 및 증여세법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:29:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001561",
+          "law_serial_no": "276123",
+          "name": "상속세 및 증여세법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "재정경제부",
+          "promulgation_date": "20251001",
+          "promulgation_no": "21065",
+          "enforcement_date": "20260102",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=276123&type=HTML&mobileYn=&efYd=20260102"
+        },
+        {
+          "law_id": "003814",
+          "law_serial_no": "290845",
+          "name": "상속세 및 증여세법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "재정경제부",
+          "promulgation_date": "20261001",
+          "promulgation_no": "36741",
+          "enforcement_date": "20261001",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290845&type=HTML&mobileYn=&efYd=20261001"
+        },
+        {
+          "law_id": "007388",
+          "law_serial_no": "284609",
+          "name": "상속세 및 증여세법 시행규칙",
+          "short_name": null,
+          "law_type": "재정경제부령",
+          "ministry": "재정경제부",
+          "promulgation_date": "20260320",
+          "promulgation_no": "00015",
+          "enforcement_date": "20260320",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284609&type=HTML&mobileYn=&efYd=20260320"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6381,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-14T02:29:32.604Z",
+      "usage_event_id": "b27682a4-d191-4ddc-8116-639b00de7b88"
+    }
+  }
+}

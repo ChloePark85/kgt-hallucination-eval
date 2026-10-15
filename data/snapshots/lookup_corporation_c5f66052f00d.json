@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00322522"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00322522",
+      "corp_name": "(주)이래화학",
+      "corp_name_en": "IRe CHEMICAL LTD.",
+      "stock_name": "이래화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이재왕",
+      "corporate_registration_number": "1101111282807",
+      "business_registration_number": "1148172758",
+      "address": "서울특별시 강남구 역삼동 641-11",
+      "homepage": "www.irechem.co.kr",
+      "ir_url": null,
+      "phone": "(02)508-7251",
+      "fax": "(02)564-7254",
+      "industry_code": "20132",
+      "established_date": "19961101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7385,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:01.873Z",
+      "usage_event_id": "b10be86f-d7c7-44a0-9a08-9500a2e6aff9"
+    }
+  }
+}

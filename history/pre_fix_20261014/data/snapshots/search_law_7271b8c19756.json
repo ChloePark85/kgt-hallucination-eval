@@ -1,0 +1,70 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "산업안전보건법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:22:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 3,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001766",
+          "law_serial_no": "283449",
+          "name": "산업안전보건법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260219",
+          "promulgation_no": "21374",
+          "enforcement_date": "20260801",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283449&type=HTML&mobileYn=&efYd=20260801"
+        },
+        {
+          "law_id": "003786",
+          "law_serial_no": "288347",
+          "name": "산업안전보건법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260728",
+          "promulgation_no": "36540",
+          "enforcement_date": "20260801",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288347&type=HTML&mobileYn=&efYd=20260801"
+        },
+        {
+          "law_id": "007364",
+          "law_serial_no": "288431",
+          "name": "산업안전보건법 시행규칙",
+          "short_name": null,
+          "law_type": "고용노동부령",
+          "ministry": "고용노동부",
+          "promulgation_date": "20260728",
+          "promulgation_no": "00477",
+          "enforcement_date": "20260801",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288431&type=HTML&mobileYn=&efYd=20260801"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6770,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:22:51.053Z",
+      "usage_event_id": "06feb49f-7954-4110-aa2a-ed1c246e657f"
+    }
+  }
+}

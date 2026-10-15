@@ -1,0 +1,84 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "전기통신사업법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 4,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "001733",
+          "law_serial_no": "285185",
+          "name": "전기통신사업법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "과학기술정보통신부,방송미디어통신위원회",
+          "promulgation_date": "20260331",
+          "promulgation_no": "21503",
+          "enforcement_date": "20261001",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=285185&type=HTML&mobileYn=&efYd=20261001"
+        },
+        {
+          "law_id": "004708",
+          "law_serial_no": "290813",
+          "name": "전기통신사업법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "과학기술정보통신부,방송미디어통신위원회",
+          "promulgation_date": "20260930",
+          "promulgation_no": "36735",
+          "enforcement_date": "20261001",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290813&type=HTML&mobileYn=&efYd=20261001"
+        },
+        {
+          "law_id": "001445",
+          "law_serial_no": "268833",
+          "name": "정보통신공사업법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "과학기술정보통신부",
+          "promulgation_date": "20250131",
+          "promulgation_no": "20730",
+          "enforcement_date": "20260201",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=268833&type=HTML&mobileYn=&efYd=20260201"
+        },
+        {
+          "law_id": "004704",
+          "law_serial_no": "284859",
+          "name": "정보통신공사업법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "과학기술정보통신부",
+          "promulgation_date": "20260324",
+          "promulgation_no": "36220",
+          "enforcement_date": "20260324",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284859&type=HTML&mobileYn=&efYd=20260324"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6720,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:31.137Z",
+      "usage_event_id": "6ae5e667-7dd7-4841-be20-30183f13a63d"
+    }
+  }
+}

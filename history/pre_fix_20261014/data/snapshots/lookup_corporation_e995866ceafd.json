@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00209230"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00209230",
+      "corp_name": "영도섬유 주식회사",
+      "corp_name_en": "YOUNG DO TEXTILE CO., LTD.",
+      "stock_name": "영도섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김희상",
+      "corporate_registration_number": "1601110033706",
+      "business_registration_number": "3068120086",
+      "address": "대전광역시 대덕구 문평동 48-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "042-933-3121/5",
+      "fax": "042-933-0539",
+      "industry_code": "13213",
+      "established_date": "19921223",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7571,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:50.979Z",
+      "usage_event_id": "90c6b58c-ff82-43be-bbd6-c2c664023d80"
+    }
+  }
+}

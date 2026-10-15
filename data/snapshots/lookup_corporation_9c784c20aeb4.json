@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246417"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-420-2756",
+      "phone": "031 -420 -2781",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 안양시 동안구 동편로 91",
+      "ceo_name": "성규동,박종구(각자대표이사)",
+      "homepage": "www.eotechnics.com",
+      "corp_code": "00246417",
+      "corp_name": "(주)이오테크닉스",
+      "market_raw": "K",
+      "stock_code": "039030",
+      "stock_name": "이오테크닉스",
+      "corp_name_en": "EO Technics CO.,LTD",
+      "industry_code": "29271",
+      "established_date": "19931230",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1388111553",
+      "corporate_registration_number": "1101110998629"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6595,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:26:35.089Z",
+      "usage_event_id": "7a178abf-05ab-4a1a-9d94-b29f3dcda3e6"
+    }
+  }
+}

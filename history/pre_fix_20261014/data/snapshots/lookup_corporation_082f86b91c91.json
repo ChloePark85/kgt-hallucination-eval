@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00359304"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:22+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00359304",
+      "corp_name": "(주)한서화학",
+      "corp_name_en": "HANSUH CHEMICAL CO. LTD.",
+      "stock_name": "한서화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김기문",
+      "corporate_registration_number": "1301110028737",
+      "business_registration_number": "1348108376",
+      "address": "경기도 안산시 원시동 740번지",
+      "homepage": "www. hansuh.co.kr",
+      "ir_url": null,
+      "phone": "031-491-8973",
+      "fax": "031-491-8975",
+      "industry_code": "2049",
+      "established_date": "19750505",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7359,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:22.409Z",
+      "usage_event_id": "5d24ab70-395a-4df3-835c-69d59f8278e2"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00533809"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00533809",
+      "corp_name": "주식회사 바스칸바이오제약",
+      "corp_name_en": "BASKHANBIOPharma Inc.",
+      "stock_name": "바스칸바이오제약",
+      "stock_code": "354390",
+      "market": "KONEX",
+      "market_raw": "N",
+      "ceo_name": "이법표",
+      "corporate_registration_number": "1101110422090",
+      "business_registration_number": "1258116421",
+      "address": "경기도 안성시 원곡면 원당로 354",
+      "homepage": "www.baskhanbio.com",
+      "ir_url": null,
+      "phone": "031-692-2900",
+      "fax": "02-706-9163",
+      "industry_code": "212",
+      "established_date": "19860325",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7115,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:20.461Z",
+      "usage_event_id": "450fec33-d9db-46b0-a7a8-4b28c76e44d1"
+    }
+  }
+}

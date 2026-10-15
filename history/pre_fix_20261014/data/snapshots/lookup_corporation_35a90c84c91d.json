@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00128412"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00128412",
+      "corp_name": "삼진제약(주)",
+      "corp_name_en": "SAMJIN PHARMACEUTICAL CO.,LTD",
+      "stock_name": "삼진제약",
+      "stock_code": "005500",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "최지현, 조규석",
+      "corporate_registration_number": "1101110088652",
+      "business_registration_number": "1058100769",
+      "address": "서울특별시 마포구  와우산로 121 삼진제약사옥",
+      "homepage": "www.samjinpharm.co.kr",
+      "ir_url": null,
+      "phone": "02-3140-0700",
+      "fax": "02-392-5312",
+      "industry_code": "212",
+      "established_date": "19680418",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7751,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:44.863Z",
+      "usage_event_id": "0a8c8b7e-1fef-4b70-bc8a-9e51cc860330"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00480765"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:07+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00480765",
+      "corp_name": "(주)21세기조선",
+      "corp_name_en": "21st Century Shipbuilding Co., Ltd",
+      "stock_name": "21세기조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김찬수",
+      "corporate_registration_number": "1912110005772",
+      "business_registration_number": "6128109268",
+      "address": "경상남도 통영시 봉평동 14-1",
+      "homepage": "www.shipbuilding.co.kr",
+      "ir_url": null,
+      "phone": "055-641-8401",
+      "fax": "055-641-8404",
+      "industry_code": "3111",
+      "established_date": "19990201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7133,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:06.943Z",
+      "usage_event_id": "f7aec8d8-5259-4cef-9aed-01a05f383a09"
+    }
+  }
+}

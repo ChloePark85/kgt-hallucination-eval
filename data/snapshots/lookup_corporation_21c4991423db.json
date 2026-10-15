@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00883908"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00883908",
+      "corp_name": "해운대지팝제일차유한회사",
+      "corp_name_en": "Haewoondae Zipop 1st",
+      "stock_name": "해운대지팝제일차",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "전재욱",
+      "corporate_registration_number": "1101140099984",
+      "business_registration_number": "1078751214",
+      "address": "서울특별시 영등포구 여의도동 굿모닝신한증권빌딩 26층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3772-2297",
+      "fax": null,
+      "industry_code": "64999",
+      "established_date": "20110420",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7028,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:23.832Z",
+      "usage_event_id": "56e68e1b-cc5a-4efc-8668-355c348d8cbf"
+    }
+  }
+}

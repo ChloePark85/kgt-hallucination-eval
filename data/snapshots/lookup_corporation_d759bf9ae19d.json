@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00855400"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:21+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00855400",
+      "corp_name": "농업회사법인 해남고구마식품 주식회사",
+      "corp_name_en": "-",
+      "stock_name": "농업회사법인해남고구마식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김영진",
+      "corporate_registration_number": "2014110010287",
+      "business_registration_number": "4158139098",
+      "address": "전라남도 해남군 마산면 학의리 301",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "010-6605-0094",
+      "fax": "062-369-7300",
+      "industry_code": "10309",
+      "established_date": "20110125",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7032,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:21.110Z",
+      "usage_event_id": "76e75551-4365-475b-9a94-13099d2a98e7"
+    }
+  }
+}

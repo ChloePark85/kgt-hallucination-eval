@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00164742"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00164742",
+      "corp_name": "현대자동차(주)",
+      "corp_name_en": "HYUNDAI MOTOR CO",
+      "stock_name": "현대자동차",
+      "stock_code": "005380",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정의선, 무뇨스 바르셀로 호세 안토니오, 최영일(각자 대표이사)",
+      "corporate_registration_number": "1101110085450",
+      "business_registration_number": "1018109147",
+      "address": "서울특별시 서초구  헌릉로 12",
+      "homepage": "www.hyundai.com",
+      "ir_url": null,
+      "phone": "02-3464-1114",
+      "fax": "02-3464-8719",
+      "industry_code": "30121",
+      "established_date": "19671229",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7991,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:06:26.773Z",
+      "usage_event_id": "149ec0ba-d534-44ec-ae0f-a9a8cba77898"
+    }
+  }
+}

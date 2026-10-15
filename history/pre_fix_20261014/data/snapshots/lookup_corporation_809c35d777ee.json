@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00220756"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00220756",
+      "corp_name": "씨앤씨캐피탈(주)",
+      "corp_name_en": "CNC CAPITAL CO., LTD.",
+      "stock_name": "씨앤씨캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이영준",
+      "corporate_registration_number": "1101111205990",
+      "business_registration_number": "2018153322",
+      "address": "서울특별시 북창동 93-52 진흥저축은행2층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-771-9477",
+      "fax": "02-771-9476",
+      "industry_code": "64999",
+      "established_date": "19951111",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7559,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:59.457Z",
+      "usage_event_id": "26c1dcb2-db01-4b68-9603-9ce88efb55c1"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00790501"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00790501",
+      "corp_name": "(주)한진해운",
+      "corp_name_en": "HANJIN SHIPPING CO., LTD.",
+      "stock_name": "한진해운",
+      "stock_code": "117930",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "석태수",
+      "corporate_registration_number": "1101114231835",
+      "business_registration_number": "1078728386",
+      "address": "서울특별시 강서구 공항대로 659 (염창동, 도레미빌딩)",
+      "homepage": "www.hanjin.com",
+      "ir_url": null,
+      "phone": "3770-6114",
+      "fax": null,
+      "industry_code": "501",
+      "established_date": "20091202",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7060,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:00.140Z",
+      "usage_event_id": "e8a90491-c154-4ce1-9cd3-90373de8af3b"
+    }
+  }
+}

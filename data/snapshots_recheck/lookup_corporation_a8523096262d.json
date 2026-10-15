@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00159023"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-6100-7948",
+      "phone": "02-6100-2114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 중구  을지로 65 (을자로2가)",
+      "ceo_name": "정재헌",
+      "homepage": "www.sktelecom.com",
+      "corp_code": "00159023",
+      "corp_name": "SK텔레콤(주)",
+      "market_raw": "Y",
+      "stock_code": "017670",
+      "stock_name": "SK텔레콤",
+      "corp_name_en": "SK TELECOM CO.,LTD",
+      "industry_code": "61220",
+      "established_date": "19840420",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1048137225",
+      "corporate_registration_number": "1101110371346"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2672,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:30.011Z",
+      "usage_event_id": "5b617d9c-af7f-4266-a2ed-41e087cdfe9f"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00120100"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:22+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00120100",
+      "corp_name": "LG석유화학(주)",
+      "corp_name_en": "LG PETROCHEMICAL CO.,LTD",
+      "stock_name": "LG석유화학",
+      "stock_code": "012990",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박진수(朴鎭洙)",
+      "corporate_registration_number": "1101110226905",
+      "business_registration_number": "1168118779",
+      "address": "서울특별시 영등포구 여의도동 20번지 LG트윈타워",
+      "homepage": "www.lgpetro.com",
+      "ir_url": "www.lgpetro.com/kor/ir/manageinfo/manageinfo01.html",
+      "phone": "02-3773-7815",
+      "fax": "02-3773-3898",
+      "industry_code": "20111",
+      "established_date": "19780306",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7781,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:22.697Z",
+      "usage_event_id": "c53fcc23-7e95-425a-94a0-aa8cae58411b"
+    }
+  }
+}

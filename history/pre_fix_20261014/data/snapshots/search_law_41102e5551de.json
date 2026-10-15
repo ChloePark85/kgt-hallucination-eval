@@ -1,0 +1,154 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "민법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:23:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "total": 9,
+      "page": 1,
+      "results": [
+        {
+          "law_id": "011546",
+          "law_serial_no": "188376",
+          "name": "난민법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "법무부",
+          "promulgation_date": "20161220",
+          "promulgation_no": "14408",
+          "enforcement_date": "20161220",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=188376&type=HTML&mobileYn=&efYd=20161220"
+        },
+        {
+          "law_id": "011878",
+          "law_serial_no": "273705",
+          "name": "난민법 시행령",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "법무부",
+          "promulgation_date": "20250916",
+          "promulgation_no": "35747",
+          "enforcement_date": "20250919",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=273705&type=HTML&mobileYn=&efYd=20250919"
+        },
+        {
+          "law_id": "011885",
+          "law_serial_no": "266929",
+          "name": "난민법 시행규칙",
+          "short_name": null,
+          "law_type": "법무부령",
+          "ministry": "법무부",
+          "promulgation_date": "20241203",
+          "promulgation_no": "01084",
+          "enforcement_date": "20241203",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=266929&type=HTML&mobileYn=&efYd=20241203"
+        },
+        {
+          "law_id": "001706",
+          "law_serial_no": "284415",
+          "name": "민법",
+          "short_name": null,
+          "law_type": "법률",
+          "ministry": "법무부",
+          "promulgation_date": "20260317",
+          "promulgation_no": "21454",
+          "enforcement_date": "20260317",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=284415&type=HTML&mobileYn=&efYd=20260317"
+        },
+        {
+          "law_id": "005768",
+          "law_serial_no": "266851",
+          "name": "민법법인 및 특수법인 등기규칙",
+          "short_name": null,
+          "law_type": "대법원규칙",
+          "ministry": "대법원",
+          "promulgation_date": "20241129",
+          "promulgation_no": "03170",
+          "enforcement_date": "20250131",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=266851&type=HTML&mobileYn=&efYd=20250131"
+        },
+        {
+          "law_id": "003534",
+          "law_serial_no": "20194",
+          "name": "민법제312조의2단서의시행에관한규정",
+          "short_name": null,
+          "law_type": "대통령령",
+          "ministry": "법무부",
+          "promulgation_date": "19840901",
+          "promulgation_no": "11493",
+          "enforcement_date": "19840901",
+          "revision_type": "제정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=20194&type=HTML&mobileYn=&efYd=19840901"
+        },
+        {
+          "law_id": "001432",
+          "law_serial_no": "283937",
+          "name": "북한이탈주민의 보호 및 정착지원에 관한 법률",
+          "short_name": "북한이탈주민법",
+          "law_type": "법률",
+          "ministry": "통일부",
+          "promulgation_date": "20260310",
+          "promulgation_no": "21428",
+          "enforcement_date": "20260911",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=283937&type=HTML&mobileYn=&efYd=20260911"
+        },
+        {
+          "law_id": "003693",
+          "law_serial_no": "288389",
+          "name": "북한이탈주민의 보호 및 정착지원에 관한 법률 시행령",
+          "short_name": "북한이탈주민법 시행령",
+          "law_type": "대통령령",
+          "ministry": "통일부",
+          "promulgation_date": "20260728",
+          "promulgation_no": "36526",
+          "enforcement_date": "20260731",
+          "revision_type": "타법개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288389&type=HTML&mobileYn=&efYd=20260731"
+        },
+        {
+          "law_id": "007303",
+          "law_serial_no": "280245",
+          "name": "북한이탈주민의 보호 및 정착지원에 관한 법률 시행규칙",
+          "short_name": "북한이탈주민법 시행규칙",
+          "law_type": "통일부령",
+          "ministry": "통일부",
+          "promulgation_date": "20251205",
+          "promulgation_no": "00140",
+          "enforcement_date": "20251205",
+          "revision_type": "일부개정",
+          "is_current": true,
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=280245&type=HTML&mobileYn=&efYd=20251205"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 2,
+      "balance_remaining": 6726,
+      "cache_hit": false,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-12T17:23:26.025Z",
+      "usage_event_id": "cd427faf-f689-4864-95ea-faa00dd401eb"
+    }
+  }
+}

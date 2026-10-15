@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01135941"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:26:37+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "031-8047-7084",
+      "phone": "031-8047-7000",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "경기도 평택시 진위면 진위산단로 75",
+      "ceo_name": "Tae Hyuk Ahn",
+      "homepage": "www.ips.co.kr",
+      "corp_code": "01135941",
+      "corp_name": "(주)원익아이피에스",
+      "market_raw": "K",
+      "stock_code": "240810",
+      "stock_name": "원익IPS",
+      "corp_name_en": "WONIK IPS CO., LTD.",
+      "industry_code": "292",
+      "established_date": "20160404",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "6958100374",
+      "corporate_registration_number": "1313110163174"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6593,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:26:37.381Z",
+      "usage_event_id": "6354439d-fe42-49cf-a497-d96d82433aa9"
+    }
+  }
+}

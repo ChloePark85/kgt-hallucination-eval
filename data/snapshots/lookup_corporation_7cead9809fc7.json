@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00488059"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:10+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00488059",
+      "corp_name": "진양해운(주)",
+      "corp_name_en": "jinyang shipping",
+      "stock_name": "진양해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "홍승두",
+      "corporate_registration_number": "1101110615645",
+      "business_registration_number": "2028146372",
+      "address": "서울특별시 종로구 서린동 서린빌딩 12층",
+      "homepage": "www.jinyangshipping.com",
+      "ir_url": null,
+      "phone": "02-735-1500",
+      "fax": "02-757-7630",
+      "industry_code": "50112",
+      "established_date": "19890315",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7129,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:10.107Z",
+      "usage_event_id": "6b31bc36-638b-43d8-9f58-238f445d5e0a"
+    }
+  }
+}

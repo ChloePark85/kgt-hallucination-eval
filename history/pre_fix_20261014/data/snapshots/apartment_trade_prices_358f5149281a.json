@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "41465",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:21:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "lawd_code": "41465",
+      "deal_month": "202509",
+      "total": 938,
+      "page": 1,
+      "results": [
+        {
+          "apartment_name": "진산마을삼성5차",
+          "deal_amount_krw": 1200000000,
+          "deal_amount_raw": "120,000",
+          "deal_date": "2025-09-19",
+          "exclusive_area_m2": 114.0019,
+          "floor": 12,
+          "build_year": 2003,
+          "dong": "풍덕천동",
+          "jibun": "1167",
+          "road_name": null,
+          "sigungu_code": "41465",
+          "deal_type": "중개거래",
+          "canceled": false,
+          "canceled_date": null,
+          "seller_type": "개인",
+          "buyer_type": "개인"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 3,
+      "balance_remaining": 6845,
+      "cache_hit": false,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-12T17:21:28.185Z",
+      "usage_event_id": "aba45d7f-239d-4503-a5b7-626613152519"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00163497"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00163497",
+      "corp_name": "(주)한중상호저축은행",
+      "corp_name_en": "HAN JUNG MUTUAL SAVING'S & FINANCE CO., LTD.",
+      "stock_name": "한중상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 경 호",
+      "corporate_registration_number": "1101110135164",
+      "business_registration_number": "1078104591",
+      "address": "서울특별시 영등포구 양평동 1가 190",
+      "homepage": "hanjungbank.co.kr",
+      "ir_url": null,
+      "phone": "02-678-4377",
+      "fax": "02-672-4378",
+      "industry_code": "64131",
+      "established_date": "19721017",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7675,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:38.728Z",
+      "usage_event_id": "c8701a1d-dd8a-40c2-b37b-0b87665b113d"
+    }
+  }
+}

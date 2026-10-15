@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01261644"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01261644",
+      "corp_name": "(주)레인보우로보틱스",
+      "corp_name_en": "Rainbow Robotics",
+      "stock_name": "레인보우로보틱스",
+      "stock_code": "277810",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이정호",
+      "corporate_registration_number": "1601110293889",
+      "business_registration_number": "3148621854",
+      "address": "세종특별자치시  집현중앙3로 8 세종특별자치시 집현중앙3로 8(집현동)",
+      "homepage": "www.rainbow-robotics.com",
+      "ir_url": null,
+      "phone": "044-860-9600",
+      "fax": "042-719-8071",
+      "industry_code": "29280",
+      "established_date": "20110210",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7918,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:13.359Z",
+      "usage_event_id": "65177422-27cd-4d99-80c6-408388d367c1"
+    }
+  }
+}

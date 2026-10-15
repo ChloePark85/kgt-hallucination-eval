@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00445407"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00445407",
+      "corp_name": "주식회사 지현개발",
+      "corp_name_en": "ZHYUN CO.LTD",
+      "stock_name": "지현개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이 제 형",
+      "corporate_registration_number": "1101110774095",
+      "business_registration_number": "2148658314",
+      "address": "서울특별시 서초구 서초동 1338-22 성지빌딩 504호",
+      "homepage": "www.zhyun.co.kr",
+      "ir_url": null,
+      "phone": "02-523-6361",
+      "fax": "02-523-6362",
+      "industry_code": "68121",
+      "established_date": "20000506",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7175,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:35.375Z",
+      "usage_event_id": "4fba35e8-26e4-4aab-a3a2-ed523cac33a2"
+    }
+  }
+}

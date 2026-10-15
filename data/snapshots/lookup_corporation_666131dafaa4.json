@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00146241"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:13+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00146241",
+      "corp_name": "주식회사 명성건설",
+      "corp_name_en": "Myoungsung constraction co., Ltd.",
+      "stock_name": "명성건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박병호",
+      "corporate_registration_number": "1601110012841",
+      "business_registration_number": "3088103462",
+      "address": "충청남도 논산시 연무읍 안심리 1126-15",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "042-253-8901",
+      "fax": null,
+      "industry_code": "41229",
+      "established_date": "19861121",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7711,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:13.300Z",
+      "usage_event_id": "09acaad7-b0c9-4a56-9f2b-b3d28ea19a64"
+    }
+  }
+}

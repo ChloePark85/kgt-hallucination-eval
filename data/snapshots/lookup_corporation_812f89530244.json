@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00154189"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00154189",
+      "corp_name": "케이비물산(주)",
+      "corp_name_en": "KOREA BEST PRODUCE CORP",
+      "stock_name": "케이비물산",
+      "stock_code": "008540",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이호중, 박형준(각자대표이사)",
+      "corporate_registration_number": "2149110000465",
+      "business_registration_number": "4038100149",
+      "address": "전라북도 익산시 신흥동 806-12",
+      "homepage": "www.ilkyung.com",
+      "ir_url": null,
+      "phone": "063-833-5171",
+      "fax": "(02)815-5161",
+      "industry_code": "14120",
+      "established_date": "19730214",
+      "fiscal_year_end_month": "01"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7689,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:28.975Z",
+      "usage_event_id": "5cdfb1c4-9ad5-4e39-b400-b77679a57818"
+    }
+  }
+}

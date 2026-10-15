@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00253055"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:00+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00253055",
+      "corp_name": "태흥산업개발 주식회사",
+      "corp_name_en": "TAIHEUNG IND DEV CO., LTD",
+      "stock_name": "태흥산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "허경호",
+      "corporate_registration_number": "1754110001247",
+      "business_registration_number": "6108117869",
+      "address": "울산광역시 남구 달동 860-4",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "052-261-0751",
+      "fax": "052-261-0750",
+      "industry_code": "42",
+      "established_date": "19920609",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7473,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:00.167Z",
+      "usage_event_id": "b357e752-f041-4873-af16-9aaa62e24e58"
+    }
+  }
+}

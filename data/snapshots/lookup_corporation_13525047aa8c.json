@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00110893"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00110893",
+      "corp_name": "대신증권(주)",
+      "corp_name_en": "DAISHIN SECURITIES CO.,LTD",
+      "stock_name": "대신증권",
+      "stock_code": "003540",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "진승욱",
+      "corporate_registration_number": "1101110042955",
+      "business_registration_number": "1168109076",
+      "address": "서울특별시 중구 삼일대로 343 저동1가 대신파이낸스센터",
+      "homepage": "www.daishin.com",
+      "ir_url": null,
+      "phone": "02-769-2000",
+      "fax": "769-2955",
+      "industry_code": "66121",
+      "established_date": "19620727",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7819,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:54.962Z",
+      "usage_event_id": "87ce8e59-123d-477d-b2b8-5de3486f593f"
+    }
+  }
+}

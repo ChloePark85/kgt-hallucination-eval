@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00237349"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00237349",
+      "corp_name": "부국개발 주식회사",
+      "corp_name_en": "PUGUK CO., LTD.",
+      "stock_name": "부국개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이  호  성",
+      "corporate_registration_number": "1601110046329",
+      "business_registration_number": "3068122309",
+      "address": "대전광역시 동구 용전동 63-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "042-470-5700",
+      "fax": "042-470-5707",
+      "industry_code": "68122",
+      "established_date": "19950414",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7505,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:37.942Z",
+      "usage_event_id": "f7ceb68f-641c-42f4-89b5-4a3672153dcb"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00159193"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-3456-4298",
+      "phone": "061-345-3114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "전라남도 나주시 전력로 55 -",
+      "ceo_name": "김동철",
+      "homepage": "www.kepco.co.kr",
+      "corp_code": "00159193",
+      "corp_name": "한국전력공사(주)",
+      "market_raw": "Y",
+      "stock_code": "015760",
+      "stock_name": "한국전력공사",
+      "corp_name_en": "KOREA ELECTRIC POWER CORPORATION",
+      "industry_code": "35120",
+      "established_date": "19610701",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1208200052",
+      "corporate_registration_number": "1146710001456"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2670,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:32.825Z",
+      "usage_event_id": "5bf535d8-b154-4718-8265-583b2fb7bdb2"
+    }
+  }
+}

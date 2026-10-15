@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00191904"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00191904",
+      "corp_name": "고려섬유주식회사",
+      "corp_name_en": "KOREA TEXTILE CO.,LTD",
+      "stock_name": "고려섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이분임",
+      "corporate_registration_number": "1701110063420",
+      "business_registration_number": "5028121719",
+      "address": "대구광역시 동구 신서동 520-8",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "053-962-7001",
+      "fax": "053-961-0001",
+      "industry_code": "13213",
+      "established_date": "19921101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7615,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:20.785Z",
+      "usage_event_id": "276828c0-60a4-4144-9e74-47dcb032de99"
+    }
+  }
+}

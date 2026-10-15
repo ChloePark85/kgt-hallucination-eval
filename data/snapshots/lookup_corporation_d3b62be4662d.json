@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00185851"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00185851",
+      "corp_name": "중원화학주식회사",
+      "corp_name_en": "CHOONG WON CHEMICAL CO.LTD",
+      "stock_name": "중원화학",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "장 정 일",
+      "corporate_registration_number": "1243110000226",
+      "business_registration_number": "1398109502",
+      "address": "인천광역시 남동구 논현동 431-2번지",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(032)815-8931",
+      "fax": "(032)814-4580",
+      "industry_code": "20119",
+      "established_date": "19710902",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7625,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:13.935Z",
+      "usage_event_id": "734c25a8-ddd8-41a7-bf7d-9dd253cae212"
+    }
+  }
+}

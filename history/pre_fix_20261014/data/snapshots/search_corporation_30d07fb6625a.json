@@ -1,0 +1,61 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "현대자동차",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:06:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00164742",
+          "corp_name": "현대자동차",
+          "stock_code": "005380",
+          "listed": true,
+          "modified_date": "20260331"
+        },
+        {
+          "corp_code": "00164751",
+          "corp_name": "현대자동차써비스",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "01333297",
+          "corp_name": "정왕점현대자동차",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20200226"
+        },
+        {
+          "corp_code": "00914688",
+          "corp_name": "현대자동차충청써비스",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20230216"
+        },
+        {
+          "corp_code": "01370216",
+          "corp_name": "수원현대자동차운전전문학원",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20230223"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7993,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:06:23.473Z",
+      "usage_event_id": "bca8a480-566f-46ab-b5e0-8114c4223d9b"
+    }
+  }
+}

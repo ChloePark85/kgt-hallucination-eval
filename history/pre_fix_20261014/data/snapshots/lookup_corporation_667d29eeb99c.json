@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00174439"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00174439",
+      "corp_name": "주식회사 보해상호저축은행",
+      "corp_name_en": "bohae mutual saving bank",
+      "stock_name": "보해상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박종한",
+      "corporate_registration_number": "2011110000557",
+      "business_registration_number": "4118100378",
+      "address": "전라남도 목포시 명륜동 11-1",
+      "homepage": "www.bohaebank.co.kr",
+      "ir_url": null,
+      "phone": "061-244-8171",
+      "fax": "061-244-8170",
+      "industry_code": "64132",
+      "established_date": "19711017",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7639,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:03.900Z",
+      "usage_event_id": "d0a04c80-2c4f-45b1-9ee0-e55d00a3265e"
+    }
+  }
+}

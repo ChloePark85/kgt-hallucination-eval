@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "11500",
+    "deal_month": "202503",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:31:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 462,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "화곡동",
+          "floor": 14,
+          "jibun": "1145",
+          "canceled": false,
+          "deal_date": "2025-03-29",
+          "deal_type": "중개거래",
+          "road_name": null,
+          "build_year": 2003,
+          "buyer_type": "개인",
+          "seller_type": "개인",
+          "sigungu_code": "11500",
+          "canceled_date": null,
+          "apartment_name": "우장산롯데캐슬",
+          "deal_amount_krw": 1100000000,
+          "deal_amount_raw": "110,000",
+          "exclusive_area_m2": 85
+        }
+      ],
+      "lawd_code": "11500",
+      "deal_month": "202503"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2607,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:31:54.556Z",
+      "usage_event_id": "c4fe4762-0e3a-4d16-8edd-858565f718bd"
+    }
+  }
+}

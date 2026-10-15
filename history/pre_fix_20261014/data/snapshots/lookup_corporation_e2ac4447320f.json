@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00398686"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00398686",
+      "corp_name": "현대캐피탈오토펀딩유동화전문유한회사",
+      "corp_name_en": "Hyundai Capital (Korea) Auto Funding Limited",
+      "stock_name": "현대캐피탈오토펀딩유동화전문유한회사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김혁",
+      "corporate_registration_number": "1101140037075",
+      "business_registration_number": "1078610711",
+      "address": "서울특별시 영등포구 여의도동 15-21",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3770-9745",
+      "fax": "02-786-2138",
+      "industry_code": "64999",
+      "established_date": "20020108",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7277,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:20.334Z",
+      "usage_event_id": "7b3ac74f-0441-40e1-972d-b6dece645278"
+    }
+  }
+}

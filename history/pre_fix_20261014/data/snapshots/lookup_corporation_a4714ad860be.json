@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00450250"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00450250",
+      "corp_name": "(주)한경섬유",
+      "corp_name_en": "HAN KYOUNG FIBER CO. LTD.",
+      "stock_name": "한경섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한 동석",
+      "corporate_registration_number": "1101110728969",
+      "business_registration_number": "1188104422",
+      "address": "서울특별시 영등포구 대림동 992-20",
+      "homepage": "www.byc.co.kr",
+      "ir_url": null,
+      "phone": "02-831-2011",
+      "fax": "02-821-2013",
+      "industry_code": "14120",
+      "established_date": "19901031",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7153,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:51.594Z",
+      "usage_event_id": "80080cc2-552d-4db9-a0a7-03d3471d72f0"
+    }
+  }
+}

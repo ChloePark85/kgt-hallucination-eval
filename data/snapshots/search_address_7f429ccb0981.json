@@ -1,0 +1,76 @@
+{
+  "tool": "search_address",
+  "args": {
+    "keyword": "은평구청",
+    "per_page": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:28:44+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 2,
+      "source": "행정안전부 도로명주소 (juso.go.kr)",
+      "results": [
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "은평구",
+          "adm_code": "1138010200",
+          "lawd_code": "11380",
+          "road_name": "은평로",
+          "lot_sub_no": "0",
+          "lot_main_no": "84",
+          "postal_code": "03384",
+          "eupmyeondong": "녹번동",
+          "road_address": "서울특별시 은평구 은평로 195 (녹번동)",
+          "road_mgmt_no": "113803111007",
+          "building_name": "은평구청",
+          "jibun_address": "서울특별시 은평구 녹번동 84 은평구청",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "195 Eunpyeong-ro, Eunpyeong-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "195",
+          "building_mgmt_no": "1138010200100840000043532",
+          "road_address_main": "서울특별시 은평구 은평로 195",
+          "road_address_detail": " (녹번동)"
+        },
+        {
+          "ri": null,
+          "sido": "서울특별시",
+          "sigungu": "은평구",
+          "adm_code": "1138010800",
+          "lawd_code": "11380",
+          "road_name": "연서로6길",
+          "lot_sub_no": "22",
+          "lot_main_no": "23",
+          "postal_code": "03402",
+          "eupmyeondong": "역촌동",
+          "road_address": "서울특별시 은평구 연서로6길 7 (역촌동)",
+          "road_mgmt_no": "113804133188",
+          "building_name": "은평구청소년문화의집",
+          "jibun_address": "서울특별시 은평구 역촌동 23-22 은평구청소년문화의집",
+          "is_underground": false,
+          "building_sub_no": "0",
+          "english_address": "7 Yeonseo-ro 6-gil, Eunpyeong-gu, Seoul",
+          "is_mountain_lot": false,
+          "building_main_no": "7",
+          "building_mgmt_no": "1138010800100230022017902",
+          "road_address_main": "서울특별시 은평구 연서로6길 7",
+          "road_address_detail": " (역촌동)"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_address",
+      "cost": 1,
+      "balance_remaining": 6419,
+      "cache_hit": true,
+      "source": "행정안전부 (juso.go.kr)",
+      "fetched_at": "2026-10-14T02:28:44.129Z",
+      "usage_event_id": "a70a94fb-9a1d-4315-8aca-7b929f08d247"
+    }
+  }
+}

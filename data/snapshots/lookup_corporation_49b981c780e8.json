@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00442206"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00442206",
+      "corp_name": "(주)덕성섬유",
+      "corp_name_en": "DUKSUNG TEXTILE CO.",
+      "stock_name": "덕성섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김성열",
+      "corporate_registration_number": "1748110023690",
+      "business_registration_number": "5158117680",
+      "address": "경상북도 경산시 자인면 북사리 1086-6",
+      "homepage": "-",
+      "ir_url": null,
+      "phone": "053-856-0681",
+      "fax": "053-856-0680",
+      "industry_code": "13213",
+      "established_date": "20000712",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7187,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:25.023Z",
+      "usage_event_id": "af44720d-0c5e-40c0-9082-9ccfce053f4d"
+    }
+  }
+}

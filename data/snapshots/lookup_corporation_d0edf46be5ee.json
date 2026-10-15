@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00136411"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00136411",
+      "corp_name": "신송식품홀딩스 주식회사",
+      "corp_name_en": "Singsong Food Holdings Corporation",
+      "stock_name": "신송식품홀딩스",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "손상배",
+      "corporate_registration_number": "1101110199368",
+      "business_registration_number": "1168100416",
+      "address": "서울특별시 영등포구 여의도동 26-5 신송빌딩",
+      "homepage": "www.singsong.co.kr",
+      "ir_url": null,
+      "phone": "(02) 780-1400",
+      "fax": "(02) 784-3216",
+      "industry_code": "64992",
+      "established_date": "19760727",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7733,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:58.064Z",
+      "usage_event_id": "c84034f2-3a4d-4788-85b5-cf12af88c67e"
+    }
+  }
+}

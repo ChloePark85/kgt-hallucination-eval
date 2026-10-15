@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00106793"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00106793",
+      "corp_name": "주식회사 김천상호저축은행",
+      "corp_name_en": "Kimchun Mutual Savings and Finance Co., Ltd.",
+      "stock_name": "김천상호저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤교영",
+      "corporate_registration_number": "1713110000063",
+      "business_registration_number": "5108100073",
+      "address": "경상북도 김천시 평화동 245-96",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "054-433-8300",
+      "fax": "504-433-8303",
+      "industry_code": "64131",
+      "established_date": "19721220",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7831,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:46.888Z",
+      "usage_event_id": "5ced4544-4e33-4b0f-926b-6dc48618b090"
+    }
+  }
+}

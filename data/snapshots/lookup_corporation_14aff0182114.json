@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00134820"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00134820",
+      "corp_name": "세화섬유 주식회사",
+      "corp_name_en": "Sehwatextile Co.,Ltd.",
+      "stock_name": "세화섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "곽태환",
+      "corporate_registration_number": "1301110008739",
+      "business_registration_number": "1348104671",
+      "address": "경기도 안산시 초지동 624-4",
+      "homepage": "www.saehwatx.co.kr",
+      "ir_url": null,
+      "phone": "031-494-4141",
+      "fax": "031-491-2334",
+      "industry_code": "13403",
+      "established_date": "19850302",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7737,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:55.327Z",
+      "usage_event_id": "82964e1d-57d4-4a47-b26e-d9cf38fd226e"
+    }
+  }
+}

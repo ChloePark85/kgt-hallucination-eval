@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01061327"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:06+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01061327",
+      "corp_name": "(주)클래시스",
+      "corp_name_en": "CLASSYS Inc.",
+      "stock_name": "클래시스",
+      "stock_code": "214150",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "Jun-oh Yoon",
+      "corporate_registration_number": "1101115618355",
+      "business_registration_number": "1078839288",
+      "address": "서울특별시 강남구 테헤란로 208 클래시스",
+      "homepage": "classys.co.kr",
+      "ir_url": null,
+      "phone": "02-1544-3481",
+      "fax": "02-6008-3457",
+      "industry_code": "271",
+      "established_date": "20150115",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7924,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:06.419Z",
+      "usage_event_id": "787b6753-96da-4977-a2b9-e7bbfbeb4303"
+    }
+  }
+}

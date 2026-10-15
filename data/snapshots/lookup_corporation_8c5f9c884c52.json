@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00193221"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:23+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00193221",
+      "corp_name": "주식회사삼희산업",
+      "corp_name_en": null,
+      "stock_name": "삼희산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박영호",
+      "corporate_registration_number": "1101110298607",
+      "business_registration_number": "1188102875",
+      "address": "서울특별시 금천구 독산동 152-6",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "3281-3232",
+      "fax": "3281-3238",
+      "industry_code": "41112",
+      "established_date": "19810901",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7611,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:23.521Z",
+      "usage_event_id": "ad92f0e0-f905-40ef-a8c8-336afe91faac"
+    }
+  }
+}

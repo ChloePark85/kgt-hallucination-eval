@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00168191"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:49+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00168191",
+      "corp_name": "주식회사 고려식품",
+      "corp_name_en": "KOREA FOOD Co.,LTD.",
+      "stock_name": "고려식품",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "구자연",
+      "corporate_registration_number": "1911110001970",
+      "business_registration_number": "6138101968",
+      "address": "경상남도 진주시 상평동 55-40",
+      "homepage": "korea-food.com",
+      "ir_url": null,
+      "phone": "055-752-1911",
+      "fax": "055-752-1915",
+      "industry_code": "1030",
+      "established_date": "19830701",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7659,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:49.805Z",
+      "usage_event_id": "2173da48-380f-48e2-b3f4-4bfa86610057"
+    }
+  }
+}

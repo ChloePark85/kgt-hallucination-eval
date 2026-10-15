@@ -1,0 +1,49 @@
+{
+  "tool": "apartment_trade_prices",
+  "args": {
+    "lawd_code": "28185",
+    "deal_month": "202509",
+    "per_page": 1
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:32:14+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 371,
+      "source": "국토교통부 아파트 매매 실거래가 (data.go.kr)",
+      "results": [
+        {
+          "dong": "동춘동",
+          "floor": 3,
+          "jibun": "1148-1",
+          "canceled": false,
+          "deal_date": "2025-09-24",
+          "deal_type": "직거래",
+          "road_name": null,
+          "build_year": 2019,
+          "buyer_type": "개인",
+          "seller_type": "법인",
+          "sigungu_code": "28185",
+          "canceled_date": null,
+          "apartment_name": "연수서해그랑블5단지",
+          "deal_amount_krw": 347000000,
+          "deal_amount_raw": "34,700",
+          "exclusive_area_m2": 59.715
+        }
+      ],
+      "lawd_code": "28185",
+      "deal_month": "202509"
+    },
+    "meta": {
+      "tool": "apartment_trade_prices",
+      "cost": 1,
+      "balance_remaining": 2591,
+      "cache_hit": true,
+      "source": "국토교통부 (data.go.kr)",
+      "fetched_at": "2026-10-15T00:32:14.243Z",
+      "usage_event_id": "d9bbcda0-1f04-4d22-9069-7c7b8d4b1bb5"
+    }
+  }
+}

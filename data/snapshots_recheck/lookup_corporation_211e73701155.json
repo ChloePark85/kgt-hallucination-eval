@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00989619"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:30:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "042-384-8770",
+      "phone": "042-384-8780",
+      "ir_url": null,
+      "market": "KOSDAQ",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "대전광역시 유성구 유성대로1628번길 62 (전민동 461-38번지)",
+      "ceo_name": "전태연",
+      "homepage": "www.alteogen.com",
+      "corp_code": "00989619",
+      "corp_name": "(주)알테오젠",
+      "market_raw": "K",
+      "stock_code": "196170",
+      "stock_name": "알테오젠",
+      "corp_name_en": "Alteogen Inc.",
+      "industry_code": "70113",
+      "established_date": "20080513",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "3148197965",
+      "corporate_registration_number": "1601110242050"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 2662,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-15T00:30:45.150Z",
+      "usage_event_id": "a476351d-d5b3-4ad3-a6e0-21e41faaffe9"
+    }
+  }
+}

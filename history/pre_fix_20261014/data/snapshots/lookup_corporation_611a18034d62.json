@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00580171"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00580171",
+      "corp_name": "오성섬유공업(주)",
+      "corp_name_en": "O-SUNG TEXTILE CO.,LTD",
+      "stock_name": "오성섬유공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "백창욱",
+      "corporate_registration_number": "1350110030713",
+      "business_registration_number": "1348101941",
+      "address": "경기도 안산시 단원구 초지동 625-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-491-6391",
+      "fax": null,
+      "industry_code": "13402",
+      "established_date": "19890101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7104,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:28.389Z",
+      "usage_event_id": "1a50bcd6-aa79-4fe2-b1e0-2c9dcf9f3954"
+    }
+  }
+}

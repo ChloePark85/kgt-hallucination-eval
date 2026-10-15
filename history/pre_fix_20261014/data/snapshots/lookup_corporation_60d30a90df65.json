@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00309901"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00309901",
+      "corp_name": "보만전자(주)",
+      "corp_name_en": "Boman Electronics corp",
+      "stock_name": "보만전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이준용",
+      "corporate_registration_number": "1101110385090",
+      "business_registration_number": "1308127099",
+      "address": "경기도 부천시 소사구 송내동 50-15",
+      "homepage": "www.boman.co.kr",
+      "ir_url": null,
+      "phone": "032-655-6661",
+      "fax": "032-655-6663",
+      "industry_code": "2629",
+      "established_date": "19841120",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7397,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:53.572Z",
+      "usage_event_id": "ed162c3a-bb23-4e2c-badd-c0f109c969ec"
+    }
+  }
+}

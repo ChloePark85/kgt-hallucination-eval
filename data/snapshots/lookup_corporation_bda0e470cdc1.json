@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00113526"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:54+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-2656-8169",
+      "phone": "02-2656-7114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 강서구 하늘길 260",
+      "ceo_name": "조원태, 우기홍",
+      "homepage": "www.koreanair.com",
+      "corp_code": "00113526",
+      "corp_name": "(주)대한항공",
+      "market_raw": "Y",
+      "stock_code": "003490",
+      "stock_name": "대한항공",
+      "corp_name_en": "KOREAN AIR LINES CO.,LTD",
+      "industry_code": "511",
+      "established_date": "19620619",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1108114794",
+      "corporate_registration_number": "1101110108484"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6624,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:25:54.192Z",
+      "usage_event_id": "fae1da20-7c63-41df-bd96-f979120e8d7e"
+    }
+  }
+}

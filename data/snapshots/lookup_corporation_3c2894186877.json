@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00209708"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00209708",
+      "corp_name": "남계섬유주식회사",
+      "corp_name_en": "Nam Gye Textile Co., Ltd.",
+      "stock_name": "남계섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신홍식",
+      "corporate_registration_number": "1701110047333",
+      "business_registration_number": "5038113416",
+      "address": "대구광역시 달서구 신당동 1184-4",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "053.583.0241",
+      "fax": "053.583.0240",
+      "industry_code": "13403",
+      "established_date": "19901120",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7567,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:53.870Z",
+      "usage_event_id": "53d56066-fe56-4e5e-b57e-d1f4d191d33c"
+    }
+  }
+}

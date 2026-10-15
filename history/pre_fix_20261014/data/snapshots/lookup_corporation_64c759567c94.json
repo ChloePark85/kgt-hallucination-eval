@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00877059"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00877059",
+      "corp_name": "삼성바이오로직스(주)",
+      "corp_name_en": "SAMSUNG BIOLOGICS CO.,LTD.",
+      "stock_name": "삼성바이오로직스",
+      "stock_code": "207940",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "임존종보 (Rim John Chongbo)",
+      "corporate_registration_number": "1201110566317",
+      "business_registration_number": "1318627632",
+      "address": "인천광역시 연수구 송도바이오대로 300",
+      "homepage": "www.samsungbiologics.com",
+      "ir_url": null,
+      "phone": "032-455-3114",
+      "fax": "032-455-3825",
+      "industry_code": "211",
+      "established_date": "20110422",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7961,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:16.448Z",
+      "usage_event_id": "b32e098c-9479-4c51-ad6d-5bfa7df76478"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00128032"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00128032",
+      "corp_name": "삼일제약(주)",
+      "corp_name_en": "SAMIL PHARMACEUTICAL CO.,LTD",
+      "stock_name": "삼일제약",
+      "stock_code": "000520",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "허승범",
+      "corporate_registration_number": "1101110016679",
+      "business_registration_number": "1148116848",
+      "address": "서울특별시 서초구  효령로 155 (방배동, 삼일제약 사옥)",
+      "homepage": "www.samil-pharm.com",
+      "ir_url": null,
+      "phone": "02-520-0300",
+      "fax": "588-0988",
+      "industry_code": "212",
+      "established_date": "19471007",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7753,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:43.463Z",
+      "usage_event_id": "55d107a5-dbb0-4e96-bdcd-cf8c21fcdae1"
+    }
+  }
+}

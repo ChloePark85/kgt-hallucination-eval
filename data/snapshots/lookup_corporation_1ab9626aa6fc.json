@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00265078"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00265078",
+      "corp_name": "(주)유니텍전자",
+      "corp_name_en": "UNITECH ELECTRONICS CO. LTD",
+      "stock_name": "유니텍전자",
+      "stock_code": "039040",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "도 성 호",
+      "corporate_registration_number": "1101110853170",
+      "business_registration_number": "1068138972",
+      "address": "서울특별시 용산구 원효로 3가 53-5 ",
+      "homepage": "www.unitec.co.kr",
+      "ir_url": null,
+      "phone": "02  -3271-7397",
+      "fax": "02  -3271-7821",
+      "industry_code": "4659",
+      "established_date": "19920423",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7435,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:27.106Z",
+      "usage_event_id": "8833bc73-02e3-47b8-8db8-a4c4d4edc3cf"
+    }
+  }
+}

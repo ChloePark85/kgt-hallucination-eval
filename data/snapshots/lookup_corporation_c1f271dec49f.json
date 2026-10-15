@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01770203"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:47+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01770203",
+      "corp_name": "조선내화 주식회사",
+      "corp_name_en": "Chosun Refractories Co., Ltd.",
+      "stock_name": "조선내화",
+      "stock_code": "462520",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "최광철",
+      "corporate_registration_number": "2046110071943",
+      "business_registration_number": "2848102978",
+      "address": "전라남도 광양시 산업로 55",
+      "homepage": "www.chosunref.co.kr",
+      "ir_url": null,
+      "phone": "061-798-8114",
+      "fax": null,
+      "industry_code": "2321",
+      "established_date": "20230704",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 6994,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:47.528Z",
+      "usage_event_id": "ac07bdcd-8abb-42bf-ab27-2a6f32009815"
+    }
+  }
+}

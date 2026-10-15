@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00170512"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:51+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00170512",
+      "corp_name": "우신레저산업 주식회사",
+      "corp_name_en": "WOOSHIN REISURE INDUSTRIAL CO.,LTD",
+      "stock_name": "우신레저산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "심 상 훈",
+      "corporate_registration_number": "1101110294093",
+      "business_registration_number": "2148100160",
+      "address": "서울특별시 서초구 서초동 1355-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3473-2471",
+      "fax": "02-3473-2470",
+      "industry_code": "68112",
+      "established_date": "19810517",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7657,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:51.193Z",
+      "usage_event_id": "898e5aeb-e661-495e-b3fb-047b40959653"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "조선",
+    "limit": 30
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00231442",
+          "corp_name": "디지틀조선",
+          "stock_code": "033130",
+          "listed": true,
+          "modified_date": "20221026"
+        },
+        {
+          "corp_code": "00796994",
+          "corp_name": "조선선재",
+          "stock_code": "120030",
+          "listed": true,
+          "modified_date": "20230727"
+        },
+        {
+          "corp_code": "01770203",
+          "corp_name": "조선내화",
+          "stock_code": "462520",
+          "listed": true,
+          "modified_date": "20241206"
+        },
+        {
+          "corp_code": "00109453",
+          "corp_name": "케이조선",
+          "stock_code": "067250",
+          "listed": true,
+          "modified_date": "20250328"
+        },
+        {
+          "corp_code": "00110307",
+          "corp_name": "대선조선",
+          "stock_code": "031990",
+          "listed": true,
+          "modified_date": "20260330"
+        },
+        {
+          "corp_code": "00164830",
+          "corp_name": "HD한국조선해양",
+          "stock_code": "009540",
+          "listed": true,
+          "modified_date": "20260401"
+        },
+        {
+          "corp_code": "00182696",
+          "corp_name": "대한조선",
+          "stock_code": "439260",
+          "listed": true,
+          "modified_date": "20260420"
+        },
+        {
+          "corp_code": "00291532",
+          "corp_name": "대우조선공업(가칭)",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00425528",
+          "corp_name": "부산유조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00362618",
+          "corp_name": "용성조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00231008",
+          "corp_name": "경인조선공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00102317",
+          "corp_name": "경주조선호텔",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00756127",
+          "corp_name": "대우조선해양상조",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00568285",
+          "corp_name": "SPP해양조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00836681",
+          "corp_name": "에스더블유조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00234643",
+          "corp_name": "삼호조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00626570",
+          "corp_name": "진세조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00107367",
+          "corp_name": "남성조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00409098",
+          "corp_name": "녹봉조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00627463",
+          "corp_name": "신우조선해양공업",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00371704",
+          "corp_name": "조선해운",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00452726",
+          "corp_name": "경주조선호텔",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00764320",
+          "corp_name": "지오고성조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00664118",
+          "corp_name": "지오해양조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00206075",
+          "corp_name": "일흥조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00480765",
+          "corp_name": "21세기조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00810285",
+          "corp_name": "여수해양조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00988115",
+          "corp_name": "남양조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00968777",
+          "corp_name": "동해조선",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        },
+        {
+          "corp_code": "00769130",
+          "corp_name": "대우조선해양이엔알",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7880,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:08:58.306Z",
+      "usage_event_id": "b566e9ae-10ff-43f0-a6eb-b0c4c664a8ac"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00324894"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:15:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00324894",
+      "corp_name": "반도전자 주식회사",
+      "corp_name_en": "Bando Electronic Co., Ltd",
+      "stock_name": "반도전자",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "양승태",
+      "corporate_registration_number": "1101110785406",
+      "business_registration_number": "1098146184",
+      "address": "서울특별시 강서구 염창동 280-6",
+      "homepage": "www.ban-do.co.kr",
+      "ir_url": null,
+      "phone": "3665-5757",
+      "fax": "3663-7134",
+      "industry_code": "2642",
+      "established_date": "19910622",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7383,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:15:03.254Z",
+      "usage_event_id": "cdae1402-3945-48aa-a944-eac2d56f6f2f"
+    }
+  }
+}

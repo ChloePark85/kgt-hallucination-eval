@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00126414"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:37+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00126414",
+      "corp_name": "삼성제약(주)",
+      "corp_name_en": "SAMSUNG PHARMACEUTICAL.CO.,Ltd.",
+      "stock_name": "삼성제약",
+      "stock_code": "001360",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "정성택 대표이사",
+      "corporate_registration_number": "1101110032568",
+      "business_registration_number": "2078100726",
+      "address": "경기도 화성시 향남읍 제약공단4길 10 -",
+      "homepage": "www.sspharm.co.kr",
+      "ir_url": null,
+      "phone": "031-353-6681",
+      "fax": "031-8016-2179",
+      "industry_code": "212",
+      "established_date": "19290815",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7761,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:37.498Z",
+      "usage_event_id": "128689e8-3ea5-4a8c-a7a1-3924f1b697a4"
+    }
+  }
+}

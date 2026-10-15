@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00206048"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:38+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00206048",
+      "corp_name": "서양물산 주식회사",
+      "corp_name_en": "SEO YANG MOOL SAN",
+      "stock_name": "서양물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이승태",
+      "corporate_registration_number": "1801110133065",
+      "business_registration_number": "6038117556",
+      "address": "부산광역시 서구 충무동1가 34-4",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "051-254-5200~3",
+      "fax": "051-244-3725",
+      "industry_code": "03111",
+      "established_date": "19920922",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7589,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:38.608Z",
+      "usage_event_id": "12481f11-01ea-4060-a506-32088f356717"
+    }
+  }
+}

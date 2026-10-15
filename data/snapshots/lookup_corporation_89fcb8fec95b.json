@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00234087"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00234087",
+      "corp_name": "남광섬유주식회사",
+      "corp_name_en": "NAMKWANG TEXTILE CO.LTD",
+      "stock_name": "남광섬유",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이원직",
+      "corporate_registration_number": "1801110160224",
+      "business_registration_number": "6038128655",
+      "address": "부산광역시 사하구 신평동 657-1",
+      "homepage": "해당사항없슴",
+      "ir_url": null,
+      "phone": "051-293-7133",
+      "fax": "051-202-1971",
+      "industry_code": "13212",
+      "established_date": "19940714",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7519,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:28.335Z",
+      "usage_event_id": "1412c745-b15f-47c4-be4e-d46d5991236b"
+    }
+  }
+}

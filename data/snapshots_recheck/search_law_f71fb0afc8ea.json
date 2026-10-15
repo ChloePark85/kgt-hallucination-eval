@@ -1,0 +1,84 @@
+{
+  "tool": "search_law",
+  "args": {
+    "query": "아동복지법",
+    "per_page": 50
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-15T09:34:35+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "page": 1,
+      "total": 4,
+      "source": "법제처 국가법령정보 (law.go.kr)",
+      "results": [
+        {
+          "name": "아동복지법",
+          "law_id": "000190",
+          "law_type": "법률",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290207&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290207",
+          "revision_type": "일부개정",
+          "promulgation_no": "22022",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20260929"
+        },
+        {
+          "name": "아동복지법 시행령",
+          "law_id": "004124",
+          "law_type": "대통령령",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=288363&type=HTML&mobileYn=&efYd=20260804",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "288363",
+          "revision_type": "일부개정",
+          "promulgation_no": "36558",
+          "enforcement_date": "20260804",
+          "promulgation_date": "20260804"
+        },
+        {
+          "name": "아동복지법 시행규칙",
+          "law_id": "007661",
+          "law_type": "보건복지부령",
+          "ministry": "보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=290953&type=HTML&mobileYn=&efYd=20261002",
+          "is_current": true,
+          "short_name": null,
+          "law_serial_no": "290953",
+          "revision_type": "타법개정",
+          "promulgation_no": "01203",
+          "enforcement_date": "20261002",
+          "promulgation_date": "20261002"
+        },
+        {
+          "name": "장애아동 복지지원법",
+          "law_id": "011443",
+          "law_type": "법률",
+          "ministry": "교육부,보건복지부",
+          "detail_url": "https://www.law.go.kr/DRF/lawService.do?OC=REDACTED&target=law&MST=267353&type=HTML&mobileYn=&efYd=20251221",
+          "is_current": true,
+          "short_name": "장애아동복지법",
+          "law_serial_no": "267353",
+          "revision_type": "일부개정",
+          "promulgation_no": "20564",
+          "enforcement_date": "20251221",
+          "promulgation_date": "20241220"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_law",
+      "cost": 1,
+      "balance_remaining": 2493,
+      "cache_hit": true,
+      "source": "법제처 (law.go.kr)",
+      "fetched_at": "2026-10-15T00:34:35.549Z",
+      "usage_event_id": "ca5bed97-5550-4c22-a8b2-9684cfdd15d7"
+    }
+  }
+}

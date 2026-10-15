@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00427951"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:03+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00427951",
+      "corp_name": "넥센 캐피탈",
+      "corp_name_en": "Nexgen Capital Ltd.",
+      "stock_name": "넥센캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "Frank Monks",
+      "corporate_registration_number": "",
+      "business_registration_number": "13182",
+      "address": "25/28 North Wall Quay, Intl Financial Services Centre, Dublin 1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "7244-677",
+      "fax": "734-6849",
+      "industry_code": "64999",
+      "established_date": "20001212",
+      "fiscal_year_end_month": "01"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7215,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:03.305Z",
+      "usage_event_id": "62edf032-8599-472f-a767-303caf7c4725"
+    }
+  }
+}

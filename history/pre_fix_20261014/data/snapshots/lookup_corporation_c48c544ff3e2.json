@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00123772"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:26+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00123772",
+      "corp_name": "부국증권(주)",
+      "corp_name_en": "BOOKOOK SECURITIES CO.,LTD",
+      "stock_name": "부국증권",
+      "stock_code": "001270",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "박현철",
+      "corporate_registration_number": "1101110031510",
+      "business_registration_number": "1168108723",
+      "address": "서울 영등포구 여의도동 34-2",
+      "homepage": "www.bookook.co.kr",
+      "ir_url": null,
+      "phone": "02-368-9200",
+      "fax": "368-9293",
+      "industry_code": "66121",
+      "established_date": "19540825",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7775,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:26.810Z",
+      "usage_event_id": "37ad25b7-67db-4bed-a3d5-ca248e6f3e1e"
+    }
+  }
+}

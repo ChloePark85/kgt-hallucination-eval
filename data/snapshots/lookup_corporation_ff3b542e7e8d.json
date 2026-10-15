@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00452267"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:58+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00452267",
+      "corp_name": "아이산업개발주식회사",
+      "corp_name_en": "Invest Deveiopment.co.ltd",
+      "stock_name": "아이산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이평택",
+      "corporate_registration_number": "1201110002171",
+      "business_registration_number": "1288167079",
+      "address": "경기도 수원시 장안구 조원동 752-18 5층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "031-242-4500",
+      "fax": "031-242-4501",
+      "industry_code": "68122",
+      "established_date": "20020201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7145,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:57.964Z",
+      "usage_event_id": "c3c304a7-af6c-4723-82c6-cb192bc5d0a8"
+    }
+  }
+}

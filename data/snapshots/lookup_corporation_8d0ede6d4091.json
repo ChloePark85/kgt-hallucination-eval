@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00431608"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00431608",
+      "corp_name": "싱가포르개발은행",
+      "corp_name_en": "The Development Bank of Singapore, Singapore",
+      "stock_name": "싱가포르개발은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "S. Dhanabalan",
+      "corporate_registration_number": "",
+      "business_registration_number": "12199",
+      "address": "서울특별시 중구 태평로1가 광화문빌딩 20층",
+      "homepage": "www.dbs.com",
+      "ir_url": null,
+      "phone": "822-399-2666",
+      "fax": "822-732-7953",
+      "industry_code": "64122",
+      "established_date": "19680716",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7207,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:08.802Z",
+      "usage_event_id": "28b31e9e-e81a-4850-8405-b3e4abaca139"
+    }
+  }
+}

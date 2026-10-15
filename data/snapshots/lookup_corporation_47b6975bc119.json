@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00210740"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00210740",
+      "corp_name": "대화제약(주)",
+      "corp_name_en": "DAE HWA PHARM CO., LTD",
+      "stock_name": "대화제약",
+      "stock_code": "067080",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "김은석(단독대표)",
+      "corporate_registration_number": "2111110001529",
+      "business_registration_number": "1338122322",
+      "address": "강원도 횡성군  횡성읍 한우로 495",
+      "homepage": "www.dhpharm.co.kr",
+      "ir_url": null,
+      "phone": "02-586-6451",
+      "fax": "02)587-0566",
+      "industry_code": "212",
+      "established_date": "19890119",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7565,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:55.211Z",
+      "usage_event_id": "8433ca11-9748-4d27-90c6-7d04a9588979"
+    }
+  }
+}

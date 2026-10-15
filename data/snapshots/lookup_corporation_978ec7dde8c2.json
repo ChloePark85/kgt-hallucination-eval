@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00568285"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:25+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00568285",
+      "corp_name": "SPP해양조선주식회사",
+      "corp_name_en": "SPP Plant & Shipbuilding Co. Ltd",
+      "stock_name": "SPP해양조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "곽한정",
+      "corporate_registration_number": "1954110012050",
+      "business_registration_number": "6138138903",
+      "address": "경상남도 사천시 사남면 초전리 1988",
+      "homepage": "www.sppplantship.co.kr",
+      "ir_url": null,
+      "phone": "055-851-0331",
+      "fax": "055-851-0396",
+      "industry_code": "3111",
+      "established_date": "20051007",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7108,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:25.663Z",
+      "usage_event_id": "e7266c43-2139-4a2c-9d90-41801ee85264"
+    }
+  }
+}

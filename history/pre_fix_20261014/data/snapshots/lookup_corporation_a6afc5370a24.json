@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246240"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00246240",
+      "corp_name": "동명해운주식회사",
+      "corp_name_en": "Dong myung shipping Co., Ltd",
+      "stock_name": "동명해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "정종만",
+      "corporate_registration_number": "1101110332223",
+      "business_registration_number": "2208122612",
+      "address": "서울특별시 서초구 서초동 1332-2",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3473-8191",
+      "fax": "02-3474-7491",
+      "industry_code": "50130",
+      "established_date": "19830212",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7495,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:44.975Z",
+      "usage_event_id": "a7daddd6-d00e-43b2-8a71-aa16e94c3a47"
+    }
+  }
+}

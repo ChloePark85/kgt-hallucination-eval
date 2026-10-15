@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00448112"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00448112",
+      "corp_name": "(주)종연산업",
+      "corp_name_en": "Jong Yeoun Industry",
+      "stock_name": "종연산업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "박대식",
+      "corporate_registration_number": "1747110009634",
+      "business_registration_number": "5058119250",
+      "address": "경상북도 영천시 도남동 214-1",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "054.337.6632",
+      "fax": "054.337.6625",
+      "industry_code": "38210",
+      "established_date": "19991130",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7165,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:42.626Z",
+      "usage_event_id": "c44881ab-2e4b-43db-9cc1-7483df5c4d86"
+    }
+  }
+}

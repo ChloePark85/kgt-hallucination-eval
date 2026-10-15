@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00125406"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00125406",
+      "corp_name": "삼도물산(주)",
+      "corp_name_en": "SAMDO CORPORATION",
+      "stock_name": "삼도물산",
+      "stock_code": "002930",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김용석",
+      "corporate_registration_number": "1101110004864",
+      "business_registration_number": "1108124064",
+      "address": "서울특별시 관악구 신림동 10-634 삼도빌딩",
+      "homepage": "http;//www.samdo.co.kr",
+      "ir_url": null,
+      "phone": "02-3782-3103",
+      "fax": "02-752-2345/6",
+      "industry_code": "46413",
+      "established_date": "19600416",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7769,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:30.953Z",
+      "usage_event_id": "cbf9fff4-fb80-434e-8bd0-6b36cd89be8a"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01160363"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01160363",
+      "corp_name": "(주)에코프로비엠",
+      "corp_name_en": "ECOPRO BM CO.,LTD.",
+      "stock_name": "에코프로비엠",
+      "stock_code": "247540",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "각자 대표이사 최문호, 김장우",
+      "corporate_registration_number": "1501110219184",
+      "business_registration_number": "6388600376",
+      "address": "충청북도 청주시 청원구 오창읍 2산단로 100 송대리 329",
+      "homepage": "www.ecoprobm.co.kr",
+      "ir_url": null,
+      "phone": "043-240-7700",
+      "fax": "043-218-7771",
+      "industry_code": "28202",
+      "established_date": "20160502",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7937,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:45.386Z",
+      "usage_event_id": "9cd4796f-5c82-441f-8682-6ae8ec055ce7"
+    }
+  }
+}

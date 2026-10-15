@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00409919"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:27+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00409919",
+      "corp_name": "주식회사 에프앤디물산",
+      "corp_name_en": "fnd co., ltd.",
+      "stock_name": "에프앤디물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이창희",
+      "corporate_registration_number": "1101112078726",
+      "business_registration_number": "2048153243",
+      "address": "서울특별시 동대문구 답십리동 497-67",
+      "homepage": "www.freen.co.kr",
+      "ir_url": null,
+      "phone": "02-2246-5425",
+      "fax": "02-2246-5429",
+      "industry_code": "46800",
+      "established_date": "20000928",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7267,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:27.138Z",
+      "usage_event_id": "8aad590e-2e82-470b-a511-46e84869e0b5"
+    }
+  }
+}

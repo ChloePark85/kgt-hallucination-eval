@@ -1,0 +1,21 @@
+{
+  "model": "gemma4:12b",
+  "digest": "c7597fc90b86aff6965317f37dd5465402284e26382d9b4bf2dfe3ef1491f4b6",
+  "details": {
+    "parent_model": "",
+    "format": "safetensors",
+    "family": "gemma4_unified",
+    "families": null,
+    "parameter_size": "12.4B",
+    "quantization_level": "nvfp4",
+    "runner": "mlx"
+  },
+  "capabilities": [
+    "completion",
+    "vision",
+    "audio",
+    "tools",
+    "thinking"
+  ],
+  "recorded_at": "2026-10-15T09:27:41+0900"
+}

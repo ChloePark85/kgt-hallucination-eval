@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00769130"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:57+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00769130",
+      "corp_name": "대우조선해양이엔알(주)",
+      "corp_name_en": "DSME E&R Ltd.",
+      "stock_name": "대우조선해양이엔알",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김진석",
+      "corporate_registration_number": "1949110008175",
+      "business_registration_number": "6128113326",
+      "address": "서울특별시 중구 다동 85 대우조선해양빌딩 4층",
+      "homepage": "www.dsmeenr.co.kr",
+      "ir_url": null,
+      "phone": "02)3455-6062",
+      "fax": "02)3455-6099",
+      "industry_code": "72923",
+      "established_date": "20010406",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7064,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:57.322Z",
+      "usage_event_id": "99c6dee9-f7ac-4385-b54a-3d263b643f12"
+    }
+  }
+}

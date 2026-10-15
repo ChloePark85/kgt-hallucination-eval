@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00454052"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:18:01+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00454052",
+      "corp_name": "우림산업개발(주)",
+      "corp_name_en": "WOOLIM Industrial development.co.Ltd",
+      "stock_name": "우림산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "심영섭",
+      "corporate_registration_number": "1345110048428",
+      "business_registration_number": "1358145165",
+      "address": "경기도 용인시 기흥읍 신갈리 42-21",
+      "homepage": "WOOLIM.CO.KR",
+      "ir_url": null,
+      "phone": "02)3488-6000",
+      "fax": "02)3488-4114",
+      "industry_code": "41112",
+      "established_date": "20010401",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7141,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:18:01.155Z",
+      "usage_event_id": "6066c7c7-64b9-4c61-ad61-70f777f5151f"
+    }
+  }
+}

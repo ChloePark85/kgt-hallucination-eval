@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00450287"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:53+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00450287",
+      "corp_name": "정방종합건설(주)",
+      "corp_name_en": null,
+      "stock_name": "정방종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "목정석",
+      "corporate_registration_number": "1201110040543",
+      "business_registration_number": "1378105494",
+      "address": "인천광역시 서구 연희동 696 정방빌딩 2층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-566-6087",
+      "fax": "032-566-6088",
+      "industry_code": "68122",
+      "established_date": "19870410",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7151,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:53.373Z",
+      "usage_event_id": "81309205-4f66-4115-ad25-221f04e3904b"
+    }
+  }
+}

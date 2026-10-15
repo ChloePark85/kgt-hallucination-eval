@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00149318"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:11:17+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00149318",
+      "corp_name": "(주)조흥종합건설",
+      "corp_name_en": "Chheung construction co.,ltd",
+      "stock_name": "조흥종합건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "임민석",
+      "corporate_registration_number": "1101110421232",
+      "business_registration_number": "1318112153",
+      "address": "인천광역시 남구 용현5동 624-57",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-887-5500",
+      "fax": "032-885-4577",
+      "industry_code": "4111",
+      "established_date": "19860320",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7705,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:11:17.365Z",
+      "usage_event_id": "aa768144-677a-4ed4-823c-de224882f531"
+    }
+  }
+}

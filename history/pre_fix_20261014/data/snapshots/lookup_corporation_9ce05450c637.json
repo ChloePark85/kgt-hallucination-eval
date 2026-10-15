@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00309497"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:52+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00309497",
+      "corp_name": "경우물산",
+      "corp_name_en": null,
+      "stock_name": "경우물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김충섭",
+      "corporate_registration_number": "1101111505069",
+      "business_registration_number": "2078152944",
+      "address": "서울특별시 구로 개봉 415",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "2611-3300",
+      "fax": "2617-0945",
+      "industry_code": "68112",
+      "established_date": "19980119",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7399,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:52.195Z",
+      "usage_event_id": "ae46c012-0827-4700-92b3-4e225ec3fb7d"
+    }
+  }
+}

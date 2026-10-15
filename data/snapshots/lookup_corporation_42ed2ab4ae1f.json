@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01167056"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:43+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01167056",
+      "corp_name": "샘표식품(주)",
+      "corp_name_en": "SEMPIO FOODS COMPANY",
+      "stock_name": "샘표식품",
+      "stock_code": "248170",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "박진선",
+      "corporate_registration_number": "1101116110045",
+      "business_registration_number": "4468700473",
+      "address": "서울특별시 중구 충무로 2 8층 (필동1가, 매일경제빌딩)",
+      "homepage": "www.sempio.com",
+      "ir_url": null,
+      "phone": "02-3393-5500",
+      "fax": "02-2279-9516",
+      "industry_code": "108",
+      "established_date": "20160704",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7000,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:43.336Z",
+      "usage_event_id": "b44b32f4-d75d-49fd-8581-60a11e60db16"
+    }
+  }
+}

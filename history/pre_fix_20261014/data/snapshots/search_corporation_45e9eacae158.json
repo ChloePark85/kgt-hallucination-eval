@@ -1,0 +1,40 @@
+{
+  "tool": "search_corporation",
+  "args": {
+    "name": "휴젤",
+    "limit": 10
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:16+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr) corpCode 목록 (로컬 캐시)",
+      "results": [
+        {
+          "corp_code": "00888347",
+          "corp_name": "휴젤",
+          "stock_code": "145020",
+          "listed": true,
+          "modified_date": "20250917"
+        },
+        {
+          "corp_code": "00963985",
+          "corp_name": "휴젤파마",
+          "stock_code": null,
+          "listed": false,
+          "modified_date": "20170630"
+        }
+      ]
+    },
+    "meta": {
+      "tool": "search_corporation",
+      "cost": 1,
+      "balance_remaining": 7917,
+      "cache_hit": false,
+      "source": "DART corpCode",
+      "fetched_at": "2026-10-12T17:08:16.208Z",
+      "usage_event_id": "1df1e264-c17f-439f-9d7c-af5b2d3b7476"
+    }
+  }
+}

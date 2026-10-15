@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00416043"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00416043",
+      "corp_name": "(주)창영물산",
+      "corp_name_en": "CHANG YOUNG CO.,LTD",
+      "stock_name": "창영물산",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김 창 우",
+      "corporate_registration_number": "1101110660442",
+      "business_registration_number": "1068122960",
+      "address": "서울특별시 용산구 갈월동 2-5 갑을빌딩2층",
+      "homepage": "wwwmchangyoung.com",
+      "ir_url": null,
+      "phone": "02-778-6277",
+      "fax": "02-753-9992",
+      "industry_code": "46463",
+      "established_date": "19891201",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7241,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:45.082Z",
+      "usage_event_id": "d0ae6c9f-5afe-4703-9427-648c5b4416dc"
+    }
+  }
+}

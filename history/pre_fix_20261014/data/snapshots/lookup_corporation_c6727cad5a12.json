@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00115038"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:10:08+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00115038",
+      "corp_name": "하나IB증권 주식회사",
+      "corp_name_en": "Hana Investment Banking & Securities Inc.",
+      "stock_name": "하나IB증권",
+      "stock_code": "003330",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이찬근",
+      "corporate_registration_number": "1101110038673",
+      "business_registration_number": "1168103029",
+      "address": "서울특별시 영등포구 여의도동 하나증권빌딩 23-3",
+      "homepage": "www.hanaib.com",
+      "ir_url": null,
+      "phone": "02-3771-3000",
+      "fax": "3771-3020",
+      "industry_code": "66121",
+      "established_date": "19620207",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7801,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:10:07.925Z",
+      "usage_event_id": "bcc66611-c08e-45df-89fe-5704099061e0"
+    }
+  }
+}

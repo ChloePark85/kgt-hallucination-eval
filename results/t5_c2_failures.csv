@@ -1,0 +1,10 @@
+﻿model,failure,count
+gemma4:12b,misread,9
+gemma4:12b,no_tool_call,2
+gemma4:12b,retrieval_miss,28
+gemma4:12b,tool_error,9
+gemma4:26b,misread,11
+gemma4:26b,retrieval_miss,10
+gemma4:26b,tool_error,5
+qwen3.8:27b,misread,15
+qwen3.8:27b,retrieval_miss,11

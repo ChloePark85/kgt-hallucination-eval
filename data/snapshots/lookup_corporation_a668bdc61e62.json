@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00836681"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:18+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00836681",
+      "corp_name": "에스더블유조선주식회사",
+      "corp_name_en": "sw.co",
+      "stock_name": "에스더블유조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "김상균",
+      "corporate_registration_number": "2054110014558",
+      "business_registration_number": "4118152764",
+      "address": "전라남도 영암군 삼호읍 난전리 대불공단 1697-3",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "061-462-9677",
+      "fax": "061-462-9679",
+      "industry_code": "31114",
+      "established_date": "20080101",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7036,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:18.204Z",
+      "usage_event_id": "af6b21d0-fc22-4ec6-8027-df3c75cdbd32"
+    }
+  }
+}

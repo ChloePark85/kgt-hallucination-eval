@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00437532"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:19+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00437532",
+      "corp_name": "(주)개풍주택개발",
+      "corp_name_en": null,
+      "stock_name": "개풍주택개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이준희",
+      "corporate_registration_number": "1101110280430",
+      "business_registration_number": "1058117805",
+      "address": "서울특별시 마포구 성산동 38-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02)2272-3021",
+      "fax": null,
+      "industry_code": "68121",
+      "established_date": "19820402",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7191,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:19.862Z",
+      "usage_event_id": "9eb62f6b-6086-4b6d-a5bb-ed8799839e76"
+    }
+  }
+}

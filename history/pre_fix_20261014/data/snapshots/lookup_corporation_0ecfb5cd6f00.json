@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00450986"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:17:55+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00450986",
+      "corp_name": "미도산업개발(주)",
+      "corp_name_en": "MI DO INDUSTRIAL CO., LTD.",
+      "stock_name": "미도산업개발",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "윤만녀",
+      "corporate_registration_number": "1351110061328",
+      "business_registration_number": "1238180330",
+      "address": "경기도 과천시 별양동 1-13 제일쇼핑 408",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-3679-5400",
+      "fax": null,
+      "industry_code": "41112",
+      "established_date": "20020624",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7149,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:17:55.176Z",
+      "usage_event_id": "dee1e24f-c4a7-4807-8402-b55baa722f8a"
+    }
+  }
+}

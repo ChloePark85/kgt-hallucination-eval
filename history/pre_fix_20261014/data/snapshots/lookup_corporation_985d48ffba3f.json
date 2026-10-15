@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00202990"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:12:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00202990",
+      "corp_name": "대도물산공업(주)",
+      "corp_name_en": "DAEDO IND CO., LTD",
+      "stock_name": "대도물산공업",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이  정  관",
+      "corporate_registration_number": "1101110570948",
+      "business_registration_number": "1398112424",
+      "address": "인천광역시 남동구 남촌동 621-10",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "032-812-4201",
+      "fax": "032-812-7745",
+      "industry_code": "20",
+      "established_date": "19880415",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7595,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:12:34.456Z",
+      "usage_event_id": "1c9011ae-1634-4ce8-ab29-1928214afd8e"
+    }
+  }
+}

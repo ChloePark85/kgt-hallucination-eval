@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00106641"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-14T11:25:29+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "fax": "02-3464-6813",
+      "phone": "02-3464-1114",
+      "ir_url": null,
+      "market": "KOSPI",
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "address": "서울특별시 서초구 헌릉로 12 기아자동차",
+      "ceo_name": "송호성, 송민수(각자 대표이사)",
+      "homepage": "www.kia.co.kr",
+      "corp_code": "00106641",
+      "corp_name": "기아(주)",
+      "market_raw": "Y",
+      "stock_code": "000270",
+      "stock_name": "기아",
+      "corp_name_en": "KIA CORPORATION",
+      "industry_code": "30121",
+      "established_date": "19441210",
+      "fiscal_year_end_month": "12",
+      "business_registration_number": "1198102316",
+      "corporate_registration_number": "1101110037998"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 1,
+      "balance_remaining": 6640,
+      "cache_hit": true,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-14T02:25:29.574Z",
+      "usage_event_id": "19aa6bf4-8527-4b80-863e-cbc5a018152e"
+    }
+  }
+}

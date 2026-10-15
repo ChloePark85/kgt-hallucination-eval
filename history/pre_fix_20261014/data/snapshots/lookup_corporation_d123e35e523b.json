@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00319218"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:59+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00319218",
+      "corp_name": "삼호해운주식회사",
+      "corp_name_en": "SAMHO SHIPPING CO.LTD",
+      "stock_name": "삼호해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신 용 주",
+      "corporate_registration_number": "1801110122589",
+      "business_registration_number": "6048130926",
+      "address": "부산광역시 중구 중앙동4가 36-14번지 반도빌딩7층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "051-441-1237/9",
+      "fax": "051-465-5697",
+      "industry_code": "50112",
+      "established_date": "19920127",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7389,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:59.040Z",
+      "usage_event_id": "1e761aee-3897-41af-ac1e-a081ba048e27"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00102043"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:30+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00102043",
+      "corp_name": "(주)경은저축은행",
+      "corp_name_en": "kyungeun mutual saving & finance",
+      "stock_name": "경은저축은행",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "안태수",
+      "corporate_registration_number": "1901110002911",
+      "business_registration_number": "6088101194",
+      "address": "울산광역시 남구 삼산동 1479-5 w-center301호",
+      "homepage": "www.kebank.co.kr",
+      "ir_url": null,
+      "phone": "052-269-0957",
+      "fax": "052-269-0935",
+      "industry_code": "64911",
+      "established_date": "19741220",
+      "fiscal_year_end_month": "06"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7853,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:30.226Z",
+      "usage_event_id": "58e0955f-9c81-4b2f-93fd-a23cba0c2476"
+    }
+  }
+}

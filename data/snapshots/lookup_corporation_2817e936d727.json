@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00278319"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:32+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00278319",
+      "corp_name": "코리아캐피탈(주)",
+      "corp_name_en": "Korea Capital Co.,Ltd.",
+      "stock_name": "코리아캐피탈",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "조태준",
+      "corporate_registration_number": "1101111639553",
+      "business_registration_number": "1168171551",
+      "address": "서울특별시 강남구 역삼동 826-20 중앙종금빌딩 16층",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "(02)3466-3010",
+      "fax": "(02)3466-3013",
+      "industry_code": "64999",
+      "established_date": "19990115",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7427,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:32.619Z",
+      "usage_event_id": "e56f4d09-f819-4895-82ff-7ebb9012b4bc"
+    }
+  }
+}

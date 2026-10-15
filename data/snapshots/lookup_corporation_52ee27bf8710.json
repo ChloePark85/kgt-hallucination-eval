@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00104856"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:09:45+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00104856",
+      "corp_name": "삼성증권(주)",
+      "corp_name_en": "SAMSUNG SECURITIES CO.,LTD",
+      "stock_name": "삼성증권",
+      "stock_code": "016360",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "박종문",
+      "corporate_registration_number": "1101110335649",
+      "business_registration_number": "2028148588",
+      "address": "서울특별시 서초구 서초대로74길 11 (서초동)",
+      "homepage": "www.samsungpop.com",
+      "ir_url": null,
+      "phone": "02-2020-8000",
+      "fax": "02)2020-8077",
+      "industry_code": "66121",
+      "established_date": "19821019",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7833,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:09:45.241Z",
+      "usage_event_id": "f2a67b76-fc53-4967-b1c4-6a6466559aee"
+    }
+  }
+}

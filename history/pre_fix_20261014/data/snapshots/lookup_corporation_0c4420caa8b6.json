@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00369657"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:08:28+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00369657",
+      "corp_name": "리노공업(주)",
+      "corp_name_en": "LEENO Industrial Inc",
+      "stock_name": "리노공업",
+      "stock_code": "058470",
+      "market": "KOSDAQ",
+      "market_raw": "K",
+      "ceo_name": "이채윤",
+      "corporate_registration_number": "1801110220664",
+      "business_registration_number": "6038129824",
+      "address": "부산광역시 강서구 미음산단로105번길 10",
+      "homepage": "leeno.com/kr",
+      "ir_url": null,
+      "phone": "051-831-3232",
+      "fax": "051-831-3233",
+      "industry_code": "2629",
+      "established_date": "19961220",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7906,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:08:28.174Z",
+      "usage_event_id": "8605d1a2-615a-4184-9664-e53266d1de91"
+    }
+  }
+}

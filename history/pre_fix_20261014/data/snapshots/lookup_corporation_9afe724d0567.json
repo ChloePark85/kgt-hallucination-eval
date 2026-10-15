@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00234643"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:31+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00234643",
+      "corp_name": "삼호조선(주)",
+      "corp_name_en": "Samho Shipbuilding Co,.Ltd.",
+      "stock_name": "삼호조선",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "최순매",
+      "corporate_registration_number": "1912110003433",
+      "business_registration_number": "6128104680",
+      "address": "경상남도 통영시 도남동 459-6번지",
+      "homepage": "samhoshipyard.com",
+      "ir_url": null,
+      "phone": "055-641-2646",
+      "fax": "055-641-2647",
+      "industry_code": "3111",
+      "established_date": "19940615",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7515,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:31.073Z",
+      "usage_event_id": "73c19a5d-5041-4ae7-892f-e590900bbc2e"
+    }
+  }
+}

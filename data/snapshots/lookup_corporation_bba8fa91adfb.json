@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00262831"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:14:20+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00262831",
+      "corp_name": "광륜상사 주식회사",
+      "corp_name_en": "KWANG RYUN & CO., LTD",
+      "stock_name": "광륜상사",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "신황균",
+      "corporate_registration_number": "1101110434748",
+      "business_registration_number": "1198100282",
+      "address": "서울특별시 금천구 독산동 288-1",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-858-4100",
+      "fax": "02-858-4104",
+      "industry_code": "1721",
+      "established_date": "19860812",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7445,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:14:20.082Z",
+      "usage_event_id": "40819a34-a5b3-42ee-aa44-69ca49f78e80"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00246480"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:13:46+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00246480",
+      "corp_name": "이조해운주식회사",
+      "corp_name_en": "ijo shipping co., ltd",
+      "stock_name": "이조해운",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "이학수",
+      "corporate_registration_number": "1101110705522",
+      "business_registration_number": "2208106102",
+      "address": "서울특별시 강남구 역삼동 831-30 이조빌딩",
+      "homepage": null,
+      "ir_url": null,
+      "phone": "02-569-6606",
+      "fax": "02-563-0830",
+      "industry_code": "50112",
+      "established_date": "19900619",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7493,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:13:46.492Z",
+      "usage_event_id": "3992b58e-5ac9-4d1a-b7b3-debc1465c284"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00413134"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:16:34+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00413134",
+      "corp_name": "주식회사 타오건설",
+      "corp_name_en": "TAO CONSTRUCTION CO.,LTD",
+      "stock_name": "타오건설",
+      "stock_code": null,
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "한정우",
+      "corporate_registration_number": "1159110050775",
+      "business_registration_number": "1288157232",
+      "address": "경기도 고양시 덕양구 주교동 603-13",
+      "homepage": "없음",
+      "ir_url": null,
+      "phone": "031)969-8307",
+      "fax": "031)969-8309",
+      "industry_code": "41210",
+      "established_date": "20010322",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7257,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:16:34.094Z",
+      "usage_event_id": "aac127fe-4bb8-4cac-ba85-8797ddf20bc1"
+    }
+  }
+}

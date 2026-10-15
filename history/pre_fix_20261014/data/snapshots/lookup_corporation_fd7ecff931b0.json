@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "00382199"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:07:24+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "00382199",
+      "corp_name": "(주)신한금융지주회사",
+      "corp_name_en": "SHINHAN FINANCIAL GROUP CO.,LTD",
+      "stock_name": "신한지주",
+      "stock_code": "055550",
+      "market": "KOSPI",
+      "market_raw": "Y",
+      "ceo_name": "진옥동",
+      "corporate_registration_number": "1101112322438",
+      "business_registration_number": "1048164625",
+      "address": "서울특별시 중구 세종대로9길 20 태평로2가",
+      "homepage": "www.shinhangroup.com",
+      "ir_url": null,
+      "phone": "02-6360-3000",
+      "fax": "02-6360-3098",
+      "industry_code": "64992",
+      "established_date": "20010901",
+      "fiscal_year_end_month": "12"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7955,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:07:24.348Z",
+      "usage_event_id": "e7a059a4-0ec7-43ee-8524-0576159335c6"
+    }
+  }
+}

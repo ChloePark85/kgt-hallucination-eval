@@ -1,0 +1,41 @@
+{
+  "tool": "lookup_corporation",
+  "args": {
+    "corp_code": "01090921"
+  },
+  "http_status": 200,
+  "fetched_at": "2026-10-13T02:19:42+0900",
+  "response": {
+    "ok": true,
+    "data": {
+      "source": "금융감독원 DART (opendart.fss.or.kr)",
+      "corp_code": "01090921",
+      "corp_name": "케이엠제약(주)",
+      "corp_name_en": "KM PHARMACY CO.,LTD.",
+      "stock_name": "케이엠제약",
+      "stock_code": "237720",
+      "market": "unlisted",
+      "market_raw": "E",
+      "ceo_name": "강일모",
+      "corporate_registration_number": "1101112201799",
+      "business_registration_number": "1088129222",
+      "address": "경기도 평택시 포승읍 평택항로268번길 121",
+      "homepage": "www.kmkmp.com",
+      "ir_url": null,
+      "phone": "02-3477-8422",
+      "fax": "02-3477-8423",
+      "industry_code": "20422",
+      "established_date": "20010601",
+      "fiscal_year_end_month": "03"
+    },
+    "meta": {
+      "tool": "lookup_corporation",
+      "cost": 2,
+      "balance_remaining": 7002,
+      "cache_hit": false,
+      "source": "DART (opendart.fss.or.kr)",
+      "fetched_at": "2026-10-12T17:19:41.884Z",
+      "usage_event_id": "e8b19c8e-1fcf-4c36-a883-115555e2725c"
+    }
+  }
+}
