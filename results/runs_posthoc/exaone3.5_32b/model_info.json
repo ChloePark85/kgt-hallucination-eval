@@ -1,0 +1,18 @@
+{
+  "model": "exaone3.5:32b",
+  "digest": "f2f69abac3dadd89fb740b06e78a529baf0295d70b7a96b48c6bb9061a7e247b",
+  "details": {
+    "parent_model": "",
+    "format": "gguf",
+    "family": "exaone",
+    "families": [
+      "exaone"
+    ],
+    "parameter_size": "32.0B",
+    "quantization_level": "Q4_K_M"
+  },
+  "capabilities": [
+    "completion"
+  ],
+  "recorded_at": "2026-10-29T12:33:37+0900"
+}

@@ -106,3 +106,4 @@ qwen3.8:27b 1회차(C0·C2 각 200문항)의 C2 오답을 확인하다 정답과
 
 - `code/analyze_revision.py`: 수정 기록 1 이전의 채점 규칙과 정답(`history/pre_fix_20261014/`)으로 3,600건을 다시 채점해 최종 결과와 비교하고, C2 실패 유형을 영역·최종 응답별로 집계한다. 결과는 `results/revision.md`.
 - EXAONE 추가 실험(심사위원 요청, 결과를 보기 전에 기록): EXAONE 3.5 32B(Ollama 태그 exaone3.5:32b)를 기존과 같은 문항·지시문(날짜 문장 포함)·설정으로 C0만 3회 실행한다. EXAONE 3.5의 Ollama 템플릿은 도구 호출을 지원하지 않고, 도구 호출을 지원하는 EXAONE 4.0은 Ollama 공식 모델이 아니어서 C2는 실행하지 않는다. 분석은 RQ1(도구 없을 때의 기권·오답 양상)에 한한다. 정답은 2026-10-13~14 기준이므로 실험 직후 `build_items.py --recheck`로 다시 조회하고, 값이 바뀐 문항은 따로 표시해 포함·제외 결과를 함께 보고한다. 이 결과는 사전 등록 모델 3종과 구분해 사후 분석으로 보고한다.
+- 2026-10-29: EXAONE 3.5 32B C0 3회(600건)를 계획대로 실행했다(맥미니, Ollama, exaone3.5:32b, digest f2f69abac3da, GGUF Q4_K_M). 사전 등록 결과에 섞이지 않도록 응답은 `results/runs_posthoc/`에 두고 `code/analyze_exaone.py`로 같은 채점 규칙을 적용했다. 결과는 `results/exaone.md`. 정답 재조회는 하지 않았다.
